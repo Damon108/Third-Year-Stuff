@@ -23,4 +23,14 @@ public class Particle {
 	public void savePB(double cPos) {
 		pbPos = cPos;
 	}
+	
+	public void savecPos(double cPos) {
+		this.cPos = cPos;
+	}
+	
+
+	public double getcPos() {
+		//System.out.println("pb is : " +pbPos);
+		return cPos;
+	}
 }
