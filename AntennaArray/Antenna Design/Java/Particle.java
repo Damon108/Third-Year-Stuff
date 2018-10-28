@@ -16,7 +16,7 @@ public class Particle {
 	}
 
 	public double getPB() {
-		System.out.println(pbPos);
+		System.out.println("pb is : " +pbPos);
 		return pbPos;
 	}
 
