@@ -102,10 +102,11 @@ public class Main {
 	 * Personal Best pbPos = cPos; } System.out.println("Personal Best is : " +
 	 * pbPos); } bestFound = true; } while (!bestFound);
 	 * 
-	 * System.out.println("Global Best is : " + globalBest); return globalBest; }
+	 * System.out.println("Global Best is : " + globalBest); return globalBest;
+	 * }
 	 * 
-	 * private double[] PSOsolution() { // Initialise Population for particle swarm
-	 * int population = 3;
+	 * private double[] PSOsolution() { // Initialise Population for particle
+	 * swarm int population = 3;
 	 * 
 	 * // Represent the problem through an array. double[] solution1 = new
 	 * double[3];
@@ -119,18 +120,19 @@ public class Main {
 	 * 
 	 * // Initialise Global best value double globalBest = 0;
 	 * 
-	 * // set Personal best to current best double pbPos = 0; int counter = 0; do {
+	 * // set Personal best to current best double pbPos = 0; int counter = 0;
+	 * do {
 	 * 
 	 * if (pbPos < globalBest)
 	 * 
 	 * for (int i = 0; i < population; i++ /* p : arrayParticle ) {
 	 * System.out.println(".");
 	 * 
-	 * // Set random position for the particle's current position // to a // temp
-	 * variable double TcPos = rnd.nextDouble();
+	 * // Set random position for the particle's current position // to a //
+	 * temp variable double TcPos = rnd.nextDouble();
 	 * 
-	 * // Set current Position to equals the temp position double cPos = TcPos; //
-	 * Check current Position is in feasible region if
+	 * // Set current Position to equals the temp position double cPos = TcPos;
+	 * // Check current Position is in feasible region if
 	 * (!checkParticlePosition(cPos)) { // reset the current Position if its not
 	 * cPos = rnd.nextDouble() * (1.25 - 0.25) + 0.25;
 	 * 
@@ -140,8 +142,8 @@ public class Main {
 	 * 
 	 * if (cPos < pbPos) { pbPos = cPos; }
 	 * 
-	 * // counter++; solution1[2] = 1.5; System.out.println("particle number " + i +
-	 * "solution " + array.evaluate(solution1)); } bestFound = true;
+	 * // counter++; solution1[2] = 1.5; System.out.println("particle number " +
+	 * i + "solution " + array.evaluate(solution1)); } bestFound = true;
 	 * 
 	 * } while (!bestFound);
 	 * 
@@ -180,8 +182,8 @@ public class Main {
 			// update globalBest
 
 			/*
-			 * for (int o = 0; o < population; o++) { if (globalBest < particles[o].getPB())
-			 * { globalBest = particles[o].getPB(); } }
+			 * for (int o = 0; o < population; o++) { if (globalBest <
+			 * particles[o].getPB()) { globalBest = particles[o].getPB(); } }
 			 */
 
 			for (Particle p : particles) {
@@ -365,7 +367,7 @@ public class Main {
 		double cPos = rnd.nextDouble() * (1.25 - 0.25) + 0.25;
 		double TempPoint = rnd.nextDouble() * (1.25 - 0.25) + 0.25;
 		double globalBest = 0;
-		int population = 500;
+		int population = 50;
 		double[] antArray = new double[3];
 		Particle[] particles = new Particle[population];
 		double[] SSLValues = new double[population];
@@ -394,13 +396,12 @@ public class Main {
 				cPos = cPos + velocity;
 				if (cPos < 0.25 || cPos > 1.25) {
 					do {
-						
-					
-					r1 = rnd.nextInt(2);
-					r2 = rnd.nextInt(2);
-					 velocity = 0.721 * velocity + 1.1193 * r1 * (pbPos - cPos) + 1.1193 * r2 * (globalBest - cPos);
-					 cPos = cPos + velocity;
-					}while(cPos <0.25 || cPos>1.25);
+
+						r1 = rnd.nextInt(2);
+						r2 = rnd.nextInt(2);
+						velocity = 0.721 * velocity + 1.1193 * r1 * (pbPos - cPos) + 1.1193 * r2 * (globalBest - cPos);
+						cPos = cPos + velocity;
+					} while (cPos < 0.25 || cPos > 1.25);
 				}
 				p.savecPos(cPos);
 
@@ -414,40 +415,44 @@ public class Main {
 					System.out.println(SSLValue);
 					SSLValues[counter] = SSLValue;
 
-					// for (int j = 0; j < SSLValues.length - 1; j++) {
+					double tempPersonalBest = 0;
+					for (int j = 0; j < SSLValues.length - 1; j++) {
+						tempPersonalBest = SSLValues[0];
+						// if (j == 2) {
 
-					// if (j == 2) {
+						// System.out.println("Do something");
+						// } else {
 
-					// System.out.println("Do something");
-					// } else {
+						if (SSLValues[j] < tempPersonalBest) {
+							// if (p.getcPos() < p.getPB()) {
+							tempPersonalBest = SSLValues[j];
+							pbPos = cPos;
 
-					// if (SSLValues[j] < SSLValues[j + 1]) {
-					if (p.getcPos() < p.getPB()) {
-						pbPos = cPos;
+							p.savePB(pbPos);
+							System.out.println(p.getPB());
 
-						p.savePB(pbPos);
-						System.out.println(p.getPB());
+							// index = getGlobalBestIndex(SSLValues);
+							// globalBest = particles[index].getPB();
+							// }
 
-						// index = getGlobalBestIndex(SSLValues);
-						// globalBest = particles[index].getPB();
-						// }
-
-						index = getGlobalBestIndex(SSLValues);
-						// globalBest = particles[index].getPB();
-						globalBest = p.getPB();
+							index = getGlobalBestIndex(SSLValues);
+							// globalBest = particles[index].getPB();
+							globalBest = p.getPB();
+						}
 					}
-					// }
 					// index = getGlobalBestIndex(SSLValues);
 					// globalBest = particles[index].getPB();
 					// }else {
 					System.out.println("Nope just no");
-					// velocity = 0.721 * velocity + 1.1193 * r1 * (pbPos - cPos) + 1.1193 * r2 *
+					// velocity = 0.721 * velocity + 1.1193 * r1 * (pbPos -
+					// cPos) + 1.1193 * r2 *
 					// (globalBest - cPos);
 
 					// cPos = cPos + velocity;
 				}
 
-				// System.out.println("SSLVALUE " +SSLValues[counter] + " " + SSLValues[1]);
+				// System.out.println("SSLVALUE " +SSLValues[counter] + " " +
+				// SSLValues[1]);
 
 				// if (cPos < pbPos) {
 
@@ -457,7 +462,7 @@ public class Main {
 			}
 
 		} while (!bestSolutionFound);
-		// globalBest = particles[index].getPB();
+		globalBest = particles[index].getPB();
 		System.out.println("GBEST IS : " + globalBest);
 	}
 }
