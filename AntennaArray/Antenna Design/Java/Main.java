@@ -67,8 +67,8 @@ public class Main {
 
 	// -Initialisation of the particle values must be random-
 	// Velocity is the difference between the pbPos and Cpos halved
-	private Particle ConstructParticle(double velocity, double cPos, double pbPos) {
-		Particle particle = new Particle(velocity, cPos, pbPos);
+	private Particle ConstructParticle(double velocity, double cPos, double pbPos, double SSLValue) {
+		Particle particle = new Particle(velocity, cPos, pbPos, SSLValue);
 		return particle;
 	}
 
@@ -215,7 +215,7 @@ public class Main {
 						// System.out.println(cPos);
 						pbPos = cPos;
 						System.out.println("WORK" + particles[counter].getPB());
-						globalBest = getGlobalBest(particles);
+						//globalBest = getGlobalBest(particles);
 
 					}
 				}
@@ -365,7 +365,7 @@ public class Main {
 		double cPos = rnd.nextDouble() * (1.25 - 0.25) + 0.25;
 		double TempPoint = rnd.nextDouble() * (1.25 - 0.25) + 0.25;
 		double globalBest = 0;
-		int population = 500;
+		int population = 10;
 		double[] antArray = new double[3];
 		Particle[] particles = new Particle[population];
 		double[] SSLValues = new double[population];
@@ -375,7 +375,7 @@ public class Main {
 		antArray[0] = cPos;
 		int index = 0;
 		for (int i = 0; i < population; i++) {
-			particles[i] = ConstructParticle(velocity, cPos, pbPos);
+			particles[i] = ConstructParticle(velocity, cPos, pbPos,SSLValue);
 
 		}
 		int counter = 0;
@@ -413,6 +413,7 @@ public class Main {
 					SSLValue = array.evaluate(antArray);
 					System.out.println(SSLValue);
 					SSLValues[counter] = SSLValue;
+					p.saveSSLValue(SSLValue);
 
 					// for (int j = 0; j < SSLValues.length - 1; j++) {
 
@@ -422,34 +423,34 @@ public class Main {
 					// } else {
 
 					// if (SSLValues[j] < SSLValues[j + 1]) {
-					if (p.getcPos() < p.getPB()) {
+					//for(int j = 0 ; j < particles.length; j++) {
+						//double tempSSLvalue = particles[0].getSSLValue();
+						//if(particles[j].getSSLValue() < tempSSLvalue ) {
+						//	tempSSLvalue = particles[j].getSSLValue();
+						//}
+						
+					
+				}
+					//if (p.getcPos() < p.getPB()) {
+				for(int j = 0 ; j < particles.length; j++) {
+					
+				}
 						pbPos = cPos;
 
 						p.savePB(pbPos);
 						System.out.println(p.getPB());
 
-						// index = getGlobalBestIndex(SSLValues);
-						// globalBest = particles[index].getPB();
-						// }
+						
 
 						index = getGlobalBestIndex(SSLValues);
-						// globalBest = particles[index].getPB();
+						
 						globalBest = p.getPB();
-					}
-					// }
-					// index = getGlobalBestIndex(SSLValues);
-					// globalBest = particles[index].getPB();
-					// }else {
+					
 					System.out.println("Nope just no");
-					// velocity = 0.721 * velocity + 1.1193 * r1 * (pbPos - cPos) + 1.1193 * r2 *
-					// (globalBest - cPos);
+				
+			//	}
 
-					// cPos = cPos + velocity;
-				}
-
-				// System.out.println("SSLVALUE " +SSLValues[counter] + " " + SSLValues[1]);
-
-				// if (cPos < pbPos) {
+				
 
 				counter++;
 
