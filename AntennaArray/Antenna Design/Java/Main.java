@@ -1,3 +1,4 @@
+import java.util.Arrays;
 import java.util.Random;
 
 public class Main {
@@ -19,9 +20,12 @@ public class Main {
 	public void run() {
 		// generateSolution();
 		// PSOSolution();
+
 		// PSOsolution();
 		// PsoSolution3();
-		PSOsolution4();
+		//
+		// PSOsolution4();
+		PsoSolution5();
 
 	}
 
@@ -67,8 +71,8 @@ public class Main {
 
 	// -Initialisation of the particle values must be random-
 	// Velocity is the difference between the pbPos and Cpos halved
-	private Particle ConstructParticle(double velocity, double cPos, double pbPos, double SSLValue) {
-		Particle particle = new Particle(velocity, cPos, pbPos, SSLValue);
+	private Particle ConstructParticle(double velocity, double cPos, double pbPos) {
+		Particle particle = new Particle(velocity, cPos, pbPos);
 		return particle;
 	}
 
@@ -102,11 +106,10 @@ public class Main {
 	 * Personal Best pbPos = cPos; } System.out.println("Personal Best is : " +
 	 * pbPos); } bestFound = true; } while (!bestFound);
 	 * 
-	 * System.out.println("Global Best is : " + globalBest); return globalBest;
-	 * }
+	 * System.out.println("Global Best is : " + globalBest); return globalBest; }
 	 * 
-	 * private double[] PSOsolution() { // Initialise Population for particle
-	 * swarm int population = 3;
+	 * private double[] PSOsolution() { // Initialise Population for particle swarm
+	 * int population = 3;
 	 * 
 	 * // Represent the problem through an array. double[] solution1 = new
 	 * double[3];
@@ -120,19 +123,18 @@ public class Main {
 	 * 
 	 * // Initialise Global best value double globalBest = 0;
 	 * 
-	 * // set Personal best to current best double pbPos = 0; int counter = 0;
-	 * do {
+	 * // set Personal best to current best double pbPos = 0; int counter = 0; do {
 	 * 
 	 * if (pbPos < globalBest)
 	 * 
 	 * for (int i = 0; i < population; i++ /* p : arrayParticle ) {
 	 * System.out.println(".");
 	 * 
-	 * // Set random position for the particle's current position // to a //
-	 * temp variable double TcPos = rnd.nextDouble();
+	 * // Set random position for the particle's current position // to a // temp
+	 * variable double TcPos = rnd.nextDouble();
 	 * 
-	 * // Set current Position to equals the temp position double cPos = TcPos;
-	 * // Check current Position is in feasible region if
+	 * // Set current Position to equals the temp position double cPos = TcPos; //
+	 * Check current Position is in feasible region if
 	 * (!checkParticlePosition(cPos)) { // reset the current Position if its not
 	 * cPos = rnd.nextDouble() * (1.25 - 0.25) + 0.25;
 	 * 
@@ -142,8 +144,8 @@ public class Main {
 	 * 
 	 * if (cPos < pbPos) { pbPos = cPos; }
 	 * 
-	 * // counter++; solution1[2] = 1.5; System.out.println("particle number " +
-	 * i + "solution " + array.evaluate(solution1)); } bestFound = true;
+	 * // counter++; solution1[2] = 1.5; System.out.println("particle number " + i +
+	 * "solution " + array.evaluate(solution1)); } bestFound = true;
 	 * 
 	 * } while (!bestFound);
 	 * 
@@ -182,8 +184,8 @@ public class Main {
 			// update globalBest
 
 			/*
-			 * for (int o = 0; o < population; o++) { if (globalBest <
-			 * particles[o].getPB()) { globalBest = particles[o].getPB(); } }
+			 * for (int o = 0; o < population; o++) { if (globalBest < particles[o].getPB())
+			 * { globalBest = particles[o].getPB(); } }
 			 */
 
 			for (Particle p : particles) {
@@ -217,7 +219,7 @@ public class Main {
 						// System.out.println(cPos);
 						pbPos = cPos;
 						System.out.println("WORK" + particles[counter].getPB());
-						//globalBest = getGlobalBest(particles);
+						// globalBest = getGlobalBest(particles);
 
 					}
 				}
@@ -243,6 +245,22 @@ public class Main {
 		}
 
 		return index;
+	}
+
+	public double getLowestSSL(double[] SSLValues) {
+
+		double lowestVal = SSLValues[0];
+		Arrays.sort(SSLValues);
+
+		for (int i = 0; i < SSLValues.length; i++) {
+			// System.out.println("SSL Values : " + i + " " + personalBests[i]);
+			if (SSLValues[i] < lowestVal && SSLValues[i] != 0) {
+				lowestVal = SSLValues[i];
+
+			}
+		}
+
+		return lowestVal;
 	}
 
 	private void PSOsolution2() {
@@ -367,11 +385,9 @@ public class Main {
 		double cPos = rnd.nextDouble() * (1.25 - 0.25) + 0.25;
 		double TempPoint = rnd.nextDouble() * (1.25 - 0.25) + 0.25;
 		double globalBest = 0;
-<<<<<<< HEAD
+
 		int population = 10;
-=======
-		int population = 50;
->>>>>>> 4f205a79e915838a3deb0faf18d29c69ae7acd0b
+
 		double[] antArray = new double[3];
 		Particle[] particles = new Particle[population];
 		double[] SSLValues = new double[population];
@@ -382,7 +398,7 @@ public class Main {
 		int index = 0;
 
 		for (int i = 0; i < population; i++) {
-			particles[i] = ConstructParticle(velocity, cPos, pbPos,SSLValue);
+			particles[i] = ConstructParticle(velocity, cPos, pbPos);
 
 		}
 
@@ -398,8 +414,10 @@ public class Main {
 				double cogAttrac2 = /* globalBest - cPos */2;
 
 				velocity = 0.721 * velocity + 1.1193 * r1 * (pbPos - cPos) + 1.1193 * r2 * (globalBest - cPos);
+				p.setVelocity(velocity);
 
 				cPos = cPos + velocity;
+
 				if (cPos < 0.25 || cPos > 1.25) {
 					do {
 
@@ -407,6 +425,7 @@ public class Main {
 						r2 = rnd.nextInt(2);
 						velocity = 0.721 * velocity + 1.1193 * r1 * (pbPos - cPos) + 1.1193 * r2 * (globalBest - cPos);
 						cPos = cPos + velocity;
+						p.setVelocity(velocity);
 					} while (cPos < 0.25 || cPos > 1.25);
 				}
 				p.savecPos(cPos);
@@ -424,95 +443,63 @@ public class Main {
 					SSLValue = array.evaluate(antArray);
 					System.out.println(SSLValue);
 					SSLValues[counter] = SSLValue;
-					p.saveSSLValue(SSLValue);
+					// p.saveSSLValue(SSLValue);
 
 					double minima = 0.85;
 					double cPosD = p.getcPos() - minima;
+					cPosD = Math.sqrt((cPosD * cPosD));
+
 					double pbPosD = p.getPB() - minima;
+					pbPosD = Math.sqrt((pbPosD * pbPosD));
 
 					double tempPersonalBest = 0;
 					tempPersonalBest = SSLValues[0];
 
 					for (int j = 0; j < SSLValues.length; j++) {
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-					// System.out.println("Do something");
-					// } else {
-
-					// if (SSLValues[j] < SSLValues[j + 1]) {
-					//for(int j = 0 ; j < particles.length; j++) {
-						//double tempSSLvalue = particles[0].getSSLValue();
-						//if(particles[j].getSSLValue() < tempSSLvalue ) {
-						//	tempSSLvalue = particles[j].getSSLValue();
-						//}
-						
-					
-				}
-					//if (p.getcPos() < p.getPB()) {
-				for(int j = 0 ; j < particles.length; j++) {
-					
-				}
-						pbPos = cPos;
-=======
 						if (SSLValues[j] < tempPersonalBest) {
-							// if (p.getcPos() < p.getPB()) {
+
 							tempPersonalBest = SSLValues[j];
-							pbPos = cPos;
->>>>>>> 4f205a79e915838a3deb0faf18d29c69ae7acd0b
 
-=======
-						if (cPosD <= pbPosD) {
-							pbPos = cPos;
->>>>>>> bad100ddeb0b2547748fddade55763608a9cac8b
-							p.savePB(pbPos);
-							System.out.println(p.getPB());
-							if (SSLValues[j] < tempPersonalBest) {
+							if (cPosD <= pbPosD) {
+								pbPos = cPos;
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-						
+								p.savePB(pbPos);
+								System.out.println(p.getPB());
+								if (SSLValues[j] < tempPersonalBest) {
 
-						index = getGlobalBestIndex(SSLValues);
-						
-						globalBest = p.getPB();
-					
-					System.out.println("Nope just no");
-				
-			//	}
-=======
-							// index = getGlobalBestIndex(SSLValues);
-							// globalBest = particles[index].getPB();
-							// }
-=======
-								tempPersonalBest = SSLValues[j];
+									index = getGlobalBestIndex(SSLValues);
+
+									globalBest = particles[index].getPB();
+									System.out.println("Nope just no");
+
+								}
+
+								// index = getGlobalBestIndex(SSLValues);
+								// globalBest = particles[index].getPB();
+								// }
+
+								// tempPersonalBest = SSLValues[j];
 								// if (cPos < pbPos) {
-								//pbPos = cPos;
-								//p.savePB(pbPos);
-								//System.out.println(p.getPB());
+								// pbPos = cPos;
+								// p.savePB(pbPos);
+								// System.out.println(p.getPB());
+								// }
+							} else {
+								System.out.println("Personal best is the same	" + pbPos);
+
 							}
-						} else {
-							System.out.println("Personal best is the same	" + pbPos);
->>>>>>> bad100ddeb0b2547748fddade55763608a9cac8b
+							// }
 
 						}
-						// }
+
+						System.out.println("Nope just no");
 
 					}
-
-					System.out.println("Nope just no");
-
 				}
-
-<<<<<<< HEAD
 				// System.out.println("SSLVALUE " +SSLValues[counter] + " " +
 				// SSLValues[1]);
->>>>>>> 4f205a79e915838a3deb0faf18d29c69ae7acd0b
 
-				
-
-=======
->>>>>>> bad100ddeb0b2547748fddade55763608a9cac8b
 				counter++;
 
 				bestSolutionFound = true;
@@ -521,20 +508,126 @@ public class Main {
 		} while (!bestSolutionFound);
 		index = getGlobalBestIndex(SSLValues);
 		globalBest = particles[index].getPB();
+		SSLLoop(SSLValues);
 		// globalBest = particles[index].getPB();
-		lowestSSLValue(SSLValues);
+		getGlobalBestIndex(SSLValues);
 		System.out.println("GBEST IS : " + globalBest);
-		
+
 	}
 
-	public double lowestSSLValue(double[] SSLValue) {
-		double lowestVal = SSLValue[0];
-		for(int i = 0 ; i <SSLValue.length; i ++){
-			if(SSLValue[i] < lowestVal){
-				lowestVal = SSLValue[i];
+	public double getGlobalBest(Particle[] particles) {
+		double lowestVal = particles[0].getPB();
+		for (int i = 0; i < particles.length; i++) {
+			if (particles[i].getPB() < lowestVal) {
+				lowestVal = particles[i].getPB();
 			}
 		}
 		System.out.print(lowestVal);
 		return lowestVal;
+	}
+
+	private void PsoSolution5() {
+		System.out.println("DIGIMON");
+
+		boolean bestSolutionFound = false;
+		double cPos = rnd.nextDouble() * (1.25 - 0.25) + 0.25;
+		double TempPoint = rnd.nextDouble() * (1.25 - 0.25) + 0.25;
+		double globalBest = 0;
+
+		int population = 50;
+
+		double[] antArray = new double[3];
+		Particle[] particles = new Particle[population];
+		double[] SSLValues = new double[population];
+		double SSLValue = 0;
+		double pbPos = cPos;
+		double velocity = (TempPoint - cPos) / 2;
+		antArray[0] = cPos;
+
+		for (int i = 0; i < population; i++) {
+			particles[i] = ConstructParticle(velocity, cPos, pbPos);
+
+		}
+		int counter = 0;
+		do {
+for(int o = 0 ; o < particles.length; o++) {
+	
+}
+for(int pop = 0 ; pop <population;pop++) {
+			//globalBest = p.getPB();
+			
+			for (Particle p : particles) {
+				int r1 = rnd.nextInt(2);
+				int r2 = rnd.nextInt(2);
+				//globalBest = p.getPB();
+				velocity = 0.721 * velocity + 1.1193 * r1 * (pbPos - cPos) + 1.1193 * r2 * (globalBest - cPos);
+				p.setVelocity(velocity);
+
+				cPos = cPos + velocity;
+				p.savecPos(cPos);
+				p.savePB(pbPos);
+				
+				if (cPos < 0.25 || cPos > 1.25) {
+					do {
+
+						r1 = rnd.nextInt(2);
+						r2 = rnd.nextInt(2);
+						velocity = 0.721 * velocity + 1.1193 * r1 * (pbPos - cPos) + 1.1193 * r2 * (globalBest - cPos);
+						cPos = cPos + velocity;
+						p.setVelocity(velocity);
+						p.savecPos(cPos);
+					} while (cPos < 0.25 || cPos > 1.25);
+
+				}
+				antArray[1] = p.getcPos();
+
+				System.out.println("Position 0 " + antArray[0] + "position 1 " + antArray[1]);
+
+				antArray[2] = 1.5;
+
+				if (array.is_valid(antArray) == true) {
+					
+					
+					System.out.print("		valid solution------------------------------------------ ");
+					SSLValue = array.evaluate(antArray);
+					System.out.println("heyyyyyy " +SSLValue);
+					SSLValues[counter] = SSLValue;
+
+					// SSLValue = array.evaluate(antArray);
+					// SSLValues[counter] =SSLValue;
+					// System.out.println(SSLValue);
+
+					double minima = 0.85;
+					double cPosD = p.getcPos() - minima;
+					cPosD = Math.sqrt((cPosD * cPosD));
+
+					double pbPosD = p.getPB() - minima;
+					pbPosD = Math.sqrt((pbPosD * pbPosD));
+
+					
+					if (cPosD < pbPosD) {
+						pbPos = cPos;
+						p.savePB(pbPos);
+					}
+				}
+				counter++;
+			}
+			 }
+			bestSolutionFound =true;
+		} while (!bestSolutionFound);
+		double poo = getLowestSSL(SSLValues);
+		//double index = getGlobalBest(particles);
+		//globalBest = index;
+		SSLLoop(SSLValues);
+		
+		//globalBest = l;
+		System.out.println("LOWEST SSL VALUE IS... " + poo);
+		System.out.println("global bEST IS " + globalBest + "   ");
+	}
+
+	private void SSLLoop(double[] SSLValues) {
+		for (int i = 0; i < SSLValues.length; i++) {
+			System.out.println("------------------" + SSLValues[i] + "------------");
+		}
 	}
 }

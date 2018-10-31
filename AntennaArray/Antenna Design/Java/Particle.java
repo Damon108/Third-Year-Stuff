@@ -3,24 +3,27 @@ import java.util.Random;
 public class Particle {
 	private double velocity;
 	private double cPos;
+	private double tempPos;
 	private double pbPos;
 	private double SSLValue;
 
 	private Random rnd;
 
-	public Particle(double velocity, double cPos, double pbPos, double SSLValue) {
-
+	public Particle(double velocity, double cPos, double pbPos) {
 		this.velocity = velocity;
 		this.cPos = cPos;
 		this.pbPos = pbPos;
-		this.SSLValue = SSLValue;
+
+		
+
+	
 	}
 
 	public double getPB() {
 
 		System.out.println("pb is : " + pbPos);
 
-		//System.out.println("pb is : " +pbPos);
+		// System.out.println("pb is : " +pbPos);
 
 		return pbPos;
 	}
@@ -39,13 +42,20 @@ public class Particle {
 	}
 
 	public void saveSSLValue(double SSLValue) {
-	 this.SSLValue = SSLValue;
-	 }
+		this.SSLValue = SSLValue;
+	}
 
+	public double getSSLValue() {
+		// System.out.println("SSL is : " + SSLValue);
+		return SSLValue;
+	}
+
+	public double getVelocity() {
+		return velocity;
+	}
 	
-	 public double getSSLValue() { 
-		// System.out.println("SSL is : " + SSLValue); 
-	 return SSLValue; 
-	 }
-	 
+	public void setVelocity(double newVelocity) {
+		
+		velocity = newVelocity;
+	}
 }
