@@ -1,4 +1,3 @@
-package TSP;
 
 import java.io.BufferedReader;
 import java.io.FileInputStream;
@@ -14,7 +13,10 @@ public class TSPClass {
 	private String[][] weights;
 	private String[][] csvWeights;
 	// private ArrayList<String> route = new ArrayList<>();
-	ArrayList<float[]> cities = new ArrayList<float[]>();
+	static ArrayList<float[]> cities = new ArrayList<float[]>();
+	int pop = cities.size();
+	private float[] newRoute = new float[pop];
+	private float[] tempCities = new float[cities.size()];
 
 	public TSPClass() {
 		weights = new String[12][3];
@@ -73,12 +75,16 @@ public class TSPClass {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		TSPClass tsp = new TSPClass();
-		tsp.getCostOfRoute(tsp.generateRandomRoutes());
+		//tsp.getCostOfRoute(tsp.generateRandomRoutes());
 		tsp.readFile();
-		tsp.generateRandomRoutes();
+		//tsp.generateRandomRoutes();
 		// tsp.generateRandomRoutes();
 		// tsp.getCostOfRoute("DCBA");
-		tsp.getCostOfRoute2();
+		// tsp.generateRandomRoute(cities);
+		// tsp.generateRandomRoute(cities);
+		tsp.getCostOfRoute2(cities);
+		tsp.localSearch(cities);
+
 	}
 
 	public int getCostOfRoute(String path) {
@@ -211,7 +217,7 @@ public class TSPClass {
 
 		int counter = 0;
 		float[] rroute = new float[cities.size()];
-		
+
 		for (float[] route : cities) {
 			// Initialise array to arraylist Size
 			float[] troute = new float[size];
@@ -282,6 +288,7 @@ public class TSPClass {
 							Float.parseFloat(words[2]) };
 
 					cities.add(index0);
+
 					System.out.println("index 0 : " + index0[0] + "   " + "index 1 : " + index0[1] + "  " + "index 2 : "
 							+ index0[2]);
 				} catch (NumberFormatException e) {
@@ -308,7 +315,10 @@ public class TSPClass {
 
 	}
 
-	public float getCostOfRoute2() {
+	public float getCostOfRoute2(ArrayList<float[]> cities) {
+
+		// Collections.shuffle(cities);
+
 		// Xb-Xa^2 + yb-ya^2
 		float cost = 0;
 		// Loop thhrough cities arraylist
@@ -324,6 +334,7 @@ public class TSPClass {
 		float yDifference = 0;
 
 		int index = 0;
+
 		for (float[] element : cities) {
 			if (index == cities.size() - 1) {
 				System.out.println("poo");
@@ -357,11 +368,46 @@ public class TSPClass {
 
 			System.out.println(cost);
 			index++;
+
 		}
 
 		System.out.println("Xa:  " + Xa + "	Xb :" + Xb);
 
 		return cost;
+	}
+
+	private double localSearch(ArrayList<float[]> cities) {
+		double solution = getCostOfRoute2(cities);
+		ArrayList<float[]> tempRoute = new ArrayList<float[]>();
+		ArrayList<float[]> newRoute = new ArrayList<float[]>();
+		tempCities = new float[cities.size()];
+
+		// float[] Troute = new float[tempRoute.size()];
+
+		for (int i = 0; i < 200; i++) {
+			newRoute = generateRandomRoute(cities);
+
+			if (solution > getCostOfRoute2(cities)) {
+				tempRoute = newRoute;
+				solution = getCostOfRoute2(cities);
+				
+				// System.out.println(cities.get(i));
+			}
+			for (float[] element : tempRoute) {
+				int j = 0;
+				tempCities[j] = element[0];
+				System.out.print( tempCities[j] + " ");
+				j++;
+
+			}
+		}
+		System.out.println("Best solution is " + solution);
+		return solution;
+	}
+
+	private ArrayList<float[]> generateRandomRoute(ArrayList<float[]> cities) {
+		Collections.shuffle(cities);
+		return cities;
 	}
 
 }
