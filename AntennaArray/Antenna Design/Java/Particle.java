@@ -9,12 +9,19 @@ public class Particle {
 
 	private Random rnd;
 
+<<<<<<< HEAD
 	public Particle(double velocity, double cPos, double pbPos, double SSLValue) {
+=======
+	public Particle(double velocity, double cPos, double pbPos) {
+>>>>>>> 79665ad197d0f83d24fc2e68f1ae37a2ff544107
 		this.velocity = velocity;
 		this.cPos = cPos;
 		this.pbPos = pbPos;
 		this.SSLValue = SSLValue;
 
+		
+
+	
 	}
 
 	public double getPB() {
@@ -30,8 +37,13 @@ public class Particle {
 		pbPos = cPos;
 	}
 
+<<<<<<< HEAD
 	public void savecPos(double Pos) {
 		this.cPos = Pos;
+=======
+	public void savecPos(double cPos) {
+		this.cPos = cPos;
+>>>>>>> 79665ad197d0f83d24fc2e68f1ae37a2ff544107
 	}
 
 	public double getcPos() {
@@ -51,9 +63,15 @@ public class Particle {
 	public double getVelocity() {
 		return velocity;
 	}
+<<<<<<< HEAD
 
 	public void setVelocity(double newVelocity) {
 
+=======
+	
+	public void setVelocity(double newVelocity) {
+		
+>>>>>>> 79665ad197d0f83d24fc2e68f1ae37a2ff544107
 		velocity = newVelocity;
 	}
 }
