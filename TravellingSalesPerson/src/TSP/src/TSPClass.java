@@ -370,7 +370,7 @@ public class TSPClass {
 			index++;
 
 		}
-
+//change
 		System.out.println("Xa:  " + Xa + "	Xb :" + Xb);
 
 		return cost;
