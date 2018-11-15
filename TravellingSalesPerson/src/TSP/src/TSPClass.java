@@ -269,7 +269,7 @@ public class TSPClass {
 	}
 
 	public float getCostOfRoute2(ArrayList<float[]> cities) {
-
+		float[] tElement = new float[cities.size()];
 		// Collections.shuffle(cities);
 
 		// Xb-Xa^2 + yb-ya^2
@@ -289,12 +289,31 @@ public class TSPClass {
 		int index = 0;
 
 		for (float[] element : cities) {
-			if (index == cities.size() - 1) {
+			System.out.println("cities size is " + cities.size());
+			if (index == cities.size()-1) {
 				System.out.println("poo");
+				tElement = cities.get(index);
+				element = cities.get(0);
+				
+				Xa = element[1];
+				Ya = element[2];
 
+				System.out.println("Xa + " + Xa);
+				System.out.println("Ya + " + Ya);
+				
+				Xb = tElement[1];
+				Yb = tElement[2];
+				
+				System.out.println("Xb + " + Xb);
+				System.out.println("Yb + " + Yb);
+				
+				xDifference = Xa - Xb;
+				yDifference = Ya - Yb;
+				
+				cost += Math.sqrt((xDifference * xDifference) + (yDifference * yDifference));
 				return cost;
 			}
-			float[] tElement = cities.get(index + 1);
+			 tElement = cities.get(index + 1);
 			//System.out.println("city size is : " + cities.size());
 
 			System.out.println("city 1: " + element[0]);
@@ -329,7 +348,8 @@ public class TSPClass {
 			index++;
 
 		}
-
+		
+		
 		System.out.println("Xa:  " + Xa + "	Xb :" + Xb);
 
 		return cost;
@@ -344,7 +364,7 @@ public class TSPClass {
 
 		// float[] Troute = new float[tempRoute.size()];
 
-		for (int i = 0; i < 100000; i++) {
+		for (int i = 0; i < 1000000000; i++) {
 			newRoute = generateRandomRoute(cities);
 
 			if (solution > getCostOfRoute2(cities)) {
@@ -375,32 +395,35 @@ public class TSPClass {
 	}
 
 	private ArrayList<ArrayList<float[]>> generate2Opt(ArrayList<float[]> cities) {
-		// ArrayList<float[]> OptSwapped = new ArrayList<float[]>();
+		ArrayList<ArrayList<float[]>> OptSwapped = new ArrayList<ArrayList<float[]>>();
 
+		for(int counter = 0 ; counter  <5; counter++) {
 		int first = rnd.nextInt();
 		int second = rnd.nextInt();
 
 		cities.set(first, cities.get(second));
 		cities.set(second, cities.get(first));
 		HolderOfSolutions.add(cities);
-
-		return HolderOfSolutions;
+		OptSwapped = HolderOfSolutions;
+		}
+		return OptSwapped;
 	}
 
 	private ArrayList<float[]> BestNeighbourFunction(ArrayList<ArrayList<float[]>> neighbours) {
-		 neighbours = HolderOfSolutions;
+		 neighbours = generate2Opt(cities);
 		float bestVal = getCostOfRoute2(neighbours.get(0));
 
 		int counter = 0;
-
+int tCounter =0 ;
 		for (ArrayList<float[]> routes : neighbours) {
 			if (getCostOfRoute2(routes) < bestVal) {
+				tCounter = counter;
 				bestVal = getCostOfRoute2(neighbours.get(counter));
 			}
 			counter++;
 		}
 		System.out.println(bestVal);
-		return neighbours.get(counter);
+		return neighbours.get(tCounter);
 
 	}
 
@@ -408,13 +431,13 @@ public class TSPClass {
 		ArrayList<float[]> newRoute = new ArrayList<float[]>();
 		newRoute = generateRandomRoute(cities);
 		for (int termination = 0; termination < 100; termination++) {
-			for (int i = 0; i < 5; i++) {
+		//	for (int i = 0; i < 5; i++) {
 				generate2Opt(newRoute);
+				newRoute = BestNeighbourFunction(HolderOfSolutions);
 
-
-			}
-			newRoute = BestNeighbourFunction(HolderOfSolutions);
-			generate2Opt(newRoute);
+			//}
+			
+			//generate2Opt(newRoute);
 		}
 	}
 }
