@@ -8,27 +8,28 @@ import java.util.Collections;
 import java.util.Random;
 
 public class TSP {
-	
+
 	private String[][] weights;
 	private String[][] csvWeights;
 	private Random rnd;
-	private ArrayList<ArrayList<float[]>> HolderOfSolutions= new  ArrayList<ArrayList<float[]>>();
+	private ArrayList<ArrayList<float[]>> HolderOfSolutions = new ArrayList<ArrayList<float[]>>();
 
-	private ArrayList<float[]> cities2=  new ArrayList<float[]>();
+	private ArrayList<float[]> cities2 = new ArrayList<float[]>();
 	private ArrayList<float[]> cities = new ArrayList<float[]>();
-	
-	// private float[] newRoute = new float[pop];
-	private float[] tempCities;
 
+	// private float[] newRoute = new float[pop];
+	 private float[] tempCities;
+	 private float[] tempCities1;
 	public TSP() {
-		//TSP tsp = new TSP();
-	//	readFile();
+		// TSP tsp = new TSP();
+		// readFile();
 		weights = new String[12][3];
 		rnd = new Random();
 		ArrayList<float[]> cities = new ArrayList<float[]>();
 		int pop = cities.size();
-		ArrayList<float[]> cities2 = new ArrayList<float[]>();
+		// ArrayList<float[]> cities2 = new ArrayList<float[]>();
 		float[] tempCities= new float[cities.size()];
+	 float[] tempCities1= new float[cities.size()];
 		ArrayList<ArrayList<float[]>> HolderOfSolutions = new ArrayList<ArrayList<float[]>>();
 		weights[0][0] = "A";
 		weights[0][1] = "B";
@@ -82,17 +83,21 @@ public class TSP {
 	}
 
 	public void run() {
-		
-	readFile();
+	//for(int  i =  0 ; i<5; i++) {	
+	//readFile();
+	//	randomSearch();
+//	cities = cities2;
 	//cities2 = cities;
-	HolderOfSolutions = TwoOptSwap(cities);
-		BestNeighbour(HolderOfSolutions);
+	//HolderOfSolutions = TwoOptSwap(cities);
+		//BestNeighbour(HolderOfSolutions);
+	// generateRandomRoute(cities);
+		localSearch();
 	}
-
+	//}
 	/*
-	 * public int getCostOfRoute(String path) { // String[] cit1 = new
-	 * String[12]; String[] city = path.split("(?!^)"); String sCost = ""; int
-	 * cost = 0; System.out.print(city[0]); System.out.print(city[1]);
+	 * public int getCostOfRoute(String path) { // String[] cit1 = new String[12];
+	 * String[] city = path.split("(?!^)"); String sCost = ""; int cost = 0;
+	 * System.out.print(city[0]); System.out.print(city[1]);
 	 * System.out.print(city[2]); System.out.println(city[3]);
 	 * 
 	 * for (int c = 0; c < city.length; c++) {
@@ -102,18 +107,17 @@ public class TSP {
 	 * for (int j = 0; j < weights[i].length; j++) {
 	 * System.out.println("NUMBER C : " + c);
 	 * 
-	 * if (c == 3) { System.out.println("path : " + city[0] + city[1] + city[2]
-	 * + city[3]); System.out.print("current city : " + city[c]); //
+	 * if (c == 3) { System.out.println("path : " + city[0] + city[1] + city[2] +
+	 * city[3]); System.out.print("current city : " + city[c]); //
 	 * System.out.print(); System.out.print(" index : " + i + " ");
 	 * System.out.println(weights[i][0]); for (int counter = 0; counter <
 	 * weights.length; counter++) { if (city[c].equals(weights[counter][0])) {
 	 * System.out.println("current city : " + city[c]);
 	 * System.out.println("first city : " + city[0]);
-	 * System.out.println("NUMBER C : " + c);
-	 * System.out.println("Current City : " + city[c]);
-	 * System.out.println("counter : " + weights[counter][0]);
-	 * System.out.println("BALLOOGA WAHEL"); System.out.println("path : " +
-	 * city[0] + city[1] + city[2] + city[3]);
+	 * System.out.println("NUMBER C : " + c); System.out.println("Current City : " +
+	 * city[c]); System.out.println("counter : " + weights[counter][0]);
+	 * System.out.println("BALLOOGA WAHEL"); System.out.println("path : " + city[0]
+	 * + city[1] + city[2] + city[3]);
 	 * 
 	 * if (city[0].equals(weights[counter][1])) {
 	 * System.out.println("current city : " + city[c]);
@@ -156,8 +160,8 @@ public class TSP {
 	 * System.out.println("final cost :" + cost); return cost; }
 	 * System.out.println(i); if (city[c].equals(weights[i][0])) {
 	 * 
-	 * System.out.println("current city : " + city[c]);
-	 * System.out.println("cost:" + sCost); System.out.println("index C :" + c);
+	 * System.out.println("current city : " + city[c]); System.out.println("cost:" +
+	 * sCost); System.out.println("index C :" + c);
 	 * 
 	 * 
 	 * if (c == 3) { System.out.println("final total: " + sCost); }
@@ -179,8 +183,8 @@ public class TSP {
 	 */
 
 	/*
-	 * public String generateRandomRoutes() { String Sroute = ""; Random rnd =
-	 * new Random(); int index = rnd.nextInt(16);
+	 * public String generateRandomRoutes() { String Sroute = ""; Random rnd = new
+	 * Random(); int index = rnd.nextInt(16);
 	 * 
 	 * System.out.println(rnd);
 	 * 
@@ -188,40 +192,40 @@ public class TSP {
 	 * 
 	 * int counter = 0; float[] rroute = new float[cities.size()];
 	 * 
-	 * for (float[] route : cities) { // Initialise array to arraylist Size
-	 * float[] troute = new float[size]; // Store all 16 cities in temp Array
+	 * for (float[] route : cities) { // Initialise array to arraylist Size float[]
+	 * troute = new float[size]; // Store all 16 cities in temp Array
 	 * troute[counter] = route[0];
 	 * 
-	 * System.out.println("Cities inside troute : " + troute[counter]); Sroute
-	 * += String.valueOf(route[0]);
+	 * System.out.println("Cities inside troute : " + troute[counter]); Sroute +=
+	 * String.valueOf(route[0]);
 	 * 
 	 * counter++; }
 	 * 
 	 * String route = "";
 	 * 
-	 * boolean AChosen = false; boolean BChosen = false; boolean CChosen =
-	 * false; boolean DChosen = false; // Random rnd = new Random();
+	 * boolean AChosen = false; boolean BChosen = false; boolean CChosen = false;
+	 * boolean DChosen = false; // Random rnd = new Random();
 	 * 
 	 * for (int i = 0; i < 100; i++) { int num = rnd.nextInt(4);
 	 * 
-	 * if (num == 0 && AChosen == false) { AChosen = true; route += "A"; } else
-	 * { if (num == 1 && BChosen == false) { BChosen = true; route += "B"; }
-	 * else { if (num == 2 && CChosen == false) { CChosen = true; route += "C";
-	 * } else { if (num == 3 && DChosen == false) { DChosen = true; route +=
-	 * "D"; } } } } } System.out.println(AChosen);
+	 * if (num == 0 && AChosen == false) { AChosen = true; route += "A"; } else { if
+	 * (num == 1 && BChosen == false) { BChosen = true; route += "B"; } else { if
+	 * (num == 2 && CChosen == false) { CChosen = true; route += "C"; } else { if
+	 * (num == 3 && DChosen == false) { DChosen = true; route += "D"; } } } } }
+	 * System.out.println(AChosen);
 	 * 
 	 * System.out.println(BChosen);
 	 * 
 	 * System.out.println(CChosen);
 	 * 
-	 * System.out.println(DChosen); System.out.println("Random Route : " +
-	 * route); return route; }
+	 * System.out.println(DChosen); System.out.println("Random Route : " + route);
+	 * return route; }
 	 */
 
-	public void readFile() {
+	public ArrayList<float[]> readFile() {
 		// String path = "";
 		// int counter = 0;
-
+cities = new ArrayList<float[]>();
 		BufferedReader reader = null;
 		try {
 			reader = new BufferedReader(new FileReader("ulysses16.csv"));
@@ -234,7 +238,7 @@ public class TSP {
 							Float.parseFloat(words[2]) };
 
 					cities.add(index0);
-cities2.add(index0);
+					cities2.add(index0);
 					System.out.println("index 0 : " + index0[0] + "   " + "index 1 : " + index0[1] + "  " + "index 2 : "
 							+ index0[2]);
 				} catch (NumberFormatException e) {
@@ -258,6 +262,7 @@ cities2.add(index0);
 				}
 			}
 		}
+		return cities;
 
 	}
 
@@ -346,8 +351,8 @@ cities2.add(index0);
 		return cost;
 	}
 
-	private double randomSearch(ArrayList<float[]> cities) {
-		generateRandomRoute(cities);
+	private double randomSearch() {
+		cities = generateRandomRoute(cities);
 		double solution = getCostOfRoute2(cities);
 		ArrayList<float[]> tempRoute = new ArrayList<float[]>();
 		ArrayList<float[]> newRoute = new ArrayList<float[]>();
@@ -355,7 +360,7 @@ cities2.add(index0);
 
 		// float[] Troute = new float[tempRoute.size()];
 
-		for (int i = 0; i < 1000000000; i++) {
+		for (int i = 0; i < 10000; i++) {
 			newRoute = generateRandomRoute(cities);
 
 			if (solution > getCostOfRoute2(cities)) {
@@ -376,16 +381,20 @@ cities2.add(index0);
 		return solution;
 	}
 
-	private ArrayList<float[]> generateRandomRoute(ArrayList<float[]> cities) {
+	private ArrayList<float[]> generateRandomRoute(ArrayList<float[]> route) {
+		route = readFile();
+		Collections.shuffle(route);
+		for(float[] e: route) {
+			System.out.println(e[0]);
+		}
 
-		Collections.shuffle(cities);
-
-		return cities;
+		return route;
 	}
 
 	private ArrayList<ArrayList<float[]>> generate2Opt(ArrayList<float[]> cities) {
 		// ArrayList<ArrayList<float[]>> OptSwapped = new
 		// ArrayList<ArrayList<float[]>>();
+
 		int first = 0;
 		int second = 0;
 		int maxVal = cities.size();
@@ -407,15 +416,12 @@ cities2.add(index0);
 			}
 			cities.set(first, cities.get(second));
 			cities.set(second, cities.get(first));
-			HolderOfSolutions.add(i, cities);
+			HolderOfSolutions.add(cities);
 			System.out.println("I value " + i);
-			for (ArrayList<float[]> routes : HolderOfSolutions) {
-				System.out.println("Cost of each routeREAL " + getCostOfRoute2(routes));
 
-			}
 			// System.out.println("neigbhourhood "
 			// +HolderOfSolutions.get(counter));
-			cities = cities2;
+			// cities = cities2;
 		}
 		for (ArrayList<float[]> routes : HolderOfSolutions) {
 			System.out.println("Cost of each routeREA1 " + getCostOfRoute2(routes));
@@ -454,39 +460,39 @@ cities2.add(index0);
 	}
 
 	private ArrayList<float[]> localSearch() {
-		ArrayList<ArrayList<float[]>> neighbourhood = new ArrayList<ArrayList<float[]>>();
 		ArrayList<float[]> newRoute = new ArrayList<float[]>();
-		ArrayList<float[]> RandomRoute = new ArrayList<float[]>();
-		RandomRoute = generateRandomRoute(cities);
-		float value = 0;
-		// for(int i =0 ; i <5; i++){
-		// for (int termination = 0; termination < 5; termination++) {
-
-		// generate2Opt(RandomRoute);
-		newRoute = BestNeighbourFunction(neighbourhood);
-
-		RandomRoute = newRoute;
-		// System.out.println("termination value is " + termination);
-		// }
-
-		// }
-		value = getCostOfRoute2(newRoute);
-		System.out.println("Cost is " + value);
+		ArrayList<float[]> initialRoute = new ArrayList<float[]>();	 
+		initialRoute = generateRandomRoute(cities);
+		for(int i = 0 ; i <100; i++) {
+			HolderOfSolutions = TwoOptSwap(initialRoute);
+			newRoute = 	BestNeighbour(HolderOfSolutions);
+			initialRoute = newRoute;
+		}
 		return newRoute;
 	}
 
-	private ArrayList<ArrayList<float[]>> TwoOptSwap(ArrayList<float[]> cities) {
-		//cities2 = cities;
+	private ArrayList<ArrayList<float[]>> TwoOptSwap(ArrayList<float[]> r) {
+		readFile();
+		// cities2 = cities;
 		int maxVal = cities.size();
-		float[] tempCities= new float[cities.size()];
+		// float[] tempCities= new float[cities.size()];
+		// float[] tempCities1= new float[cities.size()];
 		int firstIndex = 0;
 		int secondIndex = 0;
-		//cities2 = cities;
+		// cities2 = cities;
 		for (int i = 0; i < 10; i++) {
-		//	ArrayList<float[]> cities2 =  new ArrayList<float[]>();
+			
+			
+			r = readFile();
+	
+			float[] tempCities = new float[r.size()];
+			float[] tempCities1 = new float[r.size()];
+			// readFile();
+			//cities = cities2;
+			// ArrayList<float[]> cities2 = new ArrayList<float[]>();
 //ArrayList<float[]> cities = new ArrayList<float[]>();
 
-for (float[] element : cities) {
+			for (float[] element : r) {
 				int j = 0;
 				tempCities[j] = element[0];
 				System.out.println("ORRINGAL");
@@ -498,21 +504,21 @@ for (float[] element : cities) {
 			secondIndex = rnd.nextInt(maxVal);
 			if (firstIndex == secondIndex) {
 				do {
-					firstIndex = rnd.nextInt(cities.size());
-					secondIndex = rnd.nextInt(cities.size());
+					firstIndex = rnd.nextInt(r.size());
+					secondIndex = rnd.nextInt(r.size());
 					System.out.println("first is " + firstIndex);
 					System.out.println("second is " + secondIndex);
 				} while (firstIndex == secondIndex);
 			}
-			float[] secondVal = cities.get(secondIndex);
-			float[] firstVal = cities.get(firstIndex);
+			float[] secondVal = r.get(secondIndex);
+			float[] firstVal = r.get(firstIndex);
 			System.out.println("first index " + firstIndex);
 			System.out.println("second index " + secondIndex);
-			cities.set(firstIndex, secondVal);
-			cities.set(secondIndex, firstVal);
-			HolderOfSolutions.add(cities);
+			r.set(firstIndex, secondVal);
+			r.set(secondIndex, firstVal);
+			HolderOfSolutions.add(r);
 
-			for (float[] element : cities) {
+			for (float[] element : r) {
 				int j = 0;
 				tempCities[j] = element[0];
 				System.out.println("After");
@@ -524,23 +530,24 @@ for (float[] element : cities) {
 
 			}
 //cities = cities2;
-			//cities = cities2;
+			// cities = cities2;
 			for (float[] element : cities2) {
 				int j = 0;
-				tempCities[j] = element[0];
+				tempCities1[j] = element[0];
 				System.out.println("route2 ");
-				System.out.print(tempCities[j] + " ");
+				System.out.print(tempCities1[j] + " ");
 				j++;
 
 			}
-			cities = cities2;
+			//cities = cities2;
 		}
 		int counter = 0;
 		for (ArrayList<float[]> routes : HolderOfSolutions) {
-			System.out.println("Cost of each routeREAL " + counter +" " + getCostOfRoute2(routes));
-			//System.out.println("Cost of each routeREAL2 " + getCostOfRoute2(routes));
-			//System.out.println("Cost of each routeREAL4 " + getCostOfRoute2(HolderOfSolutions.get(1)));
-		counter++;
+			System.out.println("Cost of each routeREAL " + counter + " " + getCostOfRoute2(routes));
+			// System.out.println("Cost of each routeREAL2 " + getCostOfRoute2(routes));
+			// System.out.println("Cost of each routeREAL4 " +
+			// getCostOfRoute2(HolderOfSolutions.get(1)));
+			counter++;
 		}
 		return HolderOfSolutions;
 
@@ -550,7 +557,7 @@ for (float[] element : cities) {
 		ArrayList<float[]> bestNeighbour = new ArrayList<float[]>();
 		// neighbourhood = TwoOptSwap(cities);
 		float bestVal = 0;
-		float[]tempCities1 = new float[cities.size()];
+		float[] tempCities1 = new float[cities.size()];
 		int counter = 0;
 		bestVal = getCostOfRoute2(neighbourhood.get(0));
 		bestNeighbour = neighbourhood.get(0);
@@ -560,7 +567,7 @@ for (float[] element : cities) {
 			System.out.println("aval " + aVal);
 			System.out.println("counter value " + counter);
 			System.out.println("NEIGHBOURS IN NEIGBHOURHOOD " + neighbours);
-			
+
 			if (bestVal > getCostOfRoute2(neighbours)) {
 				bestVal = getCostOfRoute2(neighbours);
 				bestNeighbour = neighbours;
@@ -571,11 +578,9 @@ for (float[] element : cities) {
 			int j = 0;
 			tempCities1[j] = element[0];
 			System.out.print("England : " + tempCities1[j] + " ");
-			
 
-		
-		System.out.println("best Neighbour is " + tempCities1[j]);
-		j++;	
+			System.out.println("best Neighbour is " + tempCities1[j]);
+			j++;
 		}
 		System.out.println("best Neighbour cost is " + bestVal);
 		return bestNeighbour;

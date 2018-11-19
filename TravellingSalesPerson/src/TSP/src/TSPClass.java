@@ -84,12 +84,12 @@ public class TSPClass {
 cities2 = cities;
 		tempCities = new float[cities.size()];
 		// random search
-		// tsp.randomSearch(cities);
+		tsp.randomSearch(cities);
 		// tsp.generate2Opt(cities);
 		// tsp.localSearch();
 		// Generating a single random route
 		// tsp.generateRandomRoute(cities);
-		tsp.TwoOptSwap(cities);
+		//tsp.TwoOptSwap(cities);
 		//tsp.BestNeighbour(tsp.TwoOptSwap(cities));
 		//tsp.BestNeighbour(tsp.TwoOptSwap(cities));
 		
@@ -368,7 +368,7 @@ cities2 = cities;
 
 		// float[] Troute = new float[tempRoute.size()];
 
-		for (int i = 0; i < 1000000000; i++) {
+		for (int i = 0; i < 10000; i++) {
 			newRoute = generateRandomRoute(cities);
 
 			if (solution > getCostOfRoute2(cities)) {
