@@ -16,6 +16,7 @@ public class TSP {
 
 	private ArrayList<float[]> cities2 = new ArrayList<float[]>();
 	private ArrayList<float[]> cities = new ArrayList<float[]>();
+	private ArrayList<float[]> randomRoute = new ArrayList<float[]>();
 
 	// private float[] newRoute = new float[pop];
 	 private float[] tempCities;
@@ -85,10 +86,11 @@ public class TSP {
 	public void run() {
 	//for(int  i =  0 ; i<5; i++) {	
 	//readFile();
-	//	randomSearch();
+		//randomSearch();
 //	cities = cities2;
 	//cities2 = cities;
-	//HolderOfSolutions = TwoOptSwap(cities);
+//randomRoute = generateRandomRoute(cities);
+	//HolderOfSolutions = TwoOptSwap(randomRoute);
 		//BestNeighbour(HolderOfSolutions);
 	// generateRandomRoute(cities);
 		localSearch();
@@ -360,7 +362,7 @@ cities = new ArrayList<float[]>();
 
 		// float[] Troute = new float[tempRoute.size()];
 
-		for (int i = 0; i < 10000; i++) {
+		for (int i = 0; i < 10; i++) {
 			newRoute = generateRandomRoute(cities);
 
 			if (solution > getCostOfRoute2(cities)) {
@@ -382,8 +384,11 @@ cities = new ArrayList<float[]>();
 	}
 
 	private ArrayList<float[]> generateRandomRoute(ArrayList<float[]> route) {
+		//randomRoute =  new ArrayList<float[]>();
 		route = readFile();
 		Collections.shuffle(route);
+		
+		//randomRoute = route;
 		for(float[] e: route) {
 			System.out.println(e[0]);
 		}
@@ -443,6 +448,7 @@ cities = new ArrayList<float[]>();
 		System.out.println("Cost first route " + (getCostOfRoute2(neighbours.get(0))));
 		int counter = 0;
 		int tCounter = 0;
+		
 		for (ArrayList<float[]> routes : neighbours) {
 			System.out.println("Cost of each route " + getCostOfRoute2(routes));
 			if (bestVal > getCostOfRoute2(routes)) {
@@ -463,7 +469,7 @@ cities = new ArrayList<float[]>();
 		ArrayList<float[]> newRoute = new ArrayList<float[]>();
 		ArrayList<float[]> initialRoute = new ArrayList<float[]>();	 
 		initialRoute = generateRandomRoute(cities);
-		for(int i = 0 ; i <1000; i++) {
+		for(int i = 0 ; i <10; i++) {
 			HolderOfSolutions = TwoOptSwap(initialRoute);
 			newRoute = 	BestNeighbour(HolderOfSolutions);
 			initialRoute = newRoute;
@@ -472,19 +478,19 @@ cities = new ArrayList<float[]>();
 	}
 
 	private ArrayList<ArrayList<float[]>> TwoOptSwap(ArrayList<float[]> r) {
-		readFile();
-		// cities2 = cities;
-		int maxVal = cities.size();
-		// float[] tempCities= new float[cities.size()];
-		// float[] tempCities1= new float[cities.size()];
+		ArrayList<float[]> r1 = new ArrayList<float[]>();
+
+
+	 
+		
 		int firstIndex = 0;
 		int secondIndex = 0;
 		// cities2 = cities;
 		for (int i = 0; i < 10; i++) {
+			//randomRoute = setRandomRoute();
 			
-			
-			r = readFile();
-	
+			//r = readFile();
+			r = setRandomRoute();
 			float[] tempCities = new float[r.size()];
 			float[] tempCities1 = new float[r.size()];
 			// readFile();
@@ -500,8 +506,9 @@ cities = new ArrayList<float[]>();
 				j++;
 
 			}
-			firstIndex = rnd.nextInt(maxVal);
-			secondIndex = rnd.nextInt(maxVal);
+			
+			firstIndex = rnd.nextInt(r.size());
+			secondIndex = rnd.nextInt(r.size());
 			if (firstIndex == secondIndex) {
 				do {
 					firstIndex = rnd.nextInt(r.size());
@@ -548,6 +555,7 @@ cities = new ArrayList<float[]>();
 			// System.out.println("Cost of each routeREAL4 " +
 			// getCostOfRoute2(HolderOfSolutions.get(1)));
 			counter++;
+			
 		}
 		return HolderOfSolutions;
 
@@ -584,5 +592,12 @@ cities = new ArrayList<float[]>();
 		}
 		System.out.println("best Neighbour cost is " + bestVal);
 		return bestNeighbour;
+	}
+	
+	private ArrayList<float[]> setRandomRoute(){
+		randomRoute = new ArrayList<float[]>();
+		randomRoute = generateRandomRoute(cities);
+
+	return 	randomRoute;
 	}
 }
