@@ -12,6 +12,7 @@ public class pheromone {
 	private double rateOfDepos;
 	private double relativeImpP;
 	private double relativeImpE;
+	private double[] Pt;
 private ArrayList<float[]> cities;
 	public pheromone(double initialPLvl, double rateOfEvap, double rateOfDepos, double relativeImpP, double relativeImpE) {
 		this.initialPLvl = initialPLvl;
@@ -19,6 +20,7 @@ private ArrayList<float[]> cities;
 		this.rateOfDepos = rateOfDepos;
 		this.relativeImpP = relativeImpP;
 		this.relativeImpE = relativeImpE;
+		Pt = new double[cities.length*2)];
 		
 	}
 	
@@ -32,7 +34,7 @@ private ArrayList<float[]> cities;
 		cities = new ArrayList<float[]>();
 		BufferedReader reader = null;
 		try {
-			reader = new BufferedReader(new FileReader("ulysses16.csv"));
+			reader = new BufferedReader(new FileReader("D:\\3rd year\\ACO\\src\\ulysses16.csv"));
 			String line = "";
 			while ((line = reader.readLine()) != null) {
 				try {
