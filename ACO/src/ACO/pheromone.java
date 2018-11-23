@@ -5,6 +5,7 @@ import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.IOException;
 import java.util.ArrayList;
+import java.util.Collections;
 
 public class pheromone {
 	private double initialPLvl;
@@ -12,89 +13,62 @@ public class pheromone {
 	private double rateOfDepos;
 	private double relativeImpP;
 	private double relativeImpE;
-	private double[] Pt;
-private ArrayList<float[]> cities;
+	
 	public pheromone(double initialPLvl, double rateOfEvap, double rateOfDepos, double relativeImpP, double relativeImpE) {
+		initialPLvl = 0.0;
+		rateOfEvap = 0.5;
+		rateOfDepos = 100.0;
+		relativeImpP = 1.0;
+		relativeImpE = 5.0;
+		
 		this.initialPLvl = initialPLvl;
 		this.rateOfEvap = rateOfEvap;
 		this.rateOfDepos = rateOfDepos;
 		this.relativeImpP = relativeImpP;
 		this.relativeImpE = relativeImpE;
-		Pt = new double[cities.length*2)];
+		
+		
 		
 	}
 	
-	private void run() {
-		readFile();
+	public void run() {
+	
+		
 	}
 	
-	public ArrayList<float[]> readFile() {
-		// String path = "";
-		// int counter = 0;
-		cities = new ArrayList<float[]>();
-		BufferedReader reader = null;
-		try {
-			reader = new BufferedReader(new FileReader("D:\\3rd year\\ACO\\src\\ulysses16.csv"));
-			String line = "";
-			while ((line = reader.readLine()) != null) {
-				try {
-
-					String[] words = line.split(",");
-					float[] index0 = { Float.parseFloat(words[0]), Float.parseFloat(words[1]),
-							Float.parseFloat(words[2]) };
-
-					cities.add(index0);
-					//cities2.add(index0);
-					System.out.println("index 0 : " + index0[0] + "   " + "index 1 : " + index0[1] + "  " + "index 2 : "
-							+ index0[2]);
-				} catch (NumberFormatException e) {
-					continue;
-				}
-			}
-
-		} catch (FileNotFoundException e) {
-			e.printStackTrace();
-
-		} catch (IOException e) {
-
-			e.printStackTrace();
-		} finally {
-			if (reader != null) {
-				try {
-					reader.close();
-
-				} catch (IOException e) {
-					e.printStackTrace();
-				}
-			}
-		}
-		return cities;
-
-	}
 	
-	private void setPlvl(double newlvl) {
+	
+	private void setPlvl(ArrayList<float[]> route, int length,double newlvl) {
+		length = route.size();
+		newlvl = getrateOfDepos()/length;
+		
 		initialPLvl = newlvl;
 	}
 	
-	private double getPlvl() {
+	public double getPlvl() {
 		return initialPLvl;
 	}
 	
 	private void setrateOfEvap(double newRateEvap) {
+		//P * Ti,j *t
+		//Ti,j(t)  =pheremone on edge
+		// p = rateofEvap
+		
 		rateOfEvap =  newRateEvap;
 	}
 	
-	private double getrateOfEvap(){
+	public double getrateOfEvap(){
 		return rateOfEvap;
 	}
 	
 	
-	private double getrateOfDepos(){
+	public double getrateOfDepos(){
 		return rateOfDepos;
 	}
 	
 	
 	private void setrateOfDepos(double newRateOfDepos) {
+		
 		rateOfDepos =  newRateOfDepos;
 	}
 	
@@ -104,7 +78,7 @@ private ArrayList<float[]> cities;
 		relativeImpP = newrelativeImpP;
 	}
 	
-	private double getrelativeImpP() {
+	public double getrelativeImpP() {
 		return relativeImpP;
 	}
 	
@@ -113,7 +87,9 @@ private ArrayList<float[]> cities;
 		relativeImpE = newrelativeImpE;
 	}
 	
-	private double getrelativeImpE() {
+	public double getrelativeImpE() {
 		return relativeImpE;
 	}
+	
+	
 }
