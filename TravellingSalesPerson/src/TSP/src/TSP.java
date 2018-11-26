@@ -87,14 +87,14 @@ public class TSP {
 	public void run() {
 	//for(int  i =  0 ; i<5; i++) {	
 	//readFile();
-		randomSearch();
+		//randomSearch();
 //	cities = cities2;
 	//cities2 = cities;
 //randomRoute = generateRandomRoute(cities);
 	//HolderOfSolutions = TwoOptSwap(randomRoute);
 		//BestNeighbour(HolderOfSolutions);
 	// generateRandomRoute(cities);
-		//localSearch();
+		localSearch();
 		//twoOptSwap(route, i, j)
 		//ArrayList<float[]> r = new ArrayList<float[]>();
 		//r = generateRandomRoute(cities);
@@ -239,7 +239,7 @@ public class TSP {
 		cities = new ArrayList<float[]>();
 		BufferedReader reader = null;
 		try {
-			reader = new BufferedReader(new FileReader("ulysses16.csv"));
+			reader = new BufferedReader(new FileReader("cities57_10.csv"));
 			String line = "";
 			while ((line = reader.readLine()) != null) {
 				try {
@@ -371,7 +371,7 @@ public class TSP {
 
 		// float[] Troute = new float[tempRoute.size()];
 
-		for (int i = 0; i < 100; i++) {
+		for (int i = 0; i < 20; i++) {
 			newRoute = generateRandomRoute(cities);
 
 			if (solution > getCostOfRoute2(cities)) {

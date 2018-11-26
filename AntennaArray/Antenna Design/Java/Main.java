@@ -4,7 +4,7 @@ import java.util.Random;
 public class Main {
 	private int numOfAntenna = 5;
 
-	private AntennaArray array = new AntennaArray(numOfAntenna, 90.0);
+	private AntennaArray array = new AntennaArray(numOfAntenna, 55.0);
 	private Random rnd;
 	private Particle particle;
 
@@ -696,7 +696,7 @@ public class Main {
 
 	private void something() {
 		int population = 10;
-		int iter_max = 100;
+		int iter_max = 100000;
 		double[] antArray = new double[numOfAntenna];
 		for (int j = 0; j < iter_max; j++) {
 			for (int i = 0; i < population; i++) {
@@ -714,9 +714,9 @@ public class Main {
 	}
 
 	private void PsoSolutionThefinalSolution() {
-		System.out.println("im gay");
+		
 		int population = 20;
-		int iter_max = 10;
+		int iter_max = 40;
 		double[] antArray = new double[numOfAntenna];
 
 		Particle2 swarm[] = new Particle2[population];
@@ -772,20 +772,24 @@ public class Main {
 					for (int p = 0; p < velocity.length; p++) {
 						tempPos = new double[cPos.length];
 						tempPos = cPos;
+						
 
-						cPos[p] = particles.getcPos()[p] + particles.getVelocity()[p];
+						//cPos[p] = particles.getcPos()[p] + particles.getVelocity()[p];
 						
 												velocity[p] = 0.721 * particles.getVelocity()[p]
 								+ 1.1193 * rnd.nextDouble()
-										* (particles.getPB()[p] - tempPos[p] /* cPos[p] */)
-								+ 1.1193 * rnd.nextDouble() * (globalBest - tempPos[p]);
+										* (particles.getPB()[p] - particles.getcPos()[p] /* cPos[p] */)
+								+ 1.1193 * rnd.nextDouble() * (globalBest - particles.getcPos()[p]);
+												
 						// velocity2 = 0.721 * p.getVelocity() + 1.1193 * rnd.nextDouble() * (p.getPB()
 						// - p.getcPos())
 						//particles.setVelocity(velocity);
 						// + 1.1193 * rnd.nextDouble() * (globalBest - p.getcPos());
+												cPos[p] = particles.getcPos()[p] + particles.getVelocity()[p];
+
 						
-						cPos[antArray.length-1] = antArray.length/2.0;
 					}
+					cPos[antArray.length-1] = antArray.length/2.0;
 					// cPos =cPos;
 					particles.savecPos(cPos);
 					System.out.println("nope"+ array.evaluate(cPos));
@@ -795,7 +799,7 @@ public class Main {
 
 					if (array.is_valid(particles.getcPos())) {
 
-						// DONT EVALUATE IT IF ITS NOT VALID YOU FUCKING IDIOT.
+					
 						tempSSL = array.evaluate(particles.getcPos());
 						System.out.println("|||||||||||||||||||||" + tempSSL);
 						System.out.println("current SSL " + particles.getSSLValue());

@@ -8,20 +8,22 @@ import java.util.ArrayList;
 import java.util.Collections;
 
 public class pheromone {
-	private double initialPLvl;
+	private double PlvlPLvl;
 	private double rateOfEvap;
 	private double rateOfDepos;
 	private double relativeImpP;
 	private double relativeImpE;
+	private double initPlvl;
 	
-	public pheromone(double initialPLvl, double rateOfEvap, double rateOfDepos, double relativeImpP, double relativeImpE) {
-		initialPLvl = 0.0;
+	public pheromone(double PlvlPLvl, double rateOfEvap, double rateOfDepos, double relativeImpP, double relativeImpE) {
+		initPlvl = 0.0;
 		rateOfEvap = 0.5;
 		rateOfDepos = 100.0;
 		relativeImpP = 1.0;
 		relativeImpE = 5.0;
+		PlvlPLvl = initPlvl;
 		
-		this.initialPLvl = initialPLvl;
+		this.PlvlPLvl = PlvlPLvl;
 		this.rateOfEvap = rateOfEvap;
 		this.rateOfDepos = rateOfDepos;
 		this.relativeImpP = relativeImpP;
@@ -38,15 +40,15 @@ public class pheromone {
 	
 	
 	
-	private void setPlvl(ArrayList<float[]> route, int length,double newlvl) {
+	public void setPlvl(ArrayList<float[]> route, int length,double newlvl) {
 		length = route.size();
 		newlvl = getrateOfDepos()/length;
 		
-		initialPLvl = newlvl;
+		PlvlPLvl = newlvl;
 	}
 	
 	public double getPlvl() {
-		return initialPLvl;
+		return PlvlPLvl;
 	}
 	
 	private void setrateOfEvap(double newRateEvap) {

@@ -15,9 +15,15 @@ private pheromone pheromone;
 	public Aco() {
 		//Collumn 1 is first city, collumn 2 is second city, collumn 3 is PT
 	PtRoute = new ArrayList<float[]>();
-	pt = new double[PtRoute.size()][3];
-	pheromone = new pheromone(pheromone.getPlvl(), pheromone.getrateOfEvap(), pheromone.getrateOfDepos(), pheromone.getrelativeImpP(), pheromone.getrelativeImpE());
 	
+	//pheromone = new pheromone(pheromone.getPlvl(), pheromone.getrateOfEvap(), pheromone.getrateOfDepos(), pheromone.getrelativeImpP(), pheromone.getrelativeImpE());
+	
+	}
+	
+	private void run(){
+		readFile();
+		cities = generateRandomRoute(cities);
+		
 	}
 
 	public ArrayList<float[]> readFile() {
@@ -164,11 +170,16 @@ private pheromone pheromone;
 	
 	private void ACOAlgo() {
 		int numOfAnts = 10;
+		
 		//pheromone pheromone = new pheromone(0, 0, 0, 0, 0);
 		pheromone[] pheremones = new pheromone[cities.size()];
 		for(int i = 0 ; i < pheremones.length;i++) {
 			pheremones[i] = new pheromone(pheromone.getPlvl(), pheromone.getrateOfEvap(), pheromone.getrateOfDepos(), pheromone.getrelativeImpP(), pheromone.getrelativeImpE());
 		}
 		
+		for(float[] element : cities){
+			int counter = 0;
+			cities.get
+		}
 	}
 }

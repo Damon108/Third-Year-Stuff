@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<package version="0.0.0" uuid="facerecognition-98720e">
+<package uuid="facerecognition-98720e" version="0.0.0">
  <names>
   <name lang="en_US">Untitled</name>
  </names>
@@ -40,6 +40,20 @@
    <permissions/>
   </behaviorContent>
   <behaviorContent path="Remembering direction of noises">
+   <nature>interactive</nature>
+   <triggerSentences/>
+   <loadingResponses/>
+   <autonomous/>
+   <permissions/>
+  </behaviorContent>
+  <behaviorContent path="say">
+   <nature>interactive</nature>
+   <triggerSentences/>
+   <loadingResponses/>
+   <autonomous/>
+   <permissions/>
+  </behaviorContent>
+  <behaviorContent path="Face recognition and learning new faces">
    <nature>interactive</nature>
    <permissions/>
   </behaviorContent>

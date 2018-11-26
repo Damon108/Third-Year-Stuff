@@ -7,6 +7,8 @@
         <BehaviorDescription name="behavior" src="Learning and recognition of faces" xar="behavior.xar" />
         <BehaviorDescription name="behavior" src="Seeking out Faces" xar="behavior.xar" />
         <BehaviorDescription name="behavior" src="Remembering direction of noises" xar="behavior.xar" />
+        <BehaviorDescription name="behavior" src="say" xar="behavior.xar" />
+        <BehaviorDescription name="behavior" src="Face recognition and learning new faces" xar="behavior.xar" />
     </BehaviorDescriptions>
     <Dialogs />
     <Resources />
