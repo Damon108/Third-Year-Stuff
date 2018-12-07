@@ -2,10 +2,10 @@
 5
 .
 .
-index J 0 0.5309005483132162
-index J 1 1.2919088882881802
-index J 2 1.70620060893149
-index J 3 1.9749471491359105
+index J 0 0.33790839682763607
+index J 1 0.7418405438241289
+index J 2 1.2073208590999482
+index J 3 1.537027548405364
 index J 4 2.5
 0.25
 5
@@ -14,56 +14,29 @@ index J 4 2.5
 .
 .
 .
-index J 0 0.28648605910784797
-index J 1 1.2380519895937638
-index J 2 1.6138152847895775
-index J 3 1.9476027504374804
+.
+index J 0 0.30977714496916775
+index J 1 0.901262790685794
+index J 2 1.5611848669245223
+index J 3 1.9934283447543988
 index J 4 2.5
-cPOS 20.495643183175186
-tempPos 16.235864968602428
-SSL value 20.495643183175186
-new SLL VALUE 20.495643183175186
+cPOS 16.586185082069708
+tempPos 7.35250697339262
+SSL value 16.586185082069708
+new SLL VALUE 16.586185082069708
 0.25
 5
-.
-.
-.
 .
 .
 .
-index J 0 0.3900824489620436
-index J 1 0.8604335504995937
-index J 2 1.3923572127395347
-index J 3 1.9214303771127037
-index J 4 2.5
-0.25
-5
 .
 .
 .
-index J 0 0.5083039678895203
-index J 1 1.4875666448322995
-index J 2 1.7471975766247454
-index J 3 1.9982280972337292
-index J 4 2.5
-cPOS 4.985357653663214
-tempPos 19.335998358358253
-SSL value 4.985357653663214
-new SLL VALUE 4.985357653663214
-0.25
-5
 .
 .
 .
 .
 .
-index J 0 0.26537121193481883
-index J 1 0.8565996693244131
-index J 2 1.2725060317101349
-index J 3 1.9279729288009544
-index J 4 2.5
-0.25
-5
 .
 .
 .
@@ -71,42 +44,16 @@ index J 4 2.5
 .
 .
 .
-index J 0 0.8179200048093557
-index J 1 1.1525277039350263
-index J 2 1.4836894530837854
-index J 3 1.751566594771121
+index J 0 0.8451363981666656
+index J 1 1.341906518829684
+index J 2 1.6473592299246145
+index J 3 1.932484902014908
 index J 4 2.5
-cPOS 11.596168388807355
-tempPos 18.215783714542003
-SSL value 11.596168388807355
-new SLL VALUE 11.596168388807355
 0.25
 5
-.
-.
-.
 .
 .
 .
-index J 0 0.7106306680646737
-index J 1 1.0802267891628765
-index J 2 1.5368137611480812
-index J 3 1.7947251181214299
-index J 4 2.5
-0.25
-5
-.
-index J 0 0.48358332055509784
-index J 1 0.7795676259357102
-index J 2 1.6801089026681648
-index J 3 1.9448329534266915
-index J 4 2.5
-cPOS 18.04792821500951
-tempPos 15.906110038286796
-SSL value 18.04792821500951
-new SLL VALUE 18.04792821500951
-0.25
-5
 .
 .
 .
@@ -121,11 +68,22 @@ new SLL VALUE 18.04792821500951
 .
 .
 .
+index J 0 0.28213811966562596
+index J 1 0.9696515334864717
+index J 2 1.7205494788549354
+index J 3 1.9836736936021522
+index J 4 2.5
+cPOS 21.275361870179516
+tempPos 22.53982696319836
+SSL value 21.275361870179516
+new SLL VALUE 21.275361870179516
+0.25
+5
 .
-index J 0 0.7423483662126317
-index J 1 1.130767981550703
-index J 2 1.4537952764667421
-index J 3 1.9643986462749214
+index J 0 0.47262673466652433
+index J 1 0.7532525833789114
+index J 2 1.5931498436154805
+index J 3 1.985647042236713
 index J 4 2.5
 0.25
 5
@@ -143,56 +101,89 @@ index J 4 2.5
 .
 .
 .
+index J 0 0.8015512918584199
+index J 1 1.0924719533072331
+index J 2 1.499712914872379
+index J 3 1.957833736301762
+index J 4 2.5
+cPOS 15.019723229896284
+tempPos 16.956849404981106
+SSL value 15.019723229896284
+new SLL VALUE 15.019723229896284
+0.25
+5
 .
 .
+index J 0 0.8390659114922769
+index J 1 1.2990686967287444
+index J 2 1.7119679396345506
+index J 3 1.9693128625606315
+index J 4 2.5
+0.25
+5
 .
 .
 .
 .
-index J 0 0.6770062431844062
-index J 1 1.0571892917264896
-index J 2 1.5378446102461216
-index J 3 1.8882056326343268
+index J 0 0.2589677846163934
+index J 1 1.0927815675458739
+index J 2 1.422778025848843
+index J 3 1.853737170037024
 index J 4 2.5
-cPOS 16.245912547456452
-tempPos 15.075120717962736
-SSL value 16.245912547456452
-new SLL VALUE 16.245912547456452
+cPOS 20.990969451063574
+tempPos 18.603336704408765
+SSL value 20.990969451063574
+new SLL VALUE 20.990969451063574
 0.25
 5
 .
+index J 0 0.45990103122489423
+index J 1 1.1914973145475063
+index J 2 1.5332358680789078
+index J 3 1.8774569448200567
+index J 4 2.5
+0.25
+5
 .
 .
 .
 .
-index J 0 0.3165950483383345
-index J 1 1.1998730758835143
-index J 2 1.5378187265715246
-index J 3 1.7995261998384997
+index J 0 0.33167697052215794
+index J 1 0.8232423949429675
+index J 2 1.3761855650467454
+index J 3 1.938656129191424
 index J 4 2.5
+cPOS 17.011603247128093
+tempPos 3.9530009404387165
+SSL value 17.011603247128093
+new SLL VALUE 17.011603247128093
 0.25
 5
-.
 .
 .
 .
 .
 .
-index J 0 0.6894348304213246
-index J 1 1.113069307421793
-index J 2 1.6470781654131748
-index J 3 1.9292991037147045
+index J 0 0.734282009804756
+index J 1 1.0610671873055066
+index J 2 1.3983069767768406
+index J 3 1.9594003073827158
 index J 4 2.5
-cPOS 20.47800927163078
-tempPos 16.745367710851085
-SSL value 20.47800927163078
-new SLL VALUE 20.47800927163078
 0.25
 5
 .
 .
-.
-.
+index J 0 0.2675685142229619
+index J 1 0.5828361695761121
+index J 2 1.7378018315277566
+index J 3 1.9887098262719534
+index J 4 2.5
+cPOS 15.914667895173809
+tempPos 17.141222289982533
+SSL value 15.914667895173809
+new SLL VALUE 15.914667895173809
+0.25
+5
 .
 .
 .
@@ -201,25 +192,40 @@ new SLL VALUE 20.47800927163078
 .
 .
 .
+index J 0 0.5862361371467921
+index J 1 0.9507443286039073
+index J 2 1.3775805946434967
+index J 3 1.8548241261760734
+index J 4 2.5
+0.25
+5
 .
 .
 .
 .
 .
 .
-index J 0 0.9392693502717144
-index J 1 1.4052624174701966
-index J 2 1.6763359036437915
-index J 3 1.9829241368540904
+index J 0 0.8561618694106139
+index J 1 1.1073852082856852
+index J 2 1.4356150868303796
+index J 3 1.9435321489608262
 index J 4 2.5
+cPOS 15.454899741961688
+tempPos 17.454885055625773
+SSL value 15.454899741961688
+new SLL VALUE 15.454899741961688
 0.25
 5
 .
 .
 .
-.
-.
-.
+index J 0 0.9980449389536267
+index J 1 1.2865238617960493
+index J 2 1.6286160186093452
+index J 3 1.9866425432269048
+index J 4 2.5
+0.25
+5
 .
 .
 .
@@ -231,41 +237,57 @@ index J 4 2.5
 .
 .
 .
+index J 0 0.5207837005428343
+index J 1 1.1181945610421775
+index J 2 1.4793602928817766
+index J 3 1.7561618946197628
+index J 4 2.5
+cPOS 22.32568046681475
+tempPos 16.281364608532346
+SSL value 22.32568046681475
+new SLL VALUE 22.32568046681475
+0.25
+5
 .
 .
 .
 .
-index J 0 0.5703246484653357
-index J 1 1.0677601608625449
-index J 2 1.5859609232972756
-index J 3 1.9235370358214785
+index J 0 0.7910803966586152
+index J 1 1.327437532220787
+index J 2 1.703111594370905
+index J 3 1.9840194232403692
 index J 4 2.5
-cPOS 22.870280134129366
-tempPos 14.075833613723024
-SSL value 22.870280134129366
-new SLL VALUE 22.870280134129366
 0.25
 5
+.
 .
 .
 .
 .
+index J 0 0.4725565064103914
+index J 1 0.8430114387327509
+index J 2 1.6348707532423252
+index J 3 1.956100006599216
+index J 4 2.5
+cPOS 20.65942587399199
+tempPos 11.344851167906999
+SSL value 20.65942587399199
+new SLL VALUE 20.65942587399199
+0.25
+5
 .
 .
 .
 .
 .
 .
-index J 0 0.743153218331655
-index J 1 0.9997064227588205
-index J 2 1.4669006256270731
-index J 3 1.9086704437669764
+index J 0 0.5943981766427999
+index J 1 0.950229801286365
+index J 2 1.2086458585502133
+index J 3 1.6017317729609584
 index J 4 2.5
 0.25
 5
-.
-.
-.
 .
 .
 .
@@ -283,27 +305,19 @@ index J 4 2.5
 .
 .
 .
-index J 0 0.5713888812033925
-index J 1 1.2992795205761503
-index J 2 1.582074521417041
-index J 3 1.8449582883791653
-index J 4 2.5
-cPOS 14.505554065410621
-tempPos 19.332841941733907
-SSL value 14.505554065410621
-new SLL VALUE 14.505554065410621
-0.25
-5
 .
 .
-index J 0 1.0081195401739067
-index J 1 1.3074338883546281
-index J 2 1.557667010073825
-index J 3 1.9291196872790917
+index J 0 0.6081503839311351
+index J 1 1.4318801375189618
+index J 2 1.721863574085201
+index J 3 1.989471269392476
 index J 4 2.5
+cPOS 13.244874364982442
+tempPos 19.70465279197483
+SSL value 13.244874364982442
+new SLL VALUE 13.244874364982442
 0.25
 5
-.
 .
 .
 .
@@ -318,17 +332,11 @@ index J 4 2.5
 .
 .
 .
-.
-.
-index J 0 0.7504447260289644
-index J 1 1.323229851256361
-index J 2 1.7213233401762253
-index J 3 1.9861380260628234
+index J 0 0.9640369103878537
+index J 1 1.4197470020357725
+index J 2 1.7257860802826033
+index J 3 1.9982153893818817
 index J 4 2.5
-cPOS 22.43515640913481
-tempPos 20.22118359024333
-SSL value 22.43515640913481
-new SLL VALUE 22.43515640913481
 0.25
 5
 .
@@ -339,75 +347,47 @@ new SLL VALUE 22.43515640913481
 .
 .
 .
-.
-index J 0 0.4323868711180317
-index J 1 1.0135263450486844
-index J 2 1.7024389120395804
-index J 3 1.971319831165114
+index J 0 0.33974850291727676
+index J 1 0.7311999845402397
+index J 2 1.6893675302771733
+index J 3 1.9766812228300374
 index J 4 2.5
+cPOS 23.368019323622136
+tempPos 10.614861454706697
+SSL value 23.368019323622136
+new SLL VALUE 23.368019323622136
 0.25
 5
 .
-index J 0 0.6394919310361213
-index J 1 1.0071458201639607
-index J 2 1.4367545221597764
-index J 3 1.8170477198881212
-index J 4 2.5
-cPOS 24.256658825980814
-tempPos 12.773933454346816
-SSL value 24.256658825980814
-new SLL VALUE 24.256658825980814
-0.25
-5
 .
 .
 .
 .
-index J 0 0.3957682862842234
-index J 1 1.2985577371907622
-index J 2 1.7091104919004518
-index J 3 1.9670622509458726
-index J 4 2.5
-0.25
-5
 .
 .
-index J 0 0.6359933037781559
-index J 1 1.0180661171774992
-index J 2 1.6546003959157285
-index J 3 1.946673772186954
+index J 0 0.9023813316067784
+index J 1 1.1582730593130801
+index J 2 1.4512315755933087
+index J 3 1.8893566415092748
 index J 4 2.5
-cPOS 18.989832374867767
-tempPos 14.637076385780418
-SSL value 18.989832374867767
-new SLL VALUE 18.989832374867767
 0.25
 5
-.
 .
 .
-.
-index J 0 0.9805660613157114
-index J 1 1.3250881361420013
-index J 2 1.6727218066971046
-index J 3 1.998157466170758
-index J 4 2.5
-0.25
-5
 .
 .
 .
 .
 .
-index J 0 0.5400788762954672
-index J 1 0.9520301074677793
-index J 2 1.7153315810666925
-index J 3 1.9874896312713835
+index J 0 0.43275798594974973
+index J 1 0.7806623225242083
+index J 2 1.2957525445278164
+index J 3 1.9631087881102816
 index J 4 2.5
-cPOS 22.619791682417624
-tempPos 14.810211804626976
-SSL value 22.619791682417624
-new SLL VALUE 22.619791682417624
+cPOS 19.04230821551718
+tempPos 18.105957273856877
+SSL value 19.04230821551718
+new SLL VALUE 19.04230821551718
 0.25
 5
 .
@@ -422,14 +402,14 @@ new SLL VALUE 22.619791682417624
 .
 .
 .
-index J 0 0.792793715675739
-index J 1 1.0677195808766118
-index J 2 1.4982485427769454
-index J 3 1.947107109175651
+.
+index J 0 0.2963798764146438
+index J 1 1.2927003579412777
+index J 2 1.5567795282342385
+index J 3 1.969098874073785
 index J 4 2.5
 0.25
 5
-.
 .
 .
 .
@@ -441,88 +421,98 @@ index J 4 2.5
 .
 .
 .
-index J 0 0.722200356993806
-index J 1 1.1992844154282805
-index J 2 1.5523580218834703
-index J 3 1.9630713319991415
+index J 0 0.8182477380490217
+index J 1 1.1462588327479386
+index J 2 1.6902455459979526
+index J 3 1.9719509798827621
 index J 4 2.5
-cPOS 16.496112738794196
-tempPos 17.666024043281563
-SSL value 16.496112738794196
-new SLL VALUE 16.496112738794196
+cPOS 14.271155234020634
+tempPos 18.986127225165962
+SSL value 14.271155234020634
+new SLL VALUE 14.271155234020634
 0.25
 5
 .
 .
 .
-index J 0 0.3865377201242751
-index J 1 0.8853150086191809
-index J 2 1.4296799317225954
-index J 3 1.7782033471837022
-index J 4 2.5
-0.25
-5
+.
 .
 .
-index J 0 0.35675315913591543
-index J 1 0.9422498463717097
-index J 2 1.7165078123587025
-index J 3 1.9715698581923387
+.
+index J 0 0.47818781844477554
+index J 1 1.0777682291881159
+index J 2 1.591933496478842
+index J 3 1.858226864506648
 index J 4 2.5
-cPOS 13.404627034997802
-tempPos 23.12629432154854
-SSL value 13.404627034997802
-new SLL VALUE 13.404627034997802
 0.25
 5
-.
 .
 .
 .
 .
+index J 0 0.29936332537420085
+index J 1 1.1630782602126513
+index J 2 1.4722098312380758
+index J 3 1.85886250891636
+index J 4 2.5
+cPOS 22.96798626680726
+tempPos 18.61169898141043
+SSL value 22.96798626680726
+new SLL VALUE 22.96798626680726
+0.25
+5
 .
 .
 .
 .
 .
 .
-index J 0 0.613660793935439
-index J 1 1.0940121402484004
-index J 2 1.6909713399086526
-index J 3 1.9947851792277742
+index J 0 1.0071544138878705
+index J 1 1.377130068462049
+index J 2 1.7195352429728452
+index J 3 1.9816180194179942
 index J 4 2.5
 0.25
 5
 .
 .
 .
-index J 0 0.6471021619466392
-index J 1 0.8985170363020311
-index J 2 1.7369400658327663
-index J 3 1.9970932188034876
+index J 0 0.2943672302424492
+index J 1 1.228149195129895
+index J 2 1.6538588602598245
+index J 3 1.923102282089109
 index J 4 2.5
-cPOS 15.64623451812292
-tempPos 17.23974064017437
-SSL value 15.64623451812292
-new SLL VALUE 15.64623451812292
+cPOS 23.50345064497311
+tempPos 21.249319352420642
+SSL value 23.50345064497311
+new SLL VALUE 23.50345064497311
 0.25
 5
-.
 .
 .
 .
 .
 .
 .
-index J 0 1.1302307832029383
-index J 1 1.475437787719945
-index J 2 1.7367472052771598
-index J 3 1.9968433969673096
+index J 0 0.680810866130065
+index J 1 1.1062509095345976
+index J 2 1.4468024119787688
+index J 3 1.88388918329691
 index J 4 2.5
 0.25
 5
 .
-.
+index J 0 0.2849322879486606
+index J 1 0.6084452876543106
+index J 2 1.5590622142776427
+index J 3 1.9125380336940765
+index J 4 2.5
+cPOS 18.853879571794025
+tempPos 16.721863657158096
+SSL value 18.853879571794025
+new SLL VALUE 18.853879571794025
+0.25
+5
 .
 .
 .
@@ -533,19 +523,13 @@ index J 4 2.5
 .
 .
 .
-index J 0 0.773260665511942
-index J 1 1.3070570361098213
-index J 2 1.6725755205484014
-index J 3 1.9418441634433614
+index J 0 0.9425286956117546
+index J 1 1.3702880274367795
+index J 2 1.742513772655475
+index J 3 1.9966861757552843
 index J 4 2.5
-cPOS 25.369376299731023
-tempPos 20.19881710748756
-SSL value 25.369376299731023
-new SLL VALUE 25.369376299731023
 0.25
 5
-.
-.
 .
 .
 .
@@ -553,35 +537,19 @@ new SLL VALUE 25.369376299731023
 .
 .
 .
-.
-.
-.
-.
-.
-.
-index J 0 0.7431152711827208
-index J 1 1.0566742081575125
-index J 2 1.4565733548705444
-index J 3 1.834744050113983
+index J 0 0.40548371797620897
+index J 1 0.7181938013071535
+index J 2 1.1145513685331636
+index J 3 1.8061706470611472
 index J 4 2.5
+cPOS 22.811147626423733
+tempPos 21.029793298182188
+SSL value 22.811147626423733
+new SLL VALUE 22.811147626423733
 0.25
 5
-.
-.
 .
 .
-index J 0 0.5346461718442918
-index J 1 0.8328709950442549
-index J 2 1.3309531526342162
-index J 3 1.6034801759565793
-index J 4 2.5
-cPOS 15.458653300381544
-tempPos 20.483725148512313
-SSL value 15.458653300381544
-new SLL VALUE 15.458653300381544
-0.25
-5
-.
 .
 .
 .
@@ -590,30 +558,20 @@ new SLL VALUE 15.458653300381544
 .
 .
 .
-index J 0 0.3853811278027018
-index J 1 0.9338573741046713
-index J 2 1.6734537659139754
-index J 3 1.9832882883212106
-index J 4 2.5
-0.25
-5
 .
 .
 .
 .
 .
 .
-index J 0 0.8390010830092047
-index J 1 1.1996348748030292
-index J 2 1.5741428190827367
-index J 3 1.908275337004452
+index J 0 0.7199304907019902
+index J 1 1.1650052264114483
+index J 2 1.7027233511592113
+index J 3 1.95274580778198
 index J 4 2.5
-cPOS 19.937548475381973
-tempPos 19.44374176614608
-SSL value 19.937548475381973
-new SLL VALUE 19.937548475381973
 0.25
 5
+.
 .
 .
 .
@@ -621,31 +579,39 @@ new SLL VALUE 19.937548475381973
 .
 .
 .
-index J 0 0.33698507606643957
-index J 1 1.0467384432031537
-index J 2 1.5771426864037852
-index J 3 1.8981637879509878
+.
+.
+index J 0 0.28628026871842815
+index J 1 1.2268452536339778
+index J 2 1.5498783261271398
+index J 3 1.871251158755985
 index J 4 2.5
+cPOS 18.75039361982915
+tempPos 16.814661014433433
+SSL value 18.75039361982915
+new SLL VALUE 18.75039361982915
 0.25
 5
 .
-index J 0 0.9311274806547073
-index J 1 1.2014991985916066
-index J 2 1.6553214899485482
-index J 3 1.9175795777430984
+.
+index J 0 1.0661763861498308
+index J 1 1.4753306139080862
+index J 2 1.7336242364924503
+index J 3 1.9844710256496392
 index J 4 2.5
-cPOS 23.586535256479735
-tempPos 20.96570827491602
-SSL value 23.586535256479735
-new SLL VALUE 23.586535256479735
 0.25
 5
+.
 .
-index J 0 0.5035880372289483
-index J 1 1.1957576300476047
-index J 2 1.7305592757443822
-index J 3 1.9911222204457806
+index J 0 0.26849524375796635
+index J 1 1.426220922246995
+index J 2 1.714218337218997
+index J 3 1.996313836609215
 index J 4 2.5
+cPOS 24.792890616462916
+tempPos 16.8153790464913
+SSL value 24.792890616462916
+new SLL VALUE 24.792890616462916
 0.25
 5
 .
@@ -654,19 +620,40 @@ index J 4 2.5
 .
 .
 .
+.
+index J 0 0.45189895623979925
+index J 1 1.3527394093284708
+index J 2 1.7308963511510875
+index J 3 1.981487728632163
+index J 4 2.5
+0.25
+5
 .
 .
 .
-index J 0 1.1937510210079973
-index J 1 1.4771907198815224
-index J 2 1.745379104768285
-index J 3 1.9990796673772522
+index J 0 0.59161504847835
+index J 1 1.0523121844936196
+index J 2 1.4692209784015047
+index J 3 1.7240995280702613
 index J 4 2.5
-cPOS 20.47771390725056
-tempPos 25.943192967381865
-SSL value 20.47771390725056
-new SLL VALUE 20.47771390725056
-new globalBest Found`4.985357653663214
+cPOS 17.465561142310072
+tempPos 15.356889611725533
+SSL value 17.465561142310072
+new SLL VALUE 17.465561142310072
+new globalBest Found`15.019723229896284
+new globalBest Found`13.244874364982442
+pb is : [D@87aac27
+pb is : [D@87aac27
+pb is : [D@87aac27
+pb is : [D@87aac27
+pb is : [D@87aac27
+nope1.7976931348623157E308
+pb is : [D@3e3abc88
+pb is : [D@3e3abc88
+pb is : [D@3e3abc88
+pb is : [D@3e3abc88
+pb is : [D@3e3abc88
+nope1.7976931348623157E308
 pb is : [D@6ce253f1
 pb is : [D@6ce253f1
 pb is : [D@6ce253f1
@@ -775,17 +762,17 @@ pb is : [D@214c265e
 pb is : [D@214c265e
 pb is : [D@214c265e
 nope1.7976931348623157E308
-pb is : [D@448139f0
-pb is : [D@448139f0
-pb is : [D@448139f0
-pb is : [D@448139f0
-pb is : [D@448139f0
+pb is : [D@87aac27
+pb is : [D@87aac27
+pb is : [D@87aac27
+pb is : [D@87aac27
+pb is : [D@87aac27
 nope1.7976931348623157E308
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-pb is : [D@7cca494b
+pb is : [D@3e3abc88
+pb is : [D@3e3abc88
+pb is : [D@3e3abc88
+pb is : [D@3e3abc88
+pb is : [D@3e3abc88
 nope1.7976931348623157E308
 pb is : [D@6ce253f1
 pb is : [D@6ce253f1
@@ -895,17 +882,17 @@ pb is : [D@214c265e
 pb is : [D@214c265e
 pb is : [D@214c265e
 nope1.7976931348623157E308
-pb is : [D@448139f0
-pb is : [D@448139f0
-pb is : [D@448139f0
-pb is : [D@448139f0
-pb is : [D@448139f0
+pb is : [D@87aac27
+pb is : [D@87aac27
+pb is : [D@87aac27
+pb is : [D@87aac27
+pb is : [D@87aac27
 nope1.7976931348623157E308
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-pb is : [D@7cca494b
+pb is : [D@3e3abc88
+pb is : [D@3e3abc88
+pb is : [D@3e3abc88
+pb is : [D@3e3abc88
+pb is : [D@3e3abc88
 nope1.7976931348623157E308
 pb is : [D@6ce253f1
 pb is : [D@6ce253f1
@@ -1015,17 +1002,17 @@ pb is : [D@214c265e
 pb is : [D@214c265e
 pb is : [D@214c265e
 nope1.7976931348623157E308
-pb is : [D@448139f0
-pb is : [D@448139f0
-pb is : [D@448139f0
-pb is : [D@448139f0
-pb is : [D@448139f0
+pb is : [D@87aac27
+pb is : [D@87aac27
+pb is : [D@87aac27
+pb is : [D@87aac27
+pb is : [D@87aac27
 nope1.7976931348623157E308
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-pb is : [D@7cca494b
+pb is : [D@3e3abc88
+pb is : [D@3e3abc88
+pb is : [D@3e3abc88
+pb is : [D@3e3abc88
+pb is : [D@3e3abc88
 nope1.7976931348623157E308
 pb is : [D@6ce253f1
 pb is : [D@6ce253f1
@@ -1135,17 +1122,17 @@ pb is : [D@214c265e
 pb is : [D@214c265e
 pb is : [D@214c265e
 nope1.7976931348623157E308
-pb is : [D@448139f0
-pb is : [D@448139f0
-pb is : [D@448139f0
-pb is : [D@448139f0
-pb is : [D@448139f0
+pb is : [D@87aac27
+pb is : [D@87aac27
+pb is : [D@87aac27
+pb is : [D@87aac27
+pb is : [D@87aac27
 nope1.7976931348623157E308
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-pb is : [D@7cca494b
+pb is : [D@3e3abc88
+pb is : [D@3e3abc88
+pb is : [D@3e3abc88
+pb is : [D@3e3abc88
+pb is : [D@3e3abc88
 nope1.7976931348623157E308
 pb is : [D@6ce253f1
 pb is : [D@6ce253f1
@@ -1255,17 +1242,17 @@ pb is : [D@214c265e
 pb is : [D@214c265e
 pb is : [D@214c265e
 nope1.7976931348623157E308
-pb is : [D@448139f0
-pb is : [D@448139f0
-pb is : [D@448139f0
-pb is : [D@448139f0
-pb is : [D@448139f0
+pb is : [D@87aac27
+pb is : [D@87aac27
+pb is : [D@87aac27
+pb is : [D@87aac27
+pb is : [D@87aac27
 nope1.7976931348623157E308
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-pb is : [D@7cca494b
+pb is : [D@3e3abc88
+pb is : [D@3e3abc88
+pb is : [D@3e3abc88
+pb is : [D@3e3abc88
+pb is : [D@3e3abc88
 nope1.7976931348623157E308
 pb is : [D@6ce253f1
 pb is : [D@6ce253f1
@@ -1375,17 +1362,17 @@ pb is : [D@214c265e
 pb is : [D@214c265e
 pb is : [D@214c265e
 nope1.7976931348623157E308
-pb is : [D@448139f0
-pb is : [D@448139f0
-pb is : [D@448139f0
-pb is : [D@448139f0
-pb is : [D@448139f0
+pb is : [D@87aac27
+pb is : [D@87aac27
+pb is : [D@87aac27
+pb is : [D@87aac27
+pb is : [D@87aac27
 nope1.7976931348623157E308
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-pb is : [D@7cca494b
+pb is : [D@3e3abc88
+pb is : [D@3e3abc88
+pb is : [D@3e3abc88
+pb is : [D@3e3abc88
+pb is : [D@3e3abc88
 nope1.7976931348623157E308
 pb is : [D@6ce253f1
 pb is : [D@6ce253f1
@@ -1495,17 +1482,17 @@ pb is : [D@214c265e
 pb is : [D@214c265e
 pb is : [D@214c265e
 nope1.7976931348623157E308
-pb is : [D@448139f0
-pb is : [D@448139f0
-pb is : [D@448139f0
-pb is : [D@448139f0
-pb is : [D@448139f0
+pb is : [D@87aac27
+pb is : [D@87aac27
+pb is : [D@87aac27
+pb is : [D@87aac27
+pb is : [D@87aac27
 nope1.7976931348623157E308
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-pb is : [D@7cca494b
+pb is : [D@3e3abc88
+pb is : [D@3e3abc88
+pb is : [D@3e3abc88
+pb is : [D@3e3abc88
+pb is : [D@3e3abc88
 nope1.7976931348623157E308
 pb is : [D@6ce253f1
 pb is : [D@6ce253f1
@@ -1615,17 +1602,17 @@ pb is : [D@214c265e
 pb is : [D@214c265e
 pb is : [D@214c265e
 nope1.7976931348623157E308
-pb is : [D@448139f0
-pb is : [D@448139f0
-pb is : [D@448139f0
-pb is : [D@448139f0
-pb is : [D@448139f0
+pb is : [D@87aac27
+pb is : [D@87aac27
+pb is : [D@87aac27
+pb is : [D@87aac27
+pb is : [D@87aac27
 nope1.7976931348623157E308
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-pb is : [D@7cca494b
+pb is : [D@3e3abc88
+pb is : [D@3e3abc88
+pb is : [D@3e3abc88
+pb is : [D@3e3abc88
+pb is : [D@3e3abc88
 nope1.7976931348623157E308
 pb is : [D@6ce253f1
 pb is : [D@6ce253f1
@@ -1735,17 +1722,17 @@ pb is : [D@214c265e
 pb is : [D@214c265e
 pb is : [D@214c265e
 nope1.7976931348623157E308
-pb is : [D@448139f0
-pb is : [D@448139f0
-pb is : [D@448139f0
-pb is : [D@448139f0
-pb is : [D@448139f0
+pb is : [D@87aac27
+pb is : [D@87aac27
+pb is : [D@87aac27
+pb is : [D@87aac27
+pb is : [D@87aac27
 nope1.7976931348623157E308
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-pb is : [D@7cca494b
+pb is : [D@3e3abc88
+pb is : [D@3e3abc88
+pb is : [D@3e3abc88
+pb is : [D@3e3abc88
+pb is : [D@3e3abc88
 nope1.7976931348623157E308
 pb is : [D@6ce253f1
 pb is : [D@6ce253f1
@@ -1855,17 +1842,17 @@ pb is : [D@214c265e
 pb is : [D@214c265e
 pb is : [D@214c265e
 nope1.7976931348623157E308
-pb is : [D@448139f0
-pb is : [D@448139f0
-pb is : [D@448139f0
-pb is : [D@448139f0
-pb is : [D@448139f0
+pb is : [D@87aac27
+pb is : [D@87aac27
+pb is : [D@87aac27
+pb is : [D@87aac27
+pb is : [D@87aac27
 nope1.7976931348623157E308
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-pb is : [D@7cca494b
+pb is : [D@3e3abc88
+pb is : [D@3e3abc88
+pb is : [D@3e3abc88
+pb is : [D@3e3abc88
+pb is : [D@3e3abc88
 nope1.7976931348623157E308
 pb is : [D@6ce253f1
 pb is : [D@6ce253f1
@@ -1975,17 +1962,17 @@ pb is : [D@214c265e
 pb is : [D@214c265e
 pb is : [D@214c265e
 nope1.7976931348623157E308
-pb is : [D@448139f0
-pb is : [D@448139f0
-pb is : [D@448139f0
-pb is : [D@448139f0
-pb is : [D@448139f0
+pb is : [D@87aac27
+pb is : [D@87aac27
+pb is : [D@87aac27
+pb is : [D@87aac27
+pb is : [D@87aac27
 nope1.7976931348623157E308
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-pb is : [D@7cca494b
+pb is : [D@3e3abc88
+pb is : [D@3e3abc88
+pb is : [D@3e3abc88
+pb is : [D@3e3abc88
+pb is : [D@3e3abc88
 nope1.7976931348623157E308
 pb is : [D@6ce253f1
 pb is : [D@6ce253f1
@@ -2034,9 +2021,7 @@ pb is : [D@4c873330
 pb is : [D@4c873330
 pb is : [D@4c873330
 pb is : [D@4c873330
-nope16.69478225672085
-|||||||||||||||||||||16.69478225672085
-current SSL 14.505554065410621
+nope1.7976931348623157E308
 pb is : [D@119d7047
 pb is : [D@119d7047
 pb is : [D@119d7047
@@ -2097,17 +2082,17 @@ pb is : [D@214c265e
 pb is : [D@214c265e
 pb is : [D@214c265e
 nope1.7976931348623157E308
-pb is : [D@448139f0
-pb is : [D@448139f0
-pb is : [D@448139f0
-pb is : [D@448139f0
-pb is : [D@448139f0
+pb is : [D@87aac27
+pb is : [D@87aac27
+pb is : [D@87aac27
+pb is : [D@87aac27
+pb is : [D@87aac27
 nope1.7976931348623157E308
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-pb is : [D@7cca494b
+pb is : [D@3e3abc88
+pb is : [D@3e3abc88
+pb is : [D@3e3abc88
+pb is : [D@3e3abc88
+pb is : [D@3e3abc88
 nope1.7976931348623157E308
 pb is : [D@6ce253f1
 pb is : [D@6ce253f1
@@ -2217,17 +2202,17 @@ pb is : [D@214c265e
 pb is : [D@214c265e
 pb is : [D@214c265e
 nope1.7976931348623157E308
-pb is : [D@448139f0
-pb is : [D@448139f0
-pb is : [D@448139f0
-pb is : [D@448139f0
-pb is : [D@448139f0
+pb is : [D@87aac27
+pb is : [D@87aac27
+pb is : [D@87aac27
+pb is : [D@87aac27
+pb is : [D@87aac27
 nope1.7976931348623157E308
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-pb is : [D@7cca494b
+pb is : [D@3e3abc88
+pb is : [D@3e3abc88
+pb is : [D@3e3abc88
+pb is : [D@3e3abc88
+pb is : [D@3e3abc88
 nope1.7976931348623157E308
 pb is : [D@6ce253f1
 pb is : [D@6ce253f1
@@ -2337,17 +2322,17 @@ pb is : [D@214c265e
 pb is : [D@214c265e
 pb is : [D@214c265e
 nope1.7976931348623157E308
-pb is : [D@448139f0
-pb is : [D@448139f0
-pb is : [D@448139f0
-pb is : [D@448139f0
-pb is : [D@448139f0
+pb is : [D@87aac27
+pb is : [D@87aac27
+pb is : [D@87aac27
+pb is : [D@87aac27
+pb is : [D@87aac27
 nope1.7976931348623157E308
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-pb is : [D@7cca494b
+pb is : [D@3e3abc88
+pb is : [D@3e3abc88
+pb is : [D@3e3abc88
+pb is : [D@3e3abc88
+pb is : [D@3e3abc88
 nope1.7976931348623157E308
 pb is : [D@6ce253f1
 pb is : [D@6ce253f1
@@ -2457,17 +2442,17 @@ pb is : [D@214c265e
 pb is : [D@214c265e
 pb is : [D@214c265e
 nope1.7976931348623157E308
-pb is : [D@448139f0
-pb is : [D@448139f0
-pb is : [D@448139f0
-pb is : [D@448139f0
-pb is : [D@448139f0
+pb is : [D@87aac27
+pb is : [D@87aac27
+pb is : [D@87aac27
+pb is : [D@87aac27
+pb is : [D@87aac27
 nope1.7976931348623157E308
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-pb is : [D@7cca494b
+pb is : [D@3e3abc88
+pb is : [D@3e3abc88
+pb is : [D@3e3abc88
+pb is : [D@3e3abc88
+pb is : [D@3e3abc88
 nope1.7976931348623157E308
 pb is : [D@6ce253f1
 pb is : [D@6ce253f1
@@ -2577,17 +2562,17 @@ pb is : [D@214c265e
 pb is : [D@214c265e
 pb is : [D@214c265e
 nope1.7976931348623157E308
-pb is : [D@448139f0
-pb is : [D@448139f0
-pb is : [D@448139f0
-pb is : [D@448139f0
-pb is : [D@448139f0
+pb is : [D@87aac27
+pb is : [D@87aac27
+pb is : [D@87aac27
+pb is : [D@87aac27
+pb is : [D@87aac27
 nope1.7976931348623157E308
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-pb is : [D@7cca494b
+pb is : [D@3e3abc88
+pb is : [D@3e3abc88
+pb is : [D@3e3abc88
+pb is : [D@3e3abc88
+pb is : [D@3e3abc88
 nope1.7976931348623157E308
 pb is : [D@6ce253f1
 pb is : [D@6ce253f1
@@ -2697,17 +2682,17 @@ pb is : [D@214c265e
 pb is : [D@214c265e
 pb is : [D@214c265e
 nope1.7976931348623157E308
-pb is : [D@448139f0
-pb is : [D@448139f0
-pb is : [D@448139f0
-pb is : [D@448139f0
-pb is : [D@448139f0
+pb is : [D@87aac27
+pb is : [D@87aac27
+pb is : [D@87aac27
+pb is : [D@87aac27
+pb is : [D@87aac27
 nope1.7976931348623157E308
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-pb is : [D@7cca494b
+pb is : [D@3e3abc88
+pb is : [D@3e3abc88
+pb is : [D@3e3abc88
+pb is : [D@3e3abc88
+pb is : [D@3e3abc88
 nope1.7976931348623157E308
 pb is : [D@6ce253f1
 pb is : [D@6ce253f1
@@ -2817,17 +2802,17 @@ pb is : [D@214c265e
 pb is : [D@214c265e
 pb is : [D@214c265e
 nope1.7976931348623157E308
-pb is : [D@448139f0
-pb is : [D@448139f0
-pb is : [D@448139f0
-pb is : [D@448139f0
-pb is : [D@448139f0
+pb is : [D@87aac27
+pb is : [D@87aac27
+pb is : [D@87aac27
+pb is : [D@87aac27
+pb is : [D@87aac27
 nope1.7976931348623157E308
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-pb is : [D@7cca494b
+pb is : [D@3e3abc88
+pb is : [D@3e3abc88
+pb is : [D@3e3abc88
+pb is : [D@3e3abc88
+pb is : [D@3e3abc88
 nope1.7976931348623157E308
 pb is : [D@6ce253f1
 pb is : [D@6ce253f1
@@ -2937,17 +2922,17 @@ pb is : [D@214c265e
 pb is : [D@214c265e
 pb is : [D@214c265e
 nope1.7976931348623157E308
-pb is : [D@448139f0
-pb is : [D@448139f0
-pb is : [D@448139f0
-pb is : [D@448139f0
-pb is : [D@448139f0
+pb is : [D@87aac27
+pb is : [D@87aac27
+pb is : [D@87aac27
+pb is : [D@87aac27
+pb is : [D@87aac27
 nope1.7976931348623157E308
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-pb is : [D@7cca494b
+pb is : [D@3e3abc88
+pb is : [D@3e3abc88
+pb is : [D@3e3abc88
+pb is : [D@3e3abc88
+pb is : [D@3e3abc88
 nope1.7976931348623157E308
 pb is : [D@6ce253f1
 pb is : [D@6ce253f1
@@ -3057,17 +3042,17 @@ pb is : [D@214c265e
 pb is : [D@214c265e
 pb is : [D@214c265e
 nope1.7976931348623157E308
-pb is : [D@448139f0
-pb is : [D@448139f0
-pb is : [D@448139f0
-pb is : [D@448139f0
-pb is : [D@448139f0
+pb is : [D@87aac27
+pb is : [D@87aac27
+pb is : [D@87aac27
+pb is : [D@87aac27
+pb is : [D@87aac27
 nope1.7976931348623157E308
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-pb is : [D@7cca494b
+pb is : [D@3e3abc88
+pb is : [D@3e3abc88
+pb is : [D@3e3abc88
+pb is : [D@3e3abc88
+pb is : [D@3e3abc88
 nope1.7976931348623157E308
 pb is : [D@6ce253f1
 pb is : [D@6ce253f1
@@ -3177,17 +3162,17 @@ pb is : [D@214c265e
 pb is : [D@214c265e
 pb is : [D@214c265e
 nope1.7976931348623157E308
-pb is : [D@448139f0
-pb is : [D@448139f0
-pb is : [D@448139f0
-pb is : [D@448139f0
-pb is : [D@448139f0
+pb is : [D@87aac27
+pb is : [D@87aac27
+pb is : [D@87aac27
+pb is : [D@87aac27
+pb is : [D@87aac27
 nope1.7976931348623157E308
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-pb is : [D@7cca494b
+pb is : [D@3e3abc88
+pb is : [D@3e3abc88
+pb is : [D@3e3abc88
+pb is : [D@3e3abc88
+pb is : [D@3e3abc88
 nope1.7976931348623157E308
 pb is : [D@6ce253f1
 pb is : [D@6ce253f1
@@ -3297,17 +3282,17 @@ pb is : [D@214c265e
 pb is : [D@214c265e
 pb is : [D@214c265e
 nope1.7976931348623157E308
-pb is : [D@448139f0
-pb is : [D@448139f0
-pb is : [D@448139f0
-pb is : [D@448139f0
-pb is : [D@448139f0
+pb is : [D@87aac27
+pb is : [D@87aac27
+pb is : [D@87aac27
+pb is : [D@87aac27
+pb is : [D@87aac27
 nope1.7976931348623157E308
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-pb is : [D@7cca494b
+pb is : [D@3e3abc88
+pb is : [D@3e3abc88
+pb is : [D@3e3abc88
+pb is : [D@3e3abc88
+pb is : [D@3e3abc88
 nope1.7976931348623157E308
 pb is : [D@6ce253f1
 pb is : [D@6ce253f1
@@ -3417,17 +3402,17 @@ pb is : [D@214c265e
 pb is : [D@214c265e
 pb is : [D@214c265e
 nope1.7976931348623157E308
-pb is : [D@448139f0
-pb is : [D@448139f0
-pb is : [D@448139f0
-pb is : [D@448139f0
-pb is : [D@448139f0
+pb is : [D@87aac27
+pb is : [D@87aac27
+pb is : [D@87aac27
+pb is : [D@87aac27
+pb is : [D@87aac27
 nope1.7976931348623157E308
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-pb is : [D@7cca494b
+pb is : [D@3e3abc88
+pb is : [D@3e3abc88
+pb is : [D@3e3abc88
+pb is : [D@3e3abc88
+pb is : [D@3e3abc88
 nope1.7976931348623157E308
 pb is : [D@6ce253f1
 pb is : [D@6ce253f1
@@ -3537,17 +3522,17 @@ pb is : [D@214c265e
 pb is : [D@214c265e
 pb is : [D@214c265e
 nope1.7976931348623157E308
-pb is : [D@448139f0
-pb is : [D@448139f0
-pb is : [D@448139f0
-pb is : [D@448139f0
-pb is : [D@448139f0
+pb is : [D@87aac27
+pb is : [D@87aac27
+pb is : [D@87aac27
+pb is : [D@87aac27
+pb is : [D@87aac27
 nope1.7976931348623157E308
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-pb is : [D@7cca494b
+pb is : [D@3e3abc88
+pb is : [D@3e3abc88
+pb is : [D@3e3abc88
+pb is : [D@3e3abc88
+pb is : [D@3e3abc88
 nope1.7976931348623157E308
 pb is : [D@6ce253f1
 pb is : [D@6ce253f1
@@ -3657,17 +3642,17 @@ pb is : [D@214c265e
 pb is : [D@214c265e
 pb is : [D@214c265e
 nope1.7976931348623157E308
-pb is : [D@448139f0
-pb is : [D@448139f0
-pb is : [D@448139f0
-pb is : [D@448139f0
-pb is : [D@448139f0
+pb is : [D@87aac27
+pb is : [D@87aac27
+pb is : [D@87aac27
+pb is : [D@87aac27
+pb is : [D@87aac27
 nope1.7976931348623157E308
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-pb is : [D@7cca494b
+pb is : [D@3e3abc88
+pb is : [D@3e3abc88
+pb is : [D@3e3abc88
+pb is : [D@3e3abc88
+pb is : [D@3e3abc88
 nope1.7976931348623157E308
 pb is : [D@6ce253f1
 pb is : [D@6ce253f1
@@ -3777,17 +3762,17 @@ pb is : [D@214c265e
 pb is : [D@214c265e
 pb is : [D@214c265e
 nope1.7976931348623157E308
-pb is : [D@448139f0
-pb is : [D@448139f0
-pb is : [D@448139f0
-pb is : [D@448139f0
-pb is : [D@448139f0
+pb is : [D@87aac27
+pb is : [D@87aac27
+pb is : [D@87aac27
+pb is : [D@87aac27
+pb is : [D@87aac27
 nope1.7976931348623157E308
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-pb is : [D@7cca494b
+pb is : [D@3e3abc88
+pb is : [D@3e3abc88
+pb is : [D@3e3abc88
+pb is : [D@3e3abc88
+pb is : [D@3e3abc88
 nope1.7976931348623157E308
 pb is : [D@6ce253f1
 pb is : [D@6ce253f1
@@ -3897,17 +3882,17 @@ pb is : [D@214c265e
 pb is : [D@214c265e
 pb is : [D@214c265e
 nope1.7976931348623157E308
-pb is : [D@448139f0
-pb is : [D@448139f0
-pb is : [D@448139f0
-pb is : [D@448139f0
-pb is : [D@448139f0
+pb is : [D@87aac27
+pb is : [D@87aac27
+pb is : [D@87aac27
+pb is : [D@87aac27
+pb is : [D@87aac27
 nope1.7976931348623157E308
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-pb is : [D@7cca494b
+pb is : [D@3e3abc88
+pb is : [D@3e3abc88
+pb is : [D@3e3abc88
+pb is : [D@3e3abc88
+pb is : [D@3e3abc88
 nope1.7976931348623157E308
 pb is : [D@6ce253f1
 pb is : [D@6ce253f1
@@ -4017,17 +4002,17 @@ pb is : [D@214c265e
 pb is : [D@214c265e
 pb is : [D@214c265e
 nope1.7976931348623157E308
-pb is : [D@448139f0
-pb is : [D@448139f0
-pb is : [D@448139f0
-pb is : [D@448139f0
-pb is : [D@448139f0
+pb is : [D@87aac27
+pb is : [D@87aac27
+pb is : [D@87aac27
+pb is : [D@87aac27
+pb is : [D@87aac27
 nope1.7976931348623157E308
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-pb is : [D@7cca494b
+pb is : [D@3e3abc88
+pb is : [D@3e3abc88
+pb is : [D@3e3abc88
+pb is : [D@3e3abc88
+pb is : [D@3e3abc88
 nope1.7976931348623157E308
 pb is : [D@6ce253f1
 pb is : [D@6ce253f1
@@ -4137,17 +4122,17 @@ pb is : [D@214c265e
 pb is : [D@214c265e
 pb is : [D@214c265e
 nope1.7976931348623157E308
-pb is : [D@448139f0
-pb is : [D@448139f0
-pb is : [D@448139f0
-pb is : [D@448139f0
-pb is : [D@448139f0
+pb is : [D@87aac27
+pb is : [D@87aac27
+pb is : [D@87aac27
+pb is : [D@87aac27
+pb is : [D@87aac27
 nope1.7976931348623157E308
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-pb is : [D@7cca494b
+pb is : [D@3e3abc88
+pb is : [D@3e3abc88
+pb is : [D@3e3abc88
+pb is : [D@3e3abc88
+pb is : [D@3e3abc88
 nope1.7976931348623157E308
 pb is : [D@6ce253f1
 pb is : [D@6ce253f1
@@ -4257,17 +4242,17 @@ pb is : [D@214c265e
 pb is : [D@214c265e
 pb is : [D@214c265e
 nope1.7976931348623157E308
-pb is : [D@448139f0
-pb is : [D@448139f0
-pb is : [D@448139f0
-pb is : [D@448139f0
-pb is : [D@448139f0
+pb is : [D@87aac27
+pb is : [D@87aac27
+pb is : [D@87aac27
+pb is : [D@87aac27
+pb is : [D@87aac27
 nope1.7976931348623157E308
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-pb is : [D@7cca494b
+pb is : [D@3e3abc88
+pb is : [D@3e3abc88
+pb is : [D@3e3abc88
+pb is : [D@3e3abc88
+pb is : [D@3e3abc88
 nope1.7976931348623157E308
 pb is : [D@6ce253f1
 pb is : [D@6ce253f1
@@ -4377,17 +4362,17 @@ pb is : [D@214c265e
 pb is : [D@214c265e
 pb is : [D@214c265e
 nope1.7976931348623157E308
-pb is : [D@448139f0
-pb is : [D@448139f0
-pb is : [D@448139f0
-pb is : [D@448139f0
-pb is : [D@448139f0
+pb is : [D@87aac27
+pb is : [D@87aac27
+pb is : [D@87aac27
+pb is : [D@87aac27
+pb is : [D@87aac27
 nope1.7976931348623157E308
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-pb is : [D@7cca494b
+pb is : [D@3e3abc88
+pb is : [D@3e3abc88
+pb is : [D@3e3abc88
+pb is : [D@3e3abc88
+pb is : [D@3e3abc88
 nope1.7976931348623157E308
 pb is : [D@6ce253f1
 pb is : [D@6ce253f1
@@ -4497,17 +4482,17 @@ pb is : [D@214c265e
 pb is : [D@214c265e
 pb is : [D@214c265e
 nope1.7976931348623157E308
-pb is : [D@448139f0
-pb is : [D@448139f0
-pb is : [D@448139f0
-pb is : [D@448139f0
-pb is : [D@448139f0
+pb is : [D@87aac27
+pb is : [D@87aac27
+pb is : [D@87aac27
+pb is : [D@87aac27
+pb is : [D@87aac27
 nope1.7976931348623157E308
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-pb is : [D@7cca494b
+pb is : [D@3e3abc88
+pb is : [D@3e3abc88
+pb is : [D@3e3abc88
+pb is : [D@3e3abc88
+pb is : [D@3e3abc88
 nope1.7976931348623157E308
 pb is : [D@6ce253f1
 pb is : [D@6ce253f1
@@ -4617,17 +4602,17 @@ pb is : [D@214c265e
 pb is : [D@214c265e
 pb is : [D@214c265e
 nope1.7976931348623157E308
-pb is : [D@448139f0
-pb is : [D@448139f0
-pb is : [D@448139f0
-pb is : [D@448139f0
-pb is : [D@448139f0
+pb is : [D@87aac27
+pb is : [D@87aac27
+pb is : [D@87aac27
+pb is : [D@87aac27
+pb is : [D@87aac27
 nope1.7976931348623157E308
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-pb is : [D@7cca494b
+pb is : [D@3e3abc88
+pb is : [D@3e3abc88
+pb is : [D@3e3abc88
+pb is : [D@3e3abc88
+pb is : [D@3e3abc88
 nope1.7976931348623157E308
 pb is : [D@6ce253f1
 pb is : [D@6ce253f1
@@ -4737,17 +4722,17 @@ pb is : [D@214c265e
 pb is : [D@214c265e
 pb is : [D@214c265e
 nope1.7976931348623157E308
-pb is : [D@448139f0
-pb is : [D@448139f0
-pb is : [D@448139f0
-pb is : [D@448139f0
-pb is : [D@448139f0
+pb is : [D@87aac27
+pb is : [D@87aac27
+pb is : [D@87aac27
+pb is : [D@87aac27
+pb is : [D@87aac27
 nope1.7976931348623157E308
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-pb is : [D@7cca494b
+pb is : [D@3e3abc88
+pb is : [D@3e3abc88
+pb is : [D@3e3abc88
+pb is : [D@3e3abc88
+pb is : [D@3e3abc88
 nope1.7976931348623157E308
 pb is : [D@6ce253f1
 pb is : [D@6ce253f1
@@ -4857,17 +4842,17 @@ pb is : [D@214c265e
 pb is : [D@214c265e
 pb is : [D@214c265e
 nope1.7976931348623157E308
-pb is : [D@448139f0
-pb is : [D@448139f0
-pb is : [D@448139f0
-pb is : [D@448139f0
-pb is : [D@448139f0
+pb is : [D@87aac27
+pb is : [D@87aac27
+pb is : [D@87aac27
+pb is : [D@87aac27
+pb is : [D@87aac27
 nope1.7976931348623157E308
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-pb is : [D@7cca494b
+pb is : [D@3e3abc88
+pb is : [D@3e3abc88
+pb is : [D@3e3abc88
+pb is : [D@3e3abc88
+pb is : [D@3e3abc88
 nope1.7976931348623157E308
 pb is : [D@6ce253f1
 pb is : [D@6ce253f1
@@ -4977,17 +4962,17 @@ pb is : [D@214c265e
 pb is : [D@214c265e
 pb is : [D@214c265e
 nope1.7976931348623157E308
-pb is : [D@448139f0
-pb is : [D@448139f0
-pb is : [D@448139f0
-pb is : [D@448139f0
-pb is : [D@448139f0
+pb is : [D@87aac27
+pb is : [D@87aac27
+pb is : [D@87aac27
+pb is : [D@87aac27
+pb is : [D@87aac27
 nope1.7976931348623157E308
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-pb is : [D@7cca494b
+pb is : [D@3e3abc88
+pb is : [D@3e3abc88
+pb is : [D@3e3abc88
+pb is : [D@3e3abc88
+pb is : [D@3e3abc88
 nope1.7976931348623157E308
 pb is : [D@6ce253f1
 pb is : [D@6ce253f1
@@ -5097,17 +5082,17 @@ pb is : [D@214c265e
 pb is : [D@214c265e
 pb is : [D@214c265e
 nope1.7976931348623157E308
-pb is : [D@448139f0
-pb is : [D@448139f0
-pb is : [D@448139f0
-pb is : [D@448139f0
-pb is : [D@448139f0
+pb is : [D@87aac27
+pb is : [D@87aac27
+pb is : [D@87aac27
+pb is : [D@87aac27
+pb is : [D@87aac27
 nope1.7976931348623157E308
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-pb is : [D@7cca494b
+pb is : [D@3e3abc88
+pb is : [D@3e3abc88
+pb is : [D@3e3abc88
+pb is : [D@3e3abc88
+pb is : [D@3e3abc88
 nope1.7976931348623157E308
 pb is : [D@6ce253f1
 pb is : [D@6ce253f1
@@ -5217,17 +5202,17 @@ pb is : [D@214c265e
 pb is : [D@214c265e
 pb is : [D@214c265e
 nope1.7976931348623157E308
-pb is : [D@448139f0
-pb is : [D@448139f0
-pb is : [D@448139f0
-pb is : [D@448139f0
-pb is : [D@448139f0
+pb is : [D@87aac27
+pb is : [D@87aac27
+pb is : [D@87aac27
+pb is : [D@87aac27
+pb is : [D@87aac27
 nope1.7976931348623157E308
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-pb is : [D@7cca494b
+pb is : [D@3e3abc88
+pb is : [D@3e3abc88
+pb is : [D@3e3abc88
+pb is : [D@3e3abc88
+pb is : [D@3e3abc88
 nope1.7976931348623157E308
 pb is : [D@6ce253f1
 pb is : [D@6ce253f1
@@ -5337,17 +5322,17 @@ pb is : [D@214c265e
 pb is : [D@214c265e
 pb is : [D@214c265e
 nope1.7976931348623157E308
-pb is : [D@448139f0
-pb is : [D@448139f0
-pb is : [D@448139f0
-pb is : [D@448139f0
-pb is : [D@448139f0
+pb is : [D@87aac27
+pb is : [D@87aac27
+pb is : [D@87aac27
+pb is : [D@87aac27
+pb is : [D@87aac27
 nope1.7976931348623157E308
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-pb is : [D@7cca494b
+pb is : [D@3e3abc88
+pb is : [D@3e3abc88
+pb is : [D@3e3abc88
+pb is : [D@3e3abc88
+pb is : [D@3e3abc88
 nope1.7976931348623157E308
 pb is : [D@6ce253f1
 pb is : [D@6ce253f1
@@ -5457,54 +5442,58 @@ pb is : [D@214c265e
 pb is : [D@214c265e
 pb is : [D@214c265e
 nope1.7976931348623157E308
-pb is : [D@448139f0
-pb is : [D@448139f0
-pb is : [D@448139f0
-pb is : [D@448139f0
-pb is : [D@448139f0
-nope1.7976931348623157E308
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-nope1.7976931348623157E308
-ALL SSL 20.495643183175186
-ALL SSL 4.985357653663214
-ALL SSL 11.596168388807355
-ALL SSL 18.04792821500951
-ALL SSL 16.245912547456452
-ALL SSL 20.47800927163078
-ALL SSL 22.870280134129366
-ALL SSL 14.505554065410621
-ALL SSL 22.43515640913481
-ALL SSL 24.256658825980814
-ALL SSL 18.989832374867767
-ALL SSL 22.619791682417624
-ALL SSL 16.496112738794196
-ALL SSL 13.404627034997802
-ALL SSL 15.64623451812292
-ALL SSL 25.369376299731023
-ALL SSL 15.458653300381544
-ALL SSL 19.937548475381973
-ALL SSL 23.586535256479735
-ALL SSL 20.47771390725056
-india 4.985357653663214
+ALL SSL 16.586185082069708
+ALL SSL 21.275361870179516
+ALL SSL 15.019723229896284
+ALL SSL 20.990969451063574
+ALL SSL 17.011603247128093
+ALL SSL 15.914667895173809
+ALL SSL 15.454899741961688
+ALL SSL 22.32568046681475
+ALL SSL 20.65942587399199
+ALL SSL 13.244874364982442
+ALL SSL 23.368019323622136
+ALL SSL 19.04230821551718
+ALL SSL 14.271155234020634
+ALL SSL 22.96798626680726
+ALL SSL 23.50345064497311
+ALL SSL 18.853879571794025
+ALL SSL 22.811147626423733
+ALL SSL 18.75039361982915
+ALL SSL 24.792890616462916
+ALL SSL 17.465561142310072
+india 13.244874364982442
 0.25
 5
-.
 .
 .
-.
+index J 0 0.7641664645373654
+index J 1 1.0801857024189099
+index J 2 1.345170428016082
+index J 3 1.6160063372628541
+index J 4 2.5
+0.25
+5
 .
 .
 .
+index J 0 0.3808296504540277
+index J 1 0.8056753000487837
+index J 2 1.5047509044767402
+index J 3 1.9649610278024339
+index J 4 2.5
+cPOS 15.201120352615145
+tempPos 8.300978626191197
+SSL value 15.201120352615145
+new SLL VALUE 15.201120352615145
+0.25
+5
 .
 .
-index J 0 0.42006253537494287
-index J 1 1.3694933546995078
-index J 2 1.7160625279954151
-index J 3 1.9891214374362463
+index J 0 0.2814942163692346
+index J 1 0.6887488158230538
+index J 2 1.4569905225575455
+index J 3 1.7853808705196694
 index J 4 2.5
 0.25
 5
@@ -5512,25 +5501,23 @@ index J 4 2.5
 .
 .
 .
-index J 0 0.5015260161429196
-index J 1 0.9966160641544894
-index J 2 1.7291706846061743
-index J 3 1.9920929438042243
-index J 4 2.5
-cPOS 17.29548671003997
-tempPos 20.432251324332476
-SSL value 17.29548671003997
-new SLL VALUE 17.29548671003997
-0.25
-5
+.
+.
+.
 .
 .
 .
-index J 0 0.34877265469913243
-index J 1 0.7572285596339248
-index J 2 1.3038570335306277
-index J 3 1.982744796522109
+.
+.
+index J 0 0.7072721836357798
+index J 1 1.088440277888653
+index J 2 1.6034968057566819
+index J 3 1.889958933605686
 index J 4 2.5
+cPOS 18.32087722399089
+tempPos 16.432471931689683
+SSL value 18.32087722399089
+new SLL VALUE 18.32087722399089
 0.25
 5
 .
@@ -5557,18 +5544,15 @@ index J 4 2.5
 .
 .
 .
-.
-index J 0 0.5529097295020443
-index J 1 1.3744279324791733
-index J 2 1.6501347106028803
-index J 3 1.976669288420384
+index J 0 0.5547563587144039
+index J 1 1.1418309415802042
+index J 2 1.695194908406254
+index J 3 1.9465609284605265
 index J 4 2.5
-cPOS 14.732151139010723
-tempPos 18.25899195966061
-SSL value 14.732151139010723
-new SLL VALUE 14.732151139010723
 0.25
 5
+.
+.
 .
 .
 .
@@ -5577,13 +5561,22 @@ new SLL VALUE 14.732151139010723
 .
 .
 .
-index J 0 0.39967850575917974
-index J 1 0.7459933298156739
-index J 2 1.5544383592517228
-index J 3 1.964347996521844
+.
+.
+.
+index J 0 0.3977281218780063
+index J 1 0.7620385376592714
+index J 2 1.3819243908537
+index J 3 1.6646531780044815
 index J 4 2.5
+cPOS 19.76436614475299
+tempPos 22.167679885415538
+SSL value 19.76436614475299
+new SLL VALUE 19.76436614475299
 0.25
 5
+.
+.
 .
 .
 .
@@ -5595,8 +5588,26 @@ index J 4 2.5
 .
 .
 .
+index J 0 1.0833661734939284
+index J 1 1.3450631343862598
+index J 2 1.6517486776650863
+index J 3 1.9037382165358385
+index J 4 2.5
+0.25
+5
 .
 .
+index J 0 0.5531334322469512
+index J 1 0.8149894832893815
+index J 2 1.7215758485789028
+index J 3 1.978041120316127
+index J 4 2.5
+cPOS 23.95049444467011
+tempPos 15.562801409917553
+SSL value 23.95049444467011
+new SLL VALUE 23.95049444467011
+0.25
+5
 .
 .
 .
@@ -5609,40 +5620,42 @@ index J 4 2.5
 .
 .
 .
-index J 0 0.522892824465897
-index J 1 0.9701409204963165
-index J 2 1.5883595174634908
-index J 3 1.944101715137711
+index J 0 0.5513930267572762
+index J 1 0.994227151948704
+index J 2 1.2895975001262128
+index J 3 1.5855491079428805
 index J 4 2.5
-cPOS 14.010912616478748
-tempPos 11.746483876447172
-SSL value 14.010912616478748
-new SLL VALUE 14.010912616478748
 0.25
 5
+.
 .
 .
 .
-index J 0 0.2659668706648086
-index J 1 1.3278980346028408
-index J 2 1.621255577289301
-index J 3 1.8984105786081225
+.
+.
+index J 0 0.6394404453961907
+index J 1 0.9016573735727915
+index J 2 1.5111368515630728
+index J 3 1.8976156950707435
 index J 4 2.5
+cPOS 14.428557479310403
+tempPos 15.791494997168531
+SSL value 14.428557479310403
+new SLL VALUE 14.428557479310403
 0.25
 5
+.
 .
 .
-index J 0 0.33991341596065283
-index J 1 0.667964559832845
-index J 2 1.4935663012297054
-index J 3 1.7494087907212135
+.
+index J 0 0.623578259265512
+index J 1 1.0496939211219425
+index J 2 1.4504799394234076
+index J 3 1.828166974749068
 index J 4 2.5
-cPOS 15.068087071279736
-tempPos 23.572270310905253
-SSL value 15.068087071279736
-new SLL VALUE 15.068087071279736
 0.25
 5
+.
 .
 .
 .
@@ -5650,25 +5663,36 @@ new SLL VALUE 15.068087071279736
 .
 .
 .
-index J 0 0.47271039419168204
-index J 1 1.4028904298808518
-index J 2 1.742706511637206
-index J 3 1.999330330988732
+index J 0 0.25351813587100447
+index J 1 0.7958153191135328
+index J 2 1.09858404346765
+index J 3 1.5427643039884609
 index J 4 2.5
+cPOS 13.406957241761344
+tempPos 11.841564324037366
+SSL value 13.406957241761344
+new SLL VALUE 13.406957241761344
 0.25
 5
 .
 .
+index J 0 0.6561337623848655
+index J 1 0.9647058330848328
+index J 2 1.6631211032414634
+index J 3 1.9681330812974902
+index J 4 2.5
+0.25
+5
 .
-index J 0 0.3575056888575417
-index J 1 1.1056322312617775
-index J 2 1.6319702363850028
-index J 3 1.9163069986771673
+index J 0 0.5889168495780545
+index J 1 1.0241149112306167
+index J 2 1.7110869448772053
+index J 3 1.994662885307053
 index J 4 2.5
-cPOS 18.220649045075376
-tempPos 25.58238055290677
-SSL value 18.220649045075376
-new SLL VALUE 18.220649045075376
+cPOS 16.769824788102902
+tempPos 14.388490458959232
+SSL value 16.769824788102902
+new SLL VALUE 16.769824788102902
 0.25
 5
 .
@@ -5676,13 +5700,31 @@ new SLL VALUE 18.220649045075376
 .
 .
 .
-index J 0 0.29288238688839874
-index J 1 1.0009805286050275
-index J 2 1.2803162289984527
-index J 3 1.9881408743460678
+.
+index J 0 0.4296792947728264
+index J 1 1.1212744084487638
+index J 2 1.6422514486336826
+index J 3 1.9258210179465025
+index J 4 2.5
+0.25
+5
+.
+.
+.
+index J 0 0.31200189110396664
+index J 1 0.789741077449402
+index J 2 1.2781087774648046
+index J 3 1.767289735146536
 index J 4 2.5
+cPOS 24.44423516884715
+tempPos 12.664733281000144
+SSL value 24.44423516884715
+new SLL VALUE 24.44423516884715
 0.25
 5
+.
+.
+.
 .
 .
 .
@@ -5690,27 +5732,37 @@ index J 4 2.5
 .
 .
 .
-index J 0 0.7785951218685703
-index J 1 1.349159943370738
-index J 2 1.6839798903108512
-index J 3 1.9486350944320443
+.
+.
+.
+.
+.
+.
+.
+.
+.
+index J 0 0.4437181274665064
+index J 1 0.9898414393309869
+index J 2 1.519636362524587
+index J 3 1.9845537674582356
 index J 4 2.5
-cPOS 19.412743614947953
-tempPos 20.700433594717794
-SSL value 19.412743614947953
-new SLL VALUE 19.412743614947953
 0.25
 5
+.
 .
 .
 .
 .
 .
-index J 0 0.5329805859260133
-index J 1 1.0602476536393606
-index J 2 1.498220820399115
-index J 3 1.8191756612052805
+index J 0 0.36382755832797337
+index J 1 0.7459346985504105
+index J 2 1.699349588680962
+index J 3 1.9776168925817161
 index J 4 2.5
+cPOS 10.26778870226558
+tempPos 11.079934223245472
+SSL value 10.26778870226558
+new SLL VALUE 10.26778870226558
 0.25
 5
 .
@@ -5718,15 +5770,14 @@ index J 4 2.5
 .
 .
 .
-index J 0 0.7944202700602441
-index J 1 1.1205331607287554
-index J 2 1.5281269274335463
-index J 3 1.9241098191017683
+.
+.
+.
+index J 0 1.073753951023947
+index J 1 1.407331379639573
+index J 2 1.7197649581204715
+index J 3 1.9995525734006028
 index J 4 2.5
-cPOS 15.389251872465213
-tempPos 17.54285335567789
-SSL value 15.389251872465213
-new SLL VALUE 15.389251872465213
 0.25
 5
 .
@@ -5744,14 +5795,6 @@ new SLL VALUE 15.389251872465213
 .
 .
 .
-.
-index J 0 0.7698360774265965
-index J 1 1.1860881471862808
-index J 2 1.6321687457064766
-index J 3 1.8938672394893565
-index J 4 2.5
-0.25
-5
 .
 .
 .
@@ -5771,27 +5814,44 @@ index J 4 2.5
 .
 .
 .
-index J 0 0.35179129165580053
-index J 1 1.2630963874369092
-index J 2 1.5479801997937448
-index J 3 1.911440801310448
+index J 0 0.9265881431017777
+index J 1 1.2043875316870325
+index J 2 1.5055671519686422
+index J 3 1.7849283329430998
 index J 4 2.5
-cPOS 18.70910431541342
-tempPos 14.273195003854447
-SSL value 18.70910431541342
-new SLL VALUE 18.70910431541342
+cPOS 24.35624094465775
+tempPos 20.418483309421255
+SSL value 24.35624094465775
+new SLL VALUE 24.35624094465775
 0.25
 5
+.
+.
+.
 .
 .
 .
 .
 .
-index J 0 0.6730923432357871
-index J 1 1.3274801616537852
-index J 2 1.6994771813012615
-index J 3 1.9927597513579918
+.
+.
+index J 0 0.4636116348163012
+index J 1 1.2091239581100706
+index J 2 1.6324970447103704
+index J 3 1.8884615524128956
+index J 4 2.5
+0.25
+5
+.
+index J 0 0.3403811144180667
+index J 1 0.9494907275690757
+index J 2 1.46091368491098
+index J 3 1.9930151848119866
 index J 4 2.5
+cPOS 21.18674795726725
+tempPos 7.310873226879231
+SSL value 21.18674795726725
+new SLL VALUE 21.18674795726725
 0.25
 5
 .
@@ -5802,17 +5862,7 @@ index J 4 2.5
 .
 .
 .
-index J 0 0.3819371477556557
-index J 1 1.2694651266407804
-index J 2 1.6290631637507806
-index J 3 1.8905429002667458
-index J 4 2.5
-cPOS 21.25564195100141
-tempPos 19.780921059837958
-SSL value 21.25564195100141
-new SLL VALUE 21.25564195100141
-0.25
-5
+.
 .
 .
 .
@@ -5820,10 +5870,13 @@ new SLL VALUE 21.25564195100141
 .
 .
 .
-index J 0 0.39817930853891637
-index J 1 0.9301086461628121
-index J 2 1.6983021157735585
-index J 3 1.9886377711043137
+.
+.
+.
+index J 0 0.7638438204282701
+index J 1 1.0947860583603894
+index J 2 1.5056225870821967
+index J 3 1.8813538711139572
 index J 4 2.5
 0.25
 5
@@ -5835,17 +5888,7 @@ index J 4 2.5
 .
 .
 .
-index J 0 0.5092983203345802
-index J 1 0.7818637346549239
-index J 2 1.5072869696979274
-index J 3 1.796919717612866
-index J 4 2.5
-cPOS 20.330097030411384
-tempPos 21.459233510187318
-SSL value 20.330097030411384
-new SLL VALUE 20.330097030411384
-0.25
-5
+.
 .
 .
 .
@@ -5853,11 +5896,16 @@ new SLL VALUE 20.330097030411384
 .
 .
 .
-index J 0 0.5757667319630503
-index J 1 1.0179682500939502
-index J 2 1.7476814529657099
-index J 3 1.998544776784816
+.
+index J 0 0.5772771236237838
+index J 1 1.4242432198673116
+index J 2 1.7028036079553008
+index J 3 1.9660214665884501
 index J 4 2.5
+cPOS 16.671548847297863
+tempPos 19.26376602789845
+SSL value 16.671548847297863
+new SLL VALUE 16.671548847297863
 0.25
 5
 .
@@ -5867,31 +5915,44 @@ index J 4 2.5
 .
 .
 .
+.
+index J 0 0.711028418913406
+index J 1 0.9796661050236287
+index J 2 1.6662874007617332
+index J 3 1.9538905426603113
+index J 4 2.5
+0.25
+5
 .
 .
 .
 .
-index J 0 0.41815725463567927
-index J 1 0.7520381940463652
-index J 2 1.5252077303514497
-index J 3 1.827963159291277
+index J 0 0.6617781497754256
+index J 1 0.956781013457439
+index J 2 1.5957246995920888
+index J 3 1.9841238492218012
 index J 4 2.5
-cPOS 16.707359384120533
-tempPos 20.311548538750934
-SSL value 16.707359384120533
-new SLL VALUE 16.707359384120533
+cPOS 20.056426455584262
+tempPos 14.194939287493714
+SSL value 20.056426455584262
+new SLL VALUE 20.056426455584262
 0.25
 5
+.
+.
+.
 .
 .
 .
 .
 .
 .
-index J 0 0.44707695342909787
-index J 1 1.3483665903301087
-index J 2 1.7303243914124502
-index J 3 1.9888620381629392
+.
+.
+index J 0 0.6536615051102626
+index J 1 1.2801625610271434
+index J 2 1.648201434302682
+index J 3 1.991223108213931
 index J 4 2.5
 0.25
 5
@@ -5905,48 +5966,29 @@ index J 4 2.5
 .
 .
 .
-.
-index J 0 1.1066392733348964
-index J 1 1.4265904563183696
-index J 2 1.6904588554520685
-index J 3 1.9865097239691405
+index J 0 0.7127062458769402
+index J 1 1.0270018721359055
+index J 2 1.4016905171269323
+index J 3 1.6680527954897535
 index J 4 2.5
-cPOS 17.36645159217657
-tempPos 24.741921727623648
-SSL value 17.36645159217657
-new SLL VALUE 17.36645159217657
+cPOS 20.09989174401387
+tempPos 17.064025459059614
+SSL value 20.09989174401387
+new SLL VALUE 20.09989174401387
 0.25
 5
 .
-index J 0 0.3226715363499091
-index J 1 1.154549715101637
-index J 2 1.7212631107576533
-index J 3 1.9776428641436288
-index J 4 2.5
-0.25
-5
 .
 .
 .
 .
 .
 .
-index J 0 0.40131794661916687
-index J 1 0.9594107995975427
-index J 2 1.6561873150267346
-index J 3 1.9289014201143861
-index J 4 2.5
-cPOS 25.495685036493626
-tempPos 23.312102873736826
-SSL value 25.495685036493626
-new SLL VALUE 25.495685036493626
-0.25
-5
 .
-index J 0 0.4412185083194321
-index J 1 0.8663174495755774
-index J 2 1.537199462836442
-index J 3 1.97828615685042
+index J 0 0.4760229605866325
+index J 1 0.9047068912327029
+index J 2 1.5827011919894152
+index J 3 1.9828411126885503
 index J 4 2.5
 0.25
 5
@@ -5989,25 +6031,24 @@ index J 4 2.5
 .
 .
 .
-index J 0 0.9050795413912173
-index J 1 1.155284080486515
-index J 2 1.55080291486681
-index J 3 1.8387820885202235
+index J 0 0.3681883443532412
+index J 1 1.0292298383069427
+index J 2 1.5947821107082556
+index J 3 1.8716719304751517
 index J 4 2.5
-cPOS 7.928252583299403
-tempPos 19.771786144911722
-SSL value 7.928252583299403
-new SLL VALUE 7.928252583299403
+cPOS 9.749592099906259
+tempPos 25.436515876601817
+SSL value 9.749592099906259
+new SLL VALUE 9.749592099906259
 0.25
 5
-.
 .
 .
 .
-index J 0 0.6186127224383917
-index J 1 0.916148264760915
-index J 2 1.6664261207034161
-index J 3 1.9254067859089776
+index J 0 0.3401112629106321
+index J 1 1.0335489335925139
+index J 2 1.3739409103704903
+index J 3 1.6893503650956274
 index J 4 2.5
 0.25
 5
@@ -6023,23 +6064,20 @@ index J 4 2.5
 .
 .
 .
-index J 0 0.7128481519139181
-index J 1 1.2775737652727432
-index J 2 1.6252172932404851
-index J 3 1.886971367756831
-index J 4 2.5
-cPOS 18.802357367624374
-tempPos 19.718469462366308
-SSL value 18.802357367624374
-new SLL VALUE 18.802357367624374
-0.25
-5
+.
+.
 .
-index J 0 0.39403379294903496
-index J 1 0.9842644727986896
-index J 2 1.6159953857909466
-index J 3 1.8746431194208937
+.
+.
+index J 0 0.3879944763333677
+index J 1 1.1667619372920475
+index J 2 1.7159244032653236
+index J 3 1.9877848133529967
 index J 4 2.5
+cPOS 20.426240209262314
+tempPos 24.751549293242437
+SSL value 20.426240209262314
+new SLL VALUE 20.426240209262314
 0.25
 5
 .
@@ -6050,36 +6088,43 @@ index J 4 2.5
 .
 .
 .
+index J 0 0.6707664181610422
+index J 1 1.0156401861600821
+index J 2 1.456565795690679
+index J 3 1.8901001574394418
+index J 4 2.5
+0.25
+5
 .
+index J 0 0.27021423971078906
+index J 1 1.1590540809260612
+index J 2 1.7375950635822766
+index J 3 1.9930073399540897
+index J 4 2.5
+cPOS 13.553049683873988
+tempPos 23.768167929750238
+SSL value 13.553049683873988
+new SLL VALUE 13.553049683873988
+0.25
+5
 .
+index J 0 0.8617642931477572
+index J 1 1.1918317124447686
+index J 2 1.4522267007385155
+index J 3 1.861781899674374
+index J 4 2.5
+0.25
+5
 .
 .
 .
 .
 .
 .
-index J 0 0.7798957846995054
-index J 1 1.3623591895923066
-index J 2 1.6387146605418903
-index J 3 1.8957774184530953
-index J 4 2.5
-cPOS 25.008494420636858
-tempPos 20.706067661238002
-SSL value 25.008494420636858
-new SLL VALUE 25.008494420636858
-0.25
-5
 .
 .
 .
 .
-index J 0 0.5846966981137359
-index J 1 1.1487873382697131
-index J 2 1.4311918567827764
-index J 3 1.6915509992139302
-index J 4 2.5
-0.25
-5
 .
 .
 .
@@ -6100,17 +6145,6 @@ index J 4 2.5
 .
 .
 .
-index J 0 0.5348287253625131
-index J 1 0.8339993082898389
-index J 2 1.1538947479821995
-index J 3 1.743840285567611
-index J 4 2.5
-cPOS 18.658559451793487
-tempPos 15.716024090704293
-SSL value 18.658559451793487
-new SLL VALUE 18.658559451793487
-0.25
-5
 .
 .
 .
@@ -6125,11 +6159,17 @@ new SLL VALUE 18.658559451793487
 .
 .
 .
-index J 0 0.39147379513954306
-index J 1 0.8172845840425585
-index J 2 1.202551968186709
-index J 3 1.7004194655437541
+.
+.
+index J 0 0.4535106510585596
+index J 1 0.9541771495572157
+index J 2 1.3052798608761436
+index J 3 1.686669315639724
 index J 4 2.5
+cPOS 18.96000834027076
+tempPos 17.30623663994534
+SSL value 18.96000834027076
+new SLL VALUE 18.96000834027076
 0.25
 5
 .
@@ -6142,17 +6182,11 @@ index J 4 2.5
 .
 .
 .
-index J 0 0.4176793918502887
-index J 1 0.9999316562495569
-index J 2 1.5406035182012372
-index J 3 1.8628885525405154
-index J 4 2.5
-cPOS 18.281593576732952
-tempPos 21.363489867977634
-SSL value 18.281593576732952
-new SLL VALUE 18.281593576732952
-0.25
-5
+.
+.
+.
+.
+.
 .
 .
 .
@@ -6163,10 +6197,12 @@ new SLL VALUE 18.281593576732952
 .
 .
 .
-index J 0 0.4772747458337479
-index J 1 0.9739805353573461
-index J 2 1.508045841537273
-index J 3 1.7706297630569459
+.
+.
+index J 0 0.7126979458946643
+index J 1 1.0876394146380404
+index J 2 1.6699088091974976
+index J 3 1.97835086816151
 index J 4 2.5
 0.25
 5
@@ -6174,39 +6210,73 @@ index J 4 2.5
 .
 .
 .
-index J 0 0.6333716881859571
-index J 1 1.2125158587713396
-index J 2 1.6516029497528888
-index J 3 1.9458936790843337
+.
+.
+index J 0 0.9815558039683342
+index J 1 1.3863540871904796
+index J 2 1.6843384539228905
+index J 3 1.9904895603005608
 index J 4 2.5
-cPOS 18.40506131172143
-tempPos 21.047361180457678
-SSL value 18.40506131172143
-new SLL VALUE 18.40506131172143
+cPOS 16.74766578168105
+tempPos 23.185816569276298
+SSL value 16.74766578168105
+new SLL VALUE 16.74766578168105
 0.25
 5
+.
+.
+.
+.
+.
+.
 .
 .
-index J 0 0.27317409620116884
-index J 1 0.8131094219283161
-index J 2 1.096155750334135
-index J 3 1.8970852814307388
+.
+.
+.
+.
+.
+.
+.
+.
+index J 0 0.4019547046421652
+index J 1 0.9602286247315107
+index J 2 1.5843234782544224
+index J 3 1.8874877363972076
 index J 4 2.5
 0.25
 5
+.
+.
 .
-index J 0 0.5874045098628192
-index J 1 1.243556098450268
-index J 2 1.6436464897199823
-index J 3 1.991636454898287
+.
+.
+.
+index J 0 0.5114174592717227
+index J 1 0.8641136363130064
+index J 2 1.5244804094473654
+index J 3 1.8681953326421876
 index J 4 2.5
-cPOS 19.737042759116708
-tempPos 18.935894756466727
-SSL value 19.737042759116708
-new SLL VALUE 19.737042759116708
-new globalBest Found`14.732151139010723
-new globalBest Found`14.010912616478748
-new globalBest Found`7.928252583299403
+cPOS 21.55520399250255
+tempPos 14.586397431538728
+SSL value 21.55520399250255
+new SLL VALUE 21.55520399250255
+new globalBest Found`14.428557479310403
+new globalBest Found`13.406957241761344
+new globalBest Found`10.26778870226558
+new globalBest Found`9.749592099906259
+pb is : [D@448139f0
+pb is : [D@448139f0
+pb is : [D@448139f0
+pb is : [D@448139f0
+pb is : [D@448139f0
+nope1.7976931348623157E308
+pb is : [D@7cca494b
+pb is : [D@7cca494b
+pb is : [D@7cca494b
+pb is : [D@7cca494b
+pb is : [D@7cca494b
+nope1.7976931348623157E308
 pb is : [D@7ba4f24f
 pb is : [D@7ba4f24f
 pb is : [D@7ba4f24f
@@ -6315,17 +6385,17 @@ pb is : [D@5f184fc6
 pb is : [D@5f184fc6
 pb is : [D@5f184fc6
 nope1.7976931348623157E308
-pb is : [D@3feba861
-pb is : [D@3feba861
-pb is : [D@3feba861
-pb is : [D@3feba861
-pb is : [D@3feba861
+pb is : [D@448139f0
+pb is : [D@448139f0
+pb is : [D@448139f0
+pb is : [D@448139f0
+pb is : [D@448139f0
 nope1.7976931348623157E308
-pb is : [D@5b480cf9
-pb is : [D@5b480cf9
-pb is : [D@5b480cf9
-pb is : [D@5b480cf9
-pb is : [D@5b480cf9
+pb is : [D@7cca494b
+pb is : [D@7cca494b
+pb is : [D@7cca494b
+pb is : [D@7cca494b
+pb is : [D@7cca494b
 nope1.7976931348623157E308
 pb is : [D@7ba4f24f
 pb is : [D@7ba4f24f
@@ -6435,17 +6505,17 @@ pb is : [D@5f184fc6
 pb is : [D@5f184fc6
 pb is : [D@5f184fc6
 nope1.7976931348623157E308
-pb is : [D@3feba861
-pb is : [D@3feba861
-pb is : [D@3feba861
-pb is : [D@3feba861
-pb is : [D@3feba861
+pb is : [D@448139f0
+pb is : [D@448139f0
+pb is : [D@448139f0
+pb is : [D@448139f0
+pb is : [D@448139f0
 nope1.7976931348623157E308
-pb is : [D@5b480cf9
-pb is : [D@5b480cf9
-pb is : [D@5b480cf9
-pb is : [D@5b480cf9
-pb is : [D@5b480cf9
+pb is : [D@7cca494b
+pb is : [D@7cca494b
+pb is : [D@7cca494b
+pb is : [D@7cca494b
+pb is : [D@7cca494b
 nope1.7976931348623157E308
 pb is : [D@7ba4f24f
 pb is : [D@7ba4f24f
@@ -6555,17 +6625,17 @@ pb is : [D@5f184fc6
 pb is : [D@5f184fc6
 pb is : [D@5f184fc6
 nope1.7976931348623157E308
-pb is : [D@3feba861
-pb is : [D@3feba861
-pb is : [D@3feba861
-pb is : [D@3feba861
-pb is : [D@3feba861
+pb is : [D@448139f0
+pb is : [D@448139f0
+pb is : [D@448139f0
+pb is : [D@448139f0
+pb is : [D@448139f0
 nope1.7976931348623157E308
-pb is : [D@5b480cf9
-pb is : [D@5b480cf9
-pb is : [D@5b480cf9
-pb is : [D@5b480cf9
-pb is : [D@5b480cf9
+pb is : [D@7cca494b
+pb is : [D@7cca494b
+pb is : [D@7cca494b
+pb is : [D@7cca494b
+pb is : [D@7cca494b
 nope1.7976931348623157E308
 pb is : [D@7ba4f24f
 pb is : [D@7ba4f24f
@@ -6675,17 +6745,17 @@ pb is : [D@5f184fc6
 pb is : [D@5f184fc6
 pb is : [D@5f184fc6
 nope1.7976931348623157E308
-pb is : [D@3feba861
-pb is : [D@3feba861
-pb is : [D@3feba861
-pb is : [D@3feba861
-pb is : [D@3feba861
+pb is : [D@448139f0
+pb is : [D@448139f0
+pb is : [D@448139f0
+pb is : [D@448139f0
+pb is : [D@448139f0
 nope1.7976931348623157E308
-pb is : [D@5b480cf9
-pb is : [D@5b480cf9
-pb is : [D@5b480cf9
-pb is : [D@5b480cf9
-pb is : [D@5b480cf9
+pb is : [D@7cca494b
+pb is : [D@7cca494b
+pb is : [D@7cca494b
+pb is : [D@7cca494b
+pb is : [D@7cca494b
 nope1.7976931348623157E308
 pb is : [D@7ba4f24f
 pb is : [D@7ba4f24f
@@ -6795,17 +6865,17 @@ pb is : [D@5f184fc6
 pb is : [D@5f184fc6
 pb is : [D@5f184fc6
 nope1.7976931348623157E308
-pb is : [D@3feba861
-pb is : [D@3feba861
-pb is : [D@3feba861
-pb is : [D@3feba861
-pb is : [D@3feba861
+pb is : [D@448139f0
+pb is : [D@448139f0
+pb is : [D@448139f0
+pb is : [D@448139f0
+pb is : [D@448139f0
 nope1.7976931348623157E308
-pb is : [D@5b480cf9
-pb is : [D@5b480cf9
-pb is : [D@5b480cf9
-pb is : [D@5b480cf9
-pb is : [D@5b480cf9
+pb is : [D@7cca494b
+pb is : [D@7cca494b
+pb is : [D@7cca494b
+pb is : [D@7cca494b
+pb is : [D@7cca494b
 nope1.7976931348623157E308
 pb is : [D@7ba4f24f
 pb is : [D@7ba4f24f
@@ -6915,17 +6985,17 @@ pb is : [D@5f184fc6
 pb is : [D@5f184fc6
 pb is : [D@5f184fc6
 nope1.7976931348623157E308
-pb is : [D@3feba861
-pb is : [D@3feba861
-pb is : [D@3feba861
-pb is : [D@3feba861
-pb is : [D@3feba861
+pb is : [D@448139f0
+pb is : [D@448139f0
+pb is : [D@448139f0
+pb is : [D@448139f0
+pb is : [D@448139f0
 nope1.7976931348623157E308
-pb is : [D@5b480cf9
-pb is : [D@5b480cf9
-pb is : [D@5b480cf9
-pb is : [D@5b480cf9
-pb is : [D@5b480cf9
+pb is : [D@7cca494b
+pb is : [D@7cca494b
+pb is : [D@7cca494b
+pb is : [D@7cca494b
+pb is : [D@7cca494b
 nope1.7976931348623157E308
 pb is : [D@7ba4f24f
 pb is : [D@7ba4f24f
@@ -7035,17 +7105,17 @@ pb is : [D@5f184fc6
 pb is : [D@5f184fc6
 pb is : [D@5f184fc6
 nope1.7976931348623157E308
-pb is : [D@3feba861
-pb is : [D@3feba861
-pb is : [D@3feba861
-pb is : [D@3feba861
-pb is : [D@3feba861
+pb is : [D@448139f0
+pb is : [D@448139f0
+pb is : [D@448139f0
+pb is : [D@448139f0
+pb is : [D@448139f0
 nope1.7976931348623157E308
-pb is : [D@5b480cf9
-pb is : [D@5b480cf9
-pb is : [D@5b480cf9
-pb is : [D@5b480cf9
-pb is : [D@5b480cf9
+pb is : [D@7cca494b
+pb is : [D@7cca494b
+pb is : [D@7cca494b
+pb is : [D@7cca494b
+pb is : [D@7cca494b
 nope1.7976931348623157E308
 pb is : [D@7ba4f24f
 pb is : [D@7ba4f24f
@@ -7155,17 +7225,17 @@ pb is : [D@5f184fc6
 pb is : [D@5f184fc6
 pb is : [D@5f184fc6
 nope1.7976931348623157E308
-pb is : [D@3feba861
-pb is : [D@3feba861
-pb is : [D@3feba861
-pb is : [D@3feba861
-pb is : [D@3feba861
+pb is : [D@448139f0
+pb is : [D@448139f0
+pb is : [D@448139f0
+pb is : [D@448139f0
+pb is : [D@448139f0
 nope1.7976931348623157E308
-pb is : [D@5b480cf9
-pb is : [D@5b480cf9
-pb is : [D@5b480cf9
-pb is : [D@5b480cf9
-pb is : [D@5b480cf9
+pb is : [D@7cca494b
+pb is : [D@7cca494b
+pb is : [D@7cca494b
+pb is : [D@7cca494b
+pb is : [D@7cca494b
 nope1.7976931348623157E308
 pb is : [D@7ba4f24f
 pb is : [D@7ba4f24f
@@ -7275,17 +7345,17 @@ pb is : [D@5f184fc6
 pb is : [D@5f184fc6
 pb is : [D@5f184fc6
 nope1.7976931348623157E308
-pb is : [D@3feba861
-pb is : [D@3feba861
-pb is : [D@3feba861
-pb is : [D@3feba861
-pb is : [D@3feba861
+pb is : [D@448139f0
+pb is : [D@448139f0
+pb is : [D@448139f0
+pb is : [D@448139f0
+pb is : [D@448139f0
 nope1.7976931348623157E308
-pb is : [D@5b480cf9
-pb is : [D@5b480cf9
-pb is : [D@5b480cf9
-pb is : [D@5b480cf9
-pb is : [D@5b480cf9
+pb is : [D@7cca494b
+pb is : [D@7cca494b
+pb is : [D@7cca494b
+pb is : [D@7cca494b
+pb is : [D@7cca494b
 nope1.7976931348623157E308
 pb is : [D@7ba4f24f
 pb is : [D@7ba4f24f
@@ -7395,17 +7465,17 @@ pb is : [D@5f184fc6
 pb is : [D@5f184fc6
 pb is : [D@5f184fc6
 nope1.7976931348623157E308
-pb is : [D@3feba861
-pb is : [D@3feba861
-pb is : [D@3feba861
-pb is : [D@3feba861
-pb is : [D@3feba861
+pb is : [D@448139f0
+pb is : [D@448139f0
+pb is : [D@448139f0
+pb is : [D@448139f0
+pb is : [D@448139f0
 nope1.7976931348623157E308
-pb is : [D@5b480cf9
-pb is : [D@5b480cf9
-pb is : [D@5b480cf9
-pb is : [D@5b480cf9
-pb is : [D@5b480cf9
+pb is : [D@7cca494b
+pb is : [D@7cca494b
+pb is : [D@7cca494b
+pb is : [D@7cca494b
+pb is : [D@7cca494b
 nope1.7976931348623157E308
 pb is : [D@7ba4f24f
 pb is : [D@7ba4f24f
@@ -7515,17 +7585,17 @@ pb is : [D@5f184fc6
 pb is : [D@5f184fc6
 pb is : [D@5f184fc6
 nope1.7976931348623157E308
-pb is : [D@3feba861
-pb is : [D@3feba861
-pb is : [D@3feba861
-pb is : [D@3feba861
-pb is : [D@3feba861
+pb is : [D@448139f0
+pb is : [D@448139f0
+pb is : [D@448139f0
+pb is : [D@448139f0
+pb is : [D@448139f0
 nope1.7976931348623157E308
-pb is : [D@5b480cf9
-pb is : [D@5b480cf9
-pb is : [D@5b480cf9
-pb is : [D@5b480cf9
-pb is : [D@5b480cf9
+pb is : [D@7cca494b
+pb is : [D@7cca494b
+pb is : [D@7cca494b
+pb is : [D@7cca494b
+pb is : [D@7cca494b
 nope1.7976931348623157E308
 pb is : [D@7ba4f24f
 pb is : [D@7ba4f24f
@@ -7635,17 +7705,17 @@ pb is : [D@5f184fc6
 pb is : [D@5f184fc6
 pb is : [D@5f184fc6
 nope1.7976931348623157E308
-pb is : [D@3feba861
-pb is : [D@3feba861
-pb is : [D@3feba861
-pb is : [D@3feba861
-pb is : [D@3feba861
+pb is : [D@448139f0
+pb is : [D@448139f0
+pb is : [D@448139f0
+pb is : [D@448139f0
+pb is : [D@448139f0
 nope1.7976931348623157E308
-pb is : [D@5b480cf9
-pb is : [D@5b480cf9
-pb is : [D@5b480cf9
-pb is : [D@5b480cf9
-pb is : [D@5b480cf9
+pb is : [D@7cca494b
+pb is : [D@7cca494b
+pb is : [D@7cca494b
+pb is : [D@7cca494b
+pb is : [D@7cca494b
 nope1.7976931348623157E308
 pb is : [D@7ba4f24f
 pb is : [D@7ba4f24f
@@ -7755,17 +7825,17 @@ pb is : [D@5f184fc6
 pb is : [D@5f184fc6
 pb is : [D@5f184fc6
 nope1.7976931348623157E308
-pb is : [D@3feba861
-pb is : [D@3feba861
-pb is : [D@3feba861
-pb is : [D@3feba861
-pb is : [D@3feba861
+pb is : [D@448139f0
+pb is : [D@448139f0
+pb is : [D@448139f0
+pb is : [D@448139f0
+pb is : [D@448139f0
 nope1.7976931348623157E308
-pb is : [D@5b480cf9
-pb is : [D@5b480cf9
-pb is : [D@5b480cf9
-pb is : [D@5b480cf9
-pb is : [D@5b480cf9
+pb is : [D@7cca494b
+pb is : [D@7cca494b
+pb is : [D@7cca494b
+pb is : [D@7cca494b
+pb is : [D@7cca494b
 nope1.7976931348623157E308
 pb is : [D@7ba4f24f
 pb is : [D@7ba4f24f
@@ -7875,17 +7945,17 @@ pb is : [D@5f184fc6
 pb is : [D@5f184fc6
 pb is : [D@5f184fc6
 nope1.7976931348623157E308
-pb is : [D@3feba861
-pb is : [D@3feba861
-pb is : [D@3feba861
-pb is : [D@3feba861
-pb is : [D@3feba861
+pb is : [D@448139f0
+pb is : [D@448139f0
+pb is : [D@448139f0
+pb is : [D@448139f0
+pb is : [D@448139f0
 nope1.7976931348623157E308
-pb is : [D@5b480cf9
-pb is : [D@5b480cf9
-pb is : [D@5b480cf9
-pb is : [D@5b480cf9
-pb is : [D@5b480cf9
+pb is : [D@7cca494b
+pb is : [D@7cca494b
+pb is : [D@7cca494b
+pb is : [D@7cca494b
+pb is : [D@7cca494b
 nope1.7976931348623157E308
 pb is : [D@7ba4f24f
 pb is : [D@7ba4f24f
@@ -7995,17 +8065,17 @@ pb is : [D@5f184fc6
 pb is : [D@5f184fc6
 pb is : [D@5f184fc6
 nope1.7976931348623157E308
-pb is : [D@3feba861
-pb is : [D@3feba861
-pb is : [D@3feba861
-pb is : [D@3feba861
-pb is : [D@3feba861
+pb is : [D@448139f0
+pb is : [D@448139f0
+pb is : [D@448139f0
+pb is : [D@448139f0
+pb is : [D@448139f0
 nope1.7976931348623157E308
-pb is : [D@5b480cf9
-pb is : [D@5b480cf9
-pb is : [D@5b480cf9
-pb is : [D@5b480cf9
-pb is : [D@5b480cf9
+pb is : [D@7cca494b
+pb is : [D@7cca494b
+pb is : [D@7cca494b
+pb is : [D@7cca494b
+pb is : [D@7cca494b
 nope1.7976931348623157E308
 pb is : [D@7ba4f24f
 pb is : [D@7ba4f24f
@@ -8115,17 +8185,17 @@ pb is : [D@5f184fc6
 pb is : [D@5f184fc6
 pb is : [D@5f184fc6
 nope1.7976931348623157E308
-pb is : [D@3feba861
-pb is : [D@3feba861
-pb is : [D@3feba861
-pb is : [D@3feba861
-pb is : [D@3feba861
+pb is : [D@448139f0
+pb is : [D@448139f0
+pb is : [D@448139f0
+pb is : [D@448139f0
+pb is : [D@448139f0
 nope1.7976931348623157E308
-pb is : [D@5b480cf9
-pb is : [D@5b480cf9
-pb is : [D@5b480cf9
-pb is : [D@5b480cf9
-pb is : [D@5b480cf9
+pb is : [D@7cca494b
+pb is : [D@7cca494b
+pb is : [D@7cca494b
+pb is : [D@7cca494b
+pb is : [D@7cca494b
 nope1.7976931348623157E308
 pb is : [D@7ba4f24f
 pb is : [D@7ba4f24f
@@ -8235,17 +8305,17 @@ pb is : [D@5f184fc6
 pb is : [D@5f184fc6
 pb is : [D@5f184fc6
 nope1.7976931348623157E308
-pb is : [D@3feba861
-pb is : [D@3feba861
-pb is : [D@3feba861
-pb is : [D@3feba861
-pb is : [D@3feba861
+pb is : [D@448139f0
+pb is : [D@448139f0
+pb is : [D@448139f0
+pb is : [D@448139f0
+pb is : [D@448139f0
 nope1.7976931348623157E308
-pb is : [D@5b480cf9
-pb is : [D@5b480cf9
-pb is : [D@5b480cf9
-pb is : [D@5b480cf9
-pb is : [D@5b480cf9
+pb is : [D@7cca494b
+pb is : [D@7cca494b
+pb is : [D@7cca494b
+pb is : [D@7cca494b
+pb is : [D@7cca494b
 nope1.7976931348623157E308
 pb is : [D@7ba4f24f
 pb is : [D@7ba4f24f
@@ -8355,17 +8425,17 @@ pb is : [D@5f184fc6
 pb is : [D@5f184fc6
 pb is : [D@5f184fc6
 nope1.7976931348623157E308
-pb is : [D@3feba861
-pb is : [D@3feba861
-pb is : [D@3feba861
-pb is : [D@3feba861
-pb is : [D@3feba861
+pb is : [D@448139f0
+pb is : [D@448139f0
+pb is : [D@448139f0
+pb is : [D@448139f0
+pb is : [D@448139f0
 nope1.7976931348623157E308
-pb is : [D@5b480cf9
-pb is : [D@5b480cf9
-pb is : [D@5b480cf9
-pb is : [D@5b480cf9
-pb is : [D@5b480cf9
+pb is : [D@7cca494b
+pb is : [D@7cca494b
+pb is : [D@7cca494b
+pb is : [D@7cca494b
+pb is : [D@7cca494b
 nope1.7976931348623157E308
 pb is : [D@7ba4f24f
 pb is : [D@7ba4f24f
@@ -8475,17 +8545,17 @@ pb is : [D@5f184fc6
 pb is : [D@5f184fc6
 pb is : [D@5f184fc6
 nope1.7976931348623157E308
-pb is : [D@3feba861
-pb is : [D@3feba861
-pb is : [D@3feba861
-pb is : [D@3feba861
-pb is : [D@3feba861
+pb is : [D@448139f0
+pb is : [D@448139f0
+pb is : [D@448139f0
+pb is : [D@448139f0
+pb is : [D@448139f0
 nope1.7976931348623157E308
-pb is : [D@5b480cf9
-pb is : [D@5b480cf9
-pb is : [D@5b480cf9
-pb is : [D@5b480cf9
-pb is : [D@5b480cf9
+pb is : [D@7cca494b
+pb is : [D@7cca494b
+pb is : [D@7cca494b
+pb is : [D@7cca494b
+pb is : [D@7cca494b
 nope1.7976931348623157E308
 pb is : [D@7ba4f24f
 pb is : [D@7ba4f24f
@@ -8595,17 +8665,17 @@ pb is : [D@5f184fc6
 pb is : [D@5f184fc6
 pb is : [D@5f184fc6
 nope1.7976931348623157E308
-pb is : [D@3feba861
-pb is : [D@3feba861
-pb is : [D@3feba861
-pb is : [D@3feba861
-pb is : [D@3feba861
+pb is : [D@448139f0
+pb is : [D@448139f0
+pb is : [D@448139f0
+pb is : [D@448139f0
+pb is : [D@448139f0
 nope1.7976931348623157E308
-pb is : [D@5b480cf9
-pb is : [D@5b480cf9
-pb is : [D@5b480cf9
-pb is : [D@5b480cf9
-pb is : [D@5b480cf9
+pb is : [D@7cca494b
+pb is : [D@7cca494b
+pb is : [D@7cca494b
+pb is : [D@7cca494b
+pb is : [D@7cca494b
 nope1.7976931348623157E308
 pb is : [D@7ba4f24f
 pb is : [D@7ba4f24f
@@ -8715,17 +8785,17 @@ pb is : [D@5f184fc6
 pb is : [D@5f184fc6
 pb is : [D@5f184fc6
 nope1.7976931348623157E308
-pb is : [D@3feba861
-pb is : [D@3feba861
-pb is : [D@3feba861
-pb is : [D@3feba861
-pb is : [D@3feba861
+pb is : [D@448139f0
+pb is : [D@448139f0
+pb is : [D@448139f0
+pb is : [D@448139f0
+pb is : [D@448139f0
 nope1.7976931348623157E308
-pb is : [D@5b480cf9
-pb is : [D@5b480cf9
-pb is : [D@5b480cf9
-pb is : [D@5b480cf9
-pb is : [D@5b480cf9
+pb is : [D@7cca494b
+pb is : [D@7cca494b
+pb is : [D@7cca494b
+pb is : [D@7cca494b
+pb is : [D@7cca494b
 nope1.7976931348623157E308
 pb is : [D@7ba4f24f
 pb is : [D@7ba4f24f
@@ -8835,17 +8905,17 @@ pb is : [D@5f184fc6
 pb is : [D@5f184fc6
 pb is : [D@5f184fc6
 nope1.7976931348623157E308
-pb is : [D@3feba861
-pb is : [D@3feba861
-pb is : [D@3feba861
-pb is : [D@3feba861
-pb is : [D@3feba861
+pb is : [D@448139f0
+pb is : [D@448139f0
+pb is : [D@448139f0
+pb is : [D@448139f0
+pb is : [D@448139f0
 nope1.7976931348623157E308
-pb is : [D@5b480cf9
-pb is : [D@5b480cf9
-pb is : [D@5b480cf9
-pb is : [D@5b480cf9
-pb is : [D@5b480cf9
+pb is : [D@7cca494b
+pb is : [D@7cca494b
+pb is : [D@7cca494b
+pb is : [D@7cca494b
+pb is : [D@7cca494b
 nope1.7976931348623157E308
 pb is : [D@7ba4f24f
 pb is : [D@7ba4f24f
@@ -8955,17 +9025,17 @@ pb is : [D@5f184fc6
 pb is : [D@5f184fc6
 pb is : [D@5f184fc6
 nope1.7976931348623157E308
-pb is : [D@3feba861
-pb is : [D@3feba861
-pb is : [D@3feba861
-pb is : [D@3feba861
-pb is : [D@3feba861
+pb is : [D@448139f0
+pb is : [D@448139f0
+pb is : [D@448139f0
+pb is : [D@448139f0
+pb is : [D@448139f0
 nope1.7976931348623157E308
-pb is : [D@5b480cf9
-pb is : [D@5b480cf9
-pb is : [D@5b480cf9
-pb is : [D@5b480cf9
-pb is : [D@5b480cf9
+pb is : [D@7cca494b
+pb is : [D@7cca494b
+pb is : [D@7cca494b
+pb is : [D@7cca494b
+pb is : [D@7cca494b
 nope1.7976931348623157E308
 pb is : [D@7ba4f24f
 pb is : [D@7ba4f24f
@@ -9075,17 +9145,17 @@ pb is : [D@5f184fc6
 pb is : [D@5f184fc6
 pb is : [D@5f184fc6
 nope1.7976931348623157E308
-pb is : [D@3feba861
-pb is : [D@3feba861
-pb is : [D@3feba861
-pb is : [D@3feba861
-pb is : [D@3feba861
+pb is : [D@448139f0
+pb is : [D@448139f0
+pb is : [D@448139f0
+pb is : [D@448139f0
+pb is : [D@448139f0
 nope1.7976931348623157E308
-pb is : [D@5b480cf9
-pb is : [D@5b480cf9
-pb is : [D@5b480cf9
-pb is : [D@5b480cf9
-pb is : [D@5b480cf9
+pb is : [D@7cca494b
+pb is : [D@7cca494b
+pb is : [D@7cca494b
+pb is : [D@7cca494b
+pb is : [D@7cca494b
 nope1.7976931348623157E308
 pb is : [D@7ba4f24f
 pb is : [D@7ba4f24f
@@ -9195,17 +9265,17 @@ pb is : [D@5f184fc6
 pb is : [D@5f184fc6
 pb is : [D@5f184fc6
 nope1.7976931348623157E308
-pb is : [D@3feba861
-pb is : [D@3feba861
-pb is : [D@3feba861
-pb is : [D@3feba861
-pb is : [D@3feba861
+pb is : [D@448139f0
+pb is : [D@448139f0
+pb is : [D@448139f0
+pb is : [D@448139f0
+pb is : [D@448139f0
 nope1.7976931348623157E308
-pb is : [D@5b480cf9
-pb is : [D@5b480cf9
-pb is : [D@5b480cf9
-pb is : [D@5b480cf9
-pb is : [D@5b480cf9
+pb is : [D@7cca494b
+pb is : [D@7cca494b
+pb is : [D@7cca494b
+pb is : [D@7cca494b
+pb is : [D@7cca494b
 nope1.7976931348623157E308
 pb is : [D@7ba4f24f
 pb is : [D@7ba4f24f
@@ -9315,17 +9385,17 @@ pb is : [D@5f184fc6
 pb is : [D@5f184fc6
 pb is : [D@5f184fc6
 nope1.7976931348623157E308
-pb is : [D@3feba861
-pb is : [D@3feba861
-pb is : [D@3feba861
-pb is : [D@3feba861
-pb is : [D@3feba861
+pb is : [D@448139f0
+pb is : [D@448139f0
+pb is : [D@448139f0
+pb is : [D@448139f0
+pb is : [D@448139f0
 nope1.7976931348623157E308
-pb is : [D@5b480cf9
-pb is : [D@5b480cf9
-pb is : [D@5b480cf9
-pb is : [D@5b480cf9
-pb is : [D@5b480cf9
+pb is : [D@7cca494b
+pb is : [D@7cca494b
+pb is : [D@7cca494b
+pb is : [D@7cca494b
+pb is : [D@7cca494b
 nope1.7976931348623157E308
 pb is : [D@7ba4f24f
 pb is : [D@7ba4f24f
@@ -9435,17 +9505,17 @@ pb is : [D@5f184fc6
 pb is : [D@5f184fc6
 pb is : [D@5f184fc6
 nope1.7976931348623157E308
-pb is : [D@3feba861
-pb is : [D@3feba861
-pb is : [D@3feba861
-pb is : [D@3feba861
-pb is : [D@3feba861
+pb is : [D@448139f0
+pb is : [D@448139f0
+pb is : [D@448139f0
+pb is : [D@448139f0
+pb is : [D@448139f0
 nope1.7976931348623157E308
-pb is : [D@5b480cf9
-pb is : [D@5b480cf9
-pb is : [D@5b480cf9
-pb is : [D@5b480cf9
-pb is : [D@5b480cf9
+pb is : [D@7cca494b
+pb is : [D@7cca494b
+pb is : [D@7cca494b
+pb is : [D@7cca494b
+pb is : [D@7cca494b
 nope1.7976931348623157E308
 pb is : [D@7ba4f24f
 pb is : [D@7ba4f24f
@@ -9555,17 +9625,17 @@ pb is : [D@5f184fc6
 pb is : [D@5f184fc6
 pb is : [D@5f184fc6
 nope1.7976931348623157E308
-pb is : [D@3feba861
-pb is : [D@3feba861
-pb is : [D@3feba861
-pb is : [D@3feba861
-pb is : [D@3feba861
+pb is : [D@448139f0
+pb is : [D@448139f0
+pb is : [D@448139f0
+pb is : [D@448139f0
+pb is : [D@448139f0
 nope1.7976931348623157E308
-pb is : [D@5b480cf9
-pb is : [D@5b480cf9
-pb is : [D@5b480cf9
-pb is : [D@5b480cf9
-pb is : [D@5b480cf9
+pb is : [D@7cca494b
+pb is : [D@7cca494b
+pb is : [D@7cca494b
+pb is : [D@7cca494b
+pb is : [D@7cca494b
 nope1.7976931348623157E308
 pb is : [D@7ba4f24f
 pb is : [D@7ba4f24f
@@ -9675,17 +9745,17 @@ pb is : [D@5f184fc6
 pb is : [D@5f184fc6
 pb is : [D@5f184fc6
 nope1.7976931348623157E308
-pb is : [D@3feba861
-pb is : [D@3feba861
-pb is : [D@3feba861
-pb is : [D@3feba861
-pb is : [D@3feba861
+pb is : [D@448139f0
+pb is : [D@448139f0
+pb is : [D@448139f0
+pb is : [D@448139f0
+pb is : [D@448139f0
 nope1.7976931348623157E308
-pb is : [D@5b480cf9
-pb is : [D@5b480cf9
-pb is : [D@5b480cf9
-pb is : [D@5b480cf9
-pb is : [D@5b480cf9
+pb is : [D@7cca494b
+pb is : [D@7cca494b
+pb is : [D@7cca494b
+pb is : [D@7cca494b
+pb is : [D@7cca494b
 nope1.7976931348623157E308
 pb is : [D@7ba4f24f
 pb is : [D@7ba4f24f
@@ -9795,17 +9865,17 @@ pb is : [D@5f184fc6
 pb is : [D@5f184fc6
 pb is : [D@5f184fc6
 nope1.7976931348623157E308
-pb is : [D@3feba861
-pb is : [D@3feba861
-pb is : [D@3feba861
-pb is : [D@3feba861
-pb is : [D@3feba861
+pb is : [D@448139f0
+pb is : [D@448139f0
+pb is : [D@448139f0
+pb is : [D@448139f0
+pb is : [D@448139f0
 nope1.7976931348623157E308
-pb is : [D@5b480cf9
-pb is : [D@5b480cf9
-pb is : [D@5b480cf9
-pb is : [D@5b480cf9
-pb is : [D@5b480cf9
+pb is : [D@7cca494b
+pb is : [D@7cca494b
+pb is : [D@7cca494b
+pb is : [D@7cca494b
+pb is : [D@7cca494b
 nope1.7976931348623157E308
 pb is : [D@7ba4f24f
 pb is : [D@7ba4f24f
@@ -9915,17 +9985,17 @@ pb is : [D@5f184fc6
 pb is : [D@5f184fc6
 pb is : [D@5f184fc6
 nope1.7976931348623157E308
-pb is : [D@3feba861
-pb is : [D@3feba861
-pb is : [D@3feba861
-pb is : [D@3feba861
-pb is : [D@3feba861
+pb is : [D@448139f0
+pb is : [D@448139f0
+pb is : [D@448139f0
+pb is : [D@448139f0
+pb is : [D@448139f0
 nope1.7976931348623157E308
-pb is : [D@5b480cf9
-pb is : [D@5b480cf9
-pb is : [D@5b480cf9
-pb is : [D@5b480cf9
-pb is : [D@5b480cf9
+pb is : [D@7cca494b
+pb is : [D@7cca494b
+pb is : [D@7cca494b
+pb is : [D@7cca494b
+pb is : [D@7cca494b
 nope1.7976931348623157E308
 pb is : [D@7ba4f24f
 pb is : [D@7ba4f24f
@@ -10035,17 +10105,17 @@ pb is : [D@5f184fc6
 pb is : [D@5f184fc6
 pb is : [D@5f184fc6
 nope1.7976931348623157E308
-pb is : [D@3feba861
-pb is : [D@3feba861
-pb is : [D@3feba861
-pb is : [D@3feba861
-pb is : [D@3feba861
+pb is : [D@448139f0
+pb is : [D@448139f0
+pb is : [D@448139f0
+pb is : [D@448139f0
+pb is : [D@448139f0
 nope1.7976931348623157E308
-pb is : [D@5b480cf9
-pb is : [D@5b480cf9
-pb is : [D@5b480cf9
-pb is : [D@5b480cf9
-pb is : [D@5b480cf9
+pb is : [D@7cca494b
+pb is : [D@7cca494b
+pb is : [D@7cca494b
+pb is : [D@7cca494b
+pb is : [D@7cca494b
 nope1.7976931348623157E308
 pb is : [D@7ba4f24f
 pb is : [D@7ba4f24f
@@ -10155,17 +10225,17 @@ pb is : [D@5f184fc6
 pb is : [D@5f184fc6
 pb is : [D@5f184fc6
 nope1.7976931348623157E308
-pb is : [D@3feba861
-pb is : [D@3feba861
-pb is : [D@3feba861
-pb is : [D@3feba861
-pb is : [D@3feba861
+pb is : [D@448139f0
+pb is : [D@448139f0
+pb is : [D@448139f0
+pb is : [D@448139f0
+pb is : [D@448139f0
 nope1.7976931348623157E308
-pb is : [D@5b480cf9
-pb is : [D@5b480cf9
-pb is : [D@5b480cf9
-pb is : [D@5b480cf9
-pb is : [D@5b480cf9
+pb is : [D@7cca494b
+pb is : [D@7cca494b
+pb is : [D@7cca494b
+pb is : [D@7cca494b
+pb is : [D@7cca494b
 nope1.7976931348623157E308
 pb is : [D@7ba4f24f
 pb is : [D@7ba4f24f
@@ -10275,17 +10345,17 @@ pb is : [D@5f184fc6
 pb is : [D@5f184fc6
 pb is : [D@5f184fc6
 nope1.7976931348623157E308
-pb is : [D@3feba861
-pb is : [D@3feba861
-pb is : [D@3feba861
-pb is : [D@3feba861
-pb is : [D@3feba861
+pb is : [D@448139f0
+pb is : [D@448139f0
+pb is : [D@448139f0
+pb is : [D@448139f0
+pb is : [D@448139f0
 nope1.7976931348623157E308
-pb is : [D@5b480cf9
-pb is : [D@5b480cf9
-pb is : [D@5b480cf9
-pb is : [D@5b480cf9
-pb is : [D@5b480cf9
+pb is : [D@7cca494b
+pb is : [D@7cca494b
+pb is : [D@7cca494b
+pb is : [D@7cca494b
+pb is : [D@7cca494b
 nope1.7976931348623157E308
 pb is : [D@7ba4f24f
 pb is : [D@7ba4f24f
@@ -10395,17 +10465,17 @@ pb is : [D@5f184fc6
 pb is : [D@5f184fc6
 pb is : [D@5f184fc6
 nope1.7976931348623157E308
-pb is : [D@3feba861
-pb is : [D@3feba861
-pb is : [D@3feba861
-pb is : [D@3feba861
-pb is : [D@3feba861
+pb is : [D@448139f0
+pb is : [D@448139f0
+pb is : [D@448139f0
+pb is : [D@448139f0
+pb is : [D@448139f0
 nope1.7976931348623157E308
-pb is : [D@5b480cf9
-pb is : [D@5b480cf9
-pb is : [D@5b480cf9
-pb is : [D@5b480cf9
-pb is : [D@5b480cf9
+pb is : [D@7cca494b
+pb is : [D@7cca494b
+pb is : [D@7cca494b
+pb is : [D@7cca494b
+pb is : [D@7cca494b
 nope1.7976931348623157E308
 pb is : [D@7ba4f24f
 pb is : [D@7ba4f24f
@@ -10515,17 +10585,17 @@ pb is : [D@5f184fc6
 pb is : [D@5f184fc6
 pb is : [D@5f184fc6
 nope1.7976931348623157E308
-pb is : [D@3feba861
-pb is : [D@3feba861
-pb is : [D@3feba861
-pb is : [D@3feba861
-pb is : [D@3feba861
+pb is : [D@448139f0
+pb is : [D@448139f0
+pb is : [D@448139f0
+pb is : [D@448139f0
+pb is : [D@448139f0
 nope1.7976931348623157E308
-pb is : [D@5b480cf9
-pb is : [D@5b480cf9
-pb is : [D@5b480cf9
-pb is : [D@5b480cf9
-pb is : [D@5b480cf9
+pb is : [D@7cca494b
+pb is : [D@7cca494b
+pb is : [D@7cca494b
+pb is : [D@7cca494b
+pb is : [D@7cca494b
 nope1.7976931348623157E308
 pb is : [D@7ba4f24f
 pb is : [D@7ba4f24f
@@ -10635,17 +10705,17 @@ pb is : [D@5f184fc6
 pb is : [D@5f184fc6
 pb is : [D@5f184fc6
 nope1.7976931348623157E308
-pb is : [D@3feba861
-pb is : [D@3feba861
-pb is : [D@3feba861
-pb is : [D@3feba861
-pb is : [D@3feba861
+pb is : [D@448139f0
+pb is : [D@448139f0
+pb is : [D@448139f0
+pb is : [D@448139f0
+pb is : [D@448139f0
 nope1.7976931348623157E308
-pb is : [D@5b480cf9
-pb is : [D@5b480cf9
-pb is : [D@5b480cf9
-pb is : [D@5b480cf9
-pb is : [D@5b480cf9
+pb is : [D@7cca494b
+pb is : [D@7cca494b
+pb is : [D@7cca494b
+pb is : [D@7cca494b
+pb is : [D@7cca494b
 nope1.7976931348623157E308
 pb is : [D@7ba4f24f
 pb is : [D@7ba4f24f
@@ -10755,17 +10825,17 @@ pb is : [D@5f184fc6
 pb is : [D@5f184fc6
 pb is : [D@5f184fc6
 nope1.7976931348623157E308
-pb is : [D@3feba861
-pb is : [D@3feba861
-pb is : [D@3feba861
-pb is : [D@3feba861
-pb is : [D@3feba861
+pb is : [D@448139f0
+pb is : [D@448139f0
+pb is : [D@448139f0
+pb is : [D@448139f0
+pb is : [D@448139f0
 nope1.7976931348623157E308
-pb is : [D@5b480cf9
-pb is : [D@5b480cf9
-pb is : [D@5b480cf9
-pb is : [D@5b480cf9
-pb is : [D@5b480cf9
+pb is : [D@7cca494b
+pb is : [D@7cca494b
+pb is : [D@7cca494b
+pb is : [D@7cca494b
+pb is : [D@7cca494b
 nope1.7976931348623157E308
 pb is : [D@7ba4f24f
 pb is : [D@7ba4f24f
@@ -10875,17 +10945,17 @@ pb is : [D@5f184fc6
 pb is : [D@5f184fc6
 pb is : [D@5f184fc6
 nope1.7976931348623157E308
-pb is : [D@3feba861
-pb is : [D@3feba861
-pb is : [D@3feba861
-pb is : [D@3feba861
-pb is : [D@3feba861
+pb is : [D@448139f0
+pb is : [D@448139f0
+pb is : [D@448139f0
+pb is : [D@448139f0
+pb is : [D@448139f0
 nope1.7976931348623157E308
-pb is : [D@5b480cf9
-pb is : [D@5b480cf9
-pb is : [D@5b480cf9
-pb is : [D@5b480cf9
-pb is : [D@5b480cf9
+pb is : [D@7cca494b
+pb is : [D@7cca494b
+pb is : [D@7cca494b
+pb is : [D@7cca494b
+pb is : [D@7cca494b
 nope1.7976931348623157E308
 pb is : [D@7ba4f24f
 pb is : [D@7ba4f24f
@@ -10994,37 +11064,25 @@ pb is : [D@5f184fc6
 pb is : [D@5f184fc6
 pb is : [D@5f184fc6
 pb is : [D@5f184fc6
-nope1.7976931348623157E308
-pb is : [D@3feba861
-pb is : [D@3feba861
-pb is : [D@3feba861
-pb is : [D@3feba861
-pb is : [D@3feba861
-nope1.7976931348623157E308
-pb is : [D@5b480cf9
-pb is : [D@5b480cf9
-pb is : [D@5b480cf9
-pb is : [D@5b480cf9
-pb is : [D@5b480cf9
 nope1.7976931348623157E308
-ALL SSL 17.29548671003997
-ALL SSL 14.732151139010723
-ALL SSL 14.010912616478748
-ALL SSL 15.068087071279736
-ALL SSL 18.220649045075376
-ALL SSL 19.412743614947953
-ALL SSL 15.389251872465213
-ALL SSL 18.70910431541342
-ALL SSL 21.25564195100141
-ALL SSL 20.330097030411384
-ALL SSL 16.707359384120533
-ALL SSL 17.36645159217657
-ALL SSL 25.495685036493626
-ALL SSL 7.928252583299403
-ALL SSL 18.802357367624374
-ALL SSL 25.008494420636858
-ALL SSL 18.658559451793487
-ALL SSL 18.281593576732952
-ALL SSL 18.40506131172143
-ALL SSL 19.737042759116708
-india 7.928252583299403
+ALL SSL 15.201120352615145
+ALL SSL 18.32087722399089
+ALL SSL 19.76436614475299
+ALL SSL 23.95049444467011
+ALL SSL 14.428557479310403
+ALL SSL 13.406957241761344
+ALL SSL 16.769824788102902
+ALL SSL 24.44423516884715
+ALL SSL 10.26778870226558
+ALL SSL 24.35624094465775
+ALL SSL 21.18674795726725
+ALL SSL 16.671548847297863
+ALL SSL 20.056426455584262
+ALL SSL 20.09989174401387
+ALL SSL 9.749592099906259
+ALL SSL 20.426240209262314
+ALL SSL 13.553049683873988
+ALL SSL 18.96000834027076
+ALL SSL 16.74766578168105
+ALL SSL 21.55520399250255
+india 9.749592099906259
