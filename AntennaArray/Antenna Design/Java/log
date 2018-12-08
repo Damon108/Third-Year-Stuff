@@ -2,32 +2,49 @@
 5
 .
 .
-index J 0 0.33790839682763607
-index J 1 0.7418405438241289
-index J 2 1.2073208590999482
-index J 3 1.537027548405364
-index J 4 2.5
-0.25
-5
+.
+.
+.
+.
+.
 .
 .
 .
 .
 .
 .
-index J 0 0.30977714496916775
-index J 1 0.901262790685794
-index J 2 1.5611848669245223
-index J 3 1.9934283447543988
+.
+.
+.
+index J 0 0.5862232991203047
+index J 1 1.0069416299379235
+index J 2 1.5173112779663547
+index J 3 1.8714717561372733
+index J 4 2.5
+0.25
+5
+.
+index J 0 0.5625571131235925
+index J 1 1.0917852126242054
+index J 2 1.567592156230439
+index J 3 1.8908349619894675
 index J 4 2.5
-cPOS 16.586185082069708
-tempPos 7.35250697339262
-SSL value 16.586185082069708
-new SLL VALUE 16.586185082069708
+cPOS 12.718493778560545
+tempPos 14.317470281717961
+SSL value 12.718493778560545
+new SLL VALUE 12.718493778560545
 0.25
 5
+.
 .
 .
+index J 0 0.6731884032681902
+index J 1 1.1004743576100275
+index J 2 1.6525535910734737
+index J 3 1.9802450961400548
+index J 4 2.5
+0.25
+5
 .
 .
 .
@@ -44,13 +61,6 @@ new SLL VALUE 16.586185082069708
 .
 .
 .
-index J 0 0.8451363981666656
-index J 1 1.341906518829684
-index J 2 1.6473592299246145
-index J 3 1.932484902014908
-index J 4 2.5
-0.25
-5
 .
 .
 .
@@ -68,25 +78,35 @@ index J 4 2.5
 .
 .
 .
-index J 0 0.28213811966562596
-index J 1 0.9696515334864717
-index J 2 1.7205494788549354
-index J 3 1.9836736936021522
+index J 0 0.5554508142145393
+index J 1 0.8640229476224179
+index J 2 1.6868236583506042
+index J 3 1.9455370717715061
 index J 4 2.5
-cPOS 21.275361870179516
-tempPos 22.53982696319836
-SSL value 21.275361870179516
-new SLL VALUE 21.275361870179516
+cPOS 16.307443807910463
+tempPos 15.056105732370906
+SSL value 16.307443807910463
+new SLL VALUE 16.307443807910463
 0.25
 5
+.
+.
 .
-index J 0 0.47262673466652433
-index J 1 0.7532525833789114
-index J 2 1.5931498436154805
-index J 3 1.985647042236713
+.
+.
+.
+.
+index J 0 0.4772802981436461
+index J 1 0.8929150782038306
+index J 2 1.2830480761305258
+index J 3 1.6373532305997058
 index J 4 2.5
 0.25
 5
+.
+.
+.
+.
 .
 .
 .
@@ -101,46 +121,72 @@ index J 4 2.5
 .
 .
 .
-index J 0 0.8015512918584199
-index J 1 1.0924719533072331
-index J 2 1.499712914872379
-index J 3 1.957833736301762
+.
+.
+.
+.
+index J 0 0.2525794225886858
+index J 1 1.05853683387152
+index J 2 1.7218465647982044
+index J 3 1.985803397892106
 index J 4 2.5
-cPOS 15.019723229896284
-tempPos 16.956849404981106
-SSL value 15.019723229896284
-new SLL VALUE 15.019723229896284
+cPOS 14.631841037838484
+tempPos 23.787807560541452
+SSL value 14.631841037838484
+new SLL VALUE 14.631841037838484
 0.25
 5
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
 .
 .
-index J 0 0.8390659114922769
-index J 1 1.2990686967287444
-index J 2 1.7119679396345506
-index J 3 1.9693128625606315
+.
+.
+.
+.
+.
+index J 0 0.5150266029935701
+index J 1 1.1450561865853126
+index J 2 1.7105568369285225
+index J 3 1.9614716170758086
 index J 4 2.5
 0.25
 5
+.
 .
 .
 .
 .
-index J 0 0.2589677846163934
-index J 1 1.0927815675458739
-index J 2 1.422778025848843
-index J 3 1.853737170037024
+index J 0 0.4209816941016961
+index J 1 1.1623482402262206
+index J 2 1.6678839507364824
+index J 3 1.9786046332622982
 index J 4 2.5
-cPOS 20.990969451063574
-tempPos 18.603336704408765
-SSL value 20.990969451063574
-new SLL VALUE 20.990969451063574
+cPOS 22.0762677861749
+tempPos 22.470851148584217
+SSL value 22.0762677861749
+new SLL VALUE 22.0762677861749
 0.25
 5
+.
+.
 .
-index J 0 0.45990103122489423
-index J 1 1.1914973145475063
-index J 2 1.5332358680789078
-index J 3 1.8774569448200567
+.
+.
+index J 0 0.3555112493988945
+index J 1 0.6647580411377098
+index J 2 1.358572420229016
+index J 3 1.7231806323466508
 index J 4 2.5
 0.25
 5
@@ -148,15 +194,15 @@ index J 4 2.5
 .
 .
 .
-index J 0 0.33167697052215794
-index J 1 0.8232423949429675
-index J 2 1.3761855650467454
-index J 3 1.938656129191424
+index J 0 0.5757576776069364
+index J 1 1.1145706535342765
+index J 2 1.5654802992404102
+index J 3 1.8445014617873783
 index J 4 2.5
-cPOS 17.011603247128093
-tempPos 3.9530009404387165
-SSL value 17.011603247128093
-new SLL VALUE 17.011603247128093
+cPOS 21.816811174675657
+tempPos 14.87169945520036
+SSL value 21.816811174675657
+new SLL VALUE 21.816811174675657
 0.25
 5
 .
@@ -164,27 +210,15 @@ new SLL VALUE 17.011603247128093
 .
 .
 .
-index J 0 0.734282009804756
-index J 1 1.0610671873055066
-index J 2 1.3983069767768406
-index J 3 1.9594003073827158
-index J 4 2.5
-0.25
-5
 .
 .
-index J 0 0.2675685142229619
-index J 1 0.5828361695761121
-index J 2 1.7378018315277566
-index J 3 1.9887098262719534
+index J 0 0.29246316339230227
+index J 1 0.8777289957670376
+index J 2 1.510385659501852
+index J 3 1.870184749988827
 index J 4 2.5
-cPOS 15.914667895173809
-tempPos 17.141222289982533
-SSL value 15.914667895173809
-new SLL VALUE 15.914667895173809
 0.25
 5
-.
 .
 .
 .
@@ -192,11 +226,15 @@ new SLL VALUE 15.914667895173809
 .
 .
 .
-index J 0 0.5862361371467921
-index J 1 0.9507443286039073
-index J 2 1.3775805946434967
-index J 3 1.8548241261760734
+index J 0 0.48338472641994046
+index J 1 0.9575891582149951
+index J 2 1.7291237355743312
+index J 3 1.9827222156629447
 index J 4 2.5
+cPOS 12.115084969781364
+tempPos 20.105307713877167
+SSL value 12.115084969781364
+new SLL VALUE 12.115084969781364
 0.25
 5
 .
@@ -205,25 +243,24 @@ index J 4 2.5
 .
 .
 .
-index J 0 0.8561618694106139
-index J 1 1.1073852082856852
-index J 2 1.4356150868303796
-index J 3 1.9435321489608262
+index J 0 0.5585374265568506
+index J 1 0.9345557805102944
+index J 2 1.651889707174546
+index J 3 1.9115655707267845
 index J 4 2.5
-cPOS 15.454899741961688
-tempPos 17.454885055625773
-SSL value 15.454899741961688
-new SLL VALUE 15.454899741961688
 0.25
 5
 .
 .
-.
-index J 0 0.9980449389536267
-index J 1 1.2865238617960493
-index J 2 1.6286160186093452
-index J 3 1.9866425432269048
+index J 0 0.5240654406536442
+index J 1 1.275757292879179
+index J 2 1.6870043332431337
+index J 3 1.967924576031525
 index J 4 2.5
+cPOS 15.322602907470554
+tempPos 19.28751630905073
+SSL value 15.322602907470554
+new SLL VALUE 15.322602907470554
 0.25
 5
 .
@@ -237,42 +274,36 @@ index J 4 2.5
 .
 .
 .
-index J 0 0.5207837005428343
-index J 1 1.1181945610421775
-index J 2 1.4793602928817766
-index J 3 1.7561618946197628
-index J 4 2.5
-cPOS 22.32568046681475
-tempPos 16.281364608532346
-SSL value 22.32568046681475
-new SLL VALUE 22.32568046681475
-0.25
-5
 .
 .
 .
 .
-index J 0 0.7910803966586152
-index J 1 1.327437532220787
-index J 2 1.703111594370905
-index J 3 1.9840194232403692
+.
+index J 0 0.3230681878964671
+index J 1 0.9405067245440396
+index J 2 1.3429326463291245
+index J 3 1.7850182060824826
 index J 4 2.5
 0.25
 5
+.
 .
 .
 .
 .
 .
-index J 0 0.4725565064103914
-index J 1 0.8430114387327509
-index J 2 1.6348707532423252
-index J 3 1.956100006599216
+.
+.
+.
+index J 0 0.8861699411433899
+index J 1 1.1934170326322067
+index J 2 1.7334657109407956
+index J 3 1.9908983951183563
 index J 4 2.5
-cPOS 20.65942587399199
-tempPos 11.344851167906999
-SSL value 20.65942587399199
-new SLL VALUE 20.65942587399199
+cPOS 19.36309970719025
+tempPos 20.48156063831417
+SSL value 19.36309970719025
+new SLL VALUE 19.36309970719025
 0.25
 5
 .
@@ -281,13 +312,8 @@ new SLL VALUE 20.65942587399199
 .
 .
 .
-index J 0 0.5943981766427999
-index J 1 0.950229801286365
-index J 2 1.2086458585502133
-index J 3 1.6017317729609584
-index J 4 2.5
-0.25
-5
+.
+.
 .
 .
 .
@@ -296,6 +322,16 @@ index J 4 2.5
 .
 .
 .
+.
+.
+.
+index J 0 0.42803907057385976
+index J 1 0.9624206157728648
+index J 2 1.496832110577285
+index J 3 1.7840092386673003
+index J 4 2.5
+0.25
+5
 .
 .
 .
@@ -307,17 +343,19 @@ index J 4 2.5
 .
 .
 .
-index J 0 0.6081503839311351
-index J 1 1.4318801375189618
-index J 2 1.721863574085201
-index J 3 1.989471269392476
+index J 0 0.5622865916242814
+index J 1 1.0218422486978012
+index J 2 1.3604558995496745
+index J 3 1.6979680849275294
 index J 4 2.5
-cPOS 13.244874364982442
-tempPos 19.70465279197483
-SSL value 13.244874364982442
-new SLL VALUE 13.244874364982442
+cPOS 19.721817591078562
+tempPos 13.05712319936676
+SSL value 19.721817591078562
+new SLL VALUE 19.721817591078562
 0.25
 5
+.
+.
 .
 .
 .
@@ -328,15 +366,27 @@ new SLL VALUE 13.244874364982442
 .
 .
 .
+.
+index J 0 0.5626191718618063
+index J 1 1.2978730185269123
+index J 2 1.6743746216583046
+index J 3 1.9961841555835316
+index J 4 2.5
+0.25
+5
 .
 .
 .
 .
-index J 0 0.9640369103878537
-index J 1 1.4197470020357725
-index J 2 1.7257860802826033
-index J 3 1.9982153893818817
+index J 0 0.9688093324642375
+index J 1 1.3351687740403033
+index J 2 1.7264207719912377
+index J 3 1.9867845210418331
 index J 4 2.5
+cPOS 19.11655235967134
+tempPos 22.773239043698993
+SSL value 19.11655235967134
+new SLL VALUE 19.11655235967134
 0.25
 5
 .
@@ -347,15 +397,11 @@ index J 4 2.5
 .
 .
 .
-index J 0 0.33974850291727676
-index J 1 0.7311999845402397
-index J 2 1.6893675302771733
-index J 3 1.9766812228300374
+index J 0 1.1427946119961092
+index J 1 1.4192719213064215
+index J 2 1.7181846185627352
+index J 3 1.990739688859357
 index J 4 2.5
-cPOS 23.368019323622136
-tempPos 10.614861454706697
-SSL value 23.368019323622136
-new SLL VALUE 23.368019323622136
 0.25
 5
 .
@@ -365,31 +411,33 @@ new SLL VALUE 23.368019323622136
 .
 .
 .
-index J 0 0.9023813316067784
-index J 1 1.1582730593130801
-index J 2 1.4512315755933087
-index J 3 1.8893566415092748
+.
+.
+index J 0 0.7969156663920517
+index J 1 1.478487280603867
+index J 2 1.74799345215525
+index J 3 1.9993366642967623
 index J 4 2.5
+cPOS 25.093046230370675
+tempPos 22.11426799119518
+SSL value 25.093046230370675
+new SLL VALUE 25.093046230370675
 0.25
 5
 .
 .
 .
+index J 0 1.1253106400858703
+index J 1 1.462694432307483
+index J 2 1.7493635832930536
+index J 3 1.9997641332841225
+index J 4 2.5
+0.25
+5
 .
 .
 .
 .
-index J 0 0.43275798594974973
-index J 1 0.7806623225242083
-index J 2 1.2957525445278164
-index J 3 1.9631087881102816
-index J 4 2.5
-cPOS 19.04230821551718
-tempPos 18.105957273856877
-SSL value 19.04230821551718
-new SLL VALUE 19.04230821551718
-0.25
-5
 .
 .
 .
@@ -403,11 +451,15 @@ new SLL VALUE 19.04230821551718
 .
 .
 .
-index J 0 0.2963798764146438
-index J 1 1.2927003579412777
-index J 2 1.5567795282342385
-index J 3 1.969098874073785
+index J 0 0.3627749026831778
+index J 1 1.1536402708734974
+index J 2 1.735321619819512
+index J 3 1.9869647473597414
 index J 4 2.5
+cPOS 25.272637321494642
+tempPos 25.943017343810663
+SSL value 25.272637321494642
+new SLL VALUE 25.272637321494642
 0.25
 5
 .
@@ -415,21 +467,29 @@ index J 4 2.5
 .
 .
 .
+index J 0 0.5683732231950811
+index J 1 0.9244552796608676
+index J 2 1.5699802146537065
+index J 3 1.9227204795704578
+index J 4 2.5
+0.25
+5
+.
 .
 .
 .
 .
 .
 .
-index J 0 0.8182477380490217
-index J 1 1.1462588327479386
-index J 2 1.6902455459979526
-index J 3 1.9719509798827621
+index J 0 0.40086207571978505
+index J 1 1.0007378258314832
+index J 2 1.494476202495585
+index J 3 1.8807819438181244
 index J 4 2.5
-cPOS 14.271155234020634
-tempPos 18.986127225165962
-SSL value 14.271155234020634
-new SLL VALUE 14.271155234020634
+cPOS 11.736795922773918
+tempPos 18.91510823888821
+SSL value 11.736795922773918
+new SLL VALUE 11.736795922773918
 0.25
 5
 .
@@ -439,82 +499,69 @@ new SLL VALUE 14.271155234020634
 .
 .
 .
-index J 0 0.47818781844477554
-index J 1 1.0777682291881159
-index J 2 1.591933496478842
-index J 3 1.858226864506648
-index J 4 2.5
-0.25
-5
 .
 .
 .
 .
-index J 0 0.29936332537420085
-index J 1 1.1630782602126513
-index J 2 1.4722098312380758
-index J 3 1.85886250891636
-index J 4 2.5
-cPOS 22.96798626680726
-tempPos 18.61169898141043
-SSL value 22.96798626680726
-new SLL VALUE 22.96798626680726
-0.25
-5
 .
 .
 .
 .
 .
 .
-index J 0 1.0071544138878705
-index J 1 1.377130068462049
-index J 2 1.7195352429728452
-index J 3 1.9816180194179942
-index J 4 2.5
-0.25
-5
 .
 .
 .
-index J 0 0.2943672302424492
-index J 1 1.228149195129895
-index J 2 1.6538588602598245
-index J 3 1.923102282089109
-index J 4 2.5
-cPOS 23.50345064497311
-tempPos 21.249319352420642
-SSL value 23.50345064497311
-new SLL VALUE 23.50345064497311
-0.25
-5
 .
 .
 .
 .
 .
 .
-index J 0 0.680810866130065
-index J 1 1.1062509095345976
-index J 2 1.4468024119787688
-index J 3 1.88388918329691
+.
+.
+.
+index J 0 0.6777154476128975
+index J 1 1.0974904945310977
+index J 2 1.4013282033995904
+index J 3 1.8243920778989695
+index J 4 2.5
+0.25
+5
+.
+index J 0 0.9713393526495119
+index J 1 1.452007851031655
+index J 2 1.7380643269044016
+index J 3 1.9992923243507328
 index J 4 2.5
+cPOS 19.504934868778847
+tempPos 23.702629432665184
+SSL value 19.504934868778847
+new SLL VALUE 19.504934868778847
 0.25
 5
+.
 .
-index J 0 0.2849322879486606
-index J 1 0.6084452876543106
-index J 2 1.5590622142776427
-index J 3 1.9125380336940765
+index J 0 0.6456184620562762
+index J 1 1.1937043302877952
+index J 2 1.5548413711188962
+index J 3 1.9898487197562658
 index J 4 2.5
-cPOS 18.853879571794025
-tempPos 16.721863657158096
-SSL value 18.853879571794025
-new SLL VALUE 18.853879571794025
 0.25
 5
 .
 .
+index J 0 0.35593418458228454
+index J 1 1.1115563687625216
+index J 2 1.6973224437361496
+index J 3 1.974631739011209
+index J 4 2.5
+cPOS 17.253943763144363
+tempPos 25.79226875987231
+SSL value 17.253943763144363
+new SLL VALUE 17.253943763144363
+0.25
+5
 .
 .
 .
@@ -523,10 +570,10 @@ new SLL VALUE 18.853879571794025
 .
 .
 .
-index J 0 0.9425286956117546
-index J 1 1.3702880274367795
-index J 2 1.742513772655475
-index J 3 1.9966861757552843
+index J 0 0.6591178737547492
+index J 1 1.159642325604182
+index J 2 1.725990036015292
+index J 3 1.9906482091870572
 index J 4 2.5
 0.25
 5
@@ -537,17 +584,8 @@ index J 4 2.5
 .
 .
 .
-index J 0 0.40548371797620897
-index J 1 0.7181938013071535
-index J 2 1.1145513685331636
-index J 3 1.8061706470611472
-index J 4 2.5
-cPOS 22.811147626423733
-tempPos 21.029793298182188
-SSL value 22.811147626423733
-new SLL VALUE 22.811147626423733
-0.25
-5
+.
+.
 .
 .
 .
@@ -556,18 +594,48 @@ new SLL VALUE 22.811147626423733
 .
 .
 .
+index J 0 0.4462875210890234
+index J 1 1.1666104484198605
+index J 2 1.5557285607645521
+index J 3 1.9804641081518866
+index J 4 2.5
+cPOS 20.60587992382324
+tempPos 14.386607599266197
+SSL value 20.60587992382324
+new SLL VALUE 20.60587992382324
+0.25
+5
+.
 .
 .
 .
+index J 0 0.276957732085744
+index J 1 0.5613322272126011
+index J 2 1.4466272627000505
+index J 3 1.888190506832528
+index J 4 2.5
+0.25
+5
 .
+index J 0 0.49237498177431616
+index J 1 1.2354531850095225
+index J 2 1.6142758198837903
+index J 3 1.900977248417847
+index J 4 2.5
+cPOS 16.794276226878214
+tempPos 16.255900218832316
+SSL value 16.794276226878214
+new SLL VALUE 16.794276226878214
+0.25
+5
 .
 .
 .
 .
-index J 0 0.7199304907019902
-index J 1 1.1650052264114483
-index J 2 1.7027233511592113
-index J 3 1.95274580778198
+index J 0 0.28230929503832614
+index J 1 1.1057292675480799
+index J 2 1.4394440833606466
+index J 3 1.950633704414684
 index J 4 2.5
 0.25
 5
@@ -581,39 +649,31 @@ index J 4 2.5
 .
 .
 .
-index J 0 0.28628026871842815
-index J 1 1.2268452536339778
-index J 2 1.5498783261271398
-index J 3 1.871251158755985
+index J 0 0.27934329982509226
+index J 1 1.3162509698131095
+index J 2 1.6602875660660095
+index J 3 1.9238614413134938
 index J 4 2.5
-cPOS 18.75039361982915
-tempPos 16.814661014433433
-SSL value 18.75039361982915
-new SLL VALUE 18.75039361982915
+cPOS 15.513108681556657
+tempPos 15.286144807446318
+SSL value 15.513108681556657
+new SLL VALUE 15.513108681556657
 0.25
 5
 .
 .
-index J 0 1.0661763861498308
-index J 1 1.4753306139080862
-index J 2 1.7336242364924503
-index J 3 1.9844710256496392
+index J 0 0.32672350150834645
+index J 1 1.3840139458726086
+index J 2 1.6846305008408546
+index J 3 1.9384103100849126
 index J 4 2.5
 0.25
 5
 .
 .
-index J 0 0.26849524375796635
-index J 1 1.426220922246995
-index J 2 1.714218337218997
-index J 3 1.996313836609215
-index J 4 2.5
-cPOS 24.792890616462916
-tempPos 16.8153790464913
-SSL value 24.792890616462916
-new SLL VALUE 24.792890616462916
-0.25
-5
+.
+.
+.
 .
 .
 .
@@ -621,39 +681,52 @@ new SLL VALUE 24.792890616462916
 .
 .
 .
-index J 0 0.45189895623979925
-index J 1 1.3527394093284708
-index J 2 1.7308963511510875
-index J 3 1.981487728632163
+.
+.
+index J 0 0.5870918974994719
+index J 1 1.1464770496922472
+index J 2 1.7433538225931198
+index J 3 1.9958032206846923
+index J 4 2.5
+cPOS 16.571551999701153
+tempPos 20.076208530552965
+SSL value 16.571551999701153
+new SLL VALUE 16.571551999701153
+0.25
+5
+.
+index J 0 0.849126775563829
+index J 1 1.1090570863133942
+index J 2 1.5910059414351965
+index J 3 1.9834203636008612
 index J 4 2.5
 0.25
 5
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
 .
 .
 .
-index J 0 0.59161504847835
-index J 1 1.0523121844936196
-index J 2 1.4692209784015047
-index J 3 1.7240995280702613
+.
+index J 0 0.3355050113176469
+index J 1 1.1406408983880423
+index J 2 1.5273891589565125
+index J 3 1.8493346103643082
 index J 4 2.5
-cPOS 17.465561142310072
-tempPos 15.356889611725533
-SSL value 17.465561142310072
-new SLL VALUE 17.465561142310072
-new globalBest Found`15.019723229896284
-new globalBest Found`13.244874364982442
-pb is : [D@87aac27
-pb is : [D@87aac27
-pb is : [D@87aac27
-pb is : [D@87aac27
-pb is : [D@87aac27
-nope1.7976931348623157E308
-pb is : [D@3e3abc88
-pb is : [D@3e3abc88
-pb is : [D@3e3abc88
-pb is : [D@3e3abc88
-pb is : [D@3e3abc88
-nope1.7976931348623157E308
+cPOS 18.398132299961393
+tempPos 22.06233432341621
+SSL value 18.398132299961393
+new SLL VALUE 18.398132299961393
+new globalBest Found`12.115084969781364
+new globalBest Found`11.736795922773918
 pb is : [D@6ce253f1
 pb is : [D@6ce253f1
 pb is : [D@6ce253f1
@@ -762,17 +835,17 @@ pb is : [D@214c265e
 pb is : [D@214c265e
 pb is : [D@214c265e
 nope1.7976931348623157E308
-pb is : [D@87aac27
-pb is : [D@87aac27
-pb is : [D@87aac27
-pb is : [D@87aac27
-pb is : [D@87aac27
+pb is : [D@448139f0
+pb is : [D@448139f0
+pb is : [D@448139f0
+pb is : [D@448139f0
+pb is : [D@448139f0
 nope1.7976931348623157E308
-pb is : [D@3e3abc88
-pb is : [D@3e3abc88
-pb is : [D@3e3abc88
-pb is : [D@3e3abc88
-pb is : [D@3e3abc88
+pb is : [D@7cca494b
+pb is : [D@7cca494b
+pb is : [D@7cca494b
+pb is : [D@7cca494b
+pb is : [D@7cca494b
 nope1.7976931348623157E308
 pb is : [D@6ce253f1
 pb is : [D@6ce253f1
@@ -882,17 +955,17 @@ pb is : [D@214c265e
 pb is : [D@214c265e
 pb is : [D@214c265e
 nope1.7976931348623157E308
-pb is : [D@87aac27
-pb is : [D@87aac27
-pb is : [D@87aac27
-pb is : [D@87aac27
-pb is : [D@87aac27
+pb is : [D@448139f0
+pb is : [D@448139f0
+pb is : [D@448139f0
+pb is : [D@448139f0
+pb is : [D@448139f0
 nope1.7976931348623157E308
-pb is : [D@3e3abc88
-pb is : [D@3e3abc88
-pb is : [D@3e3abc88
-pb is : [D@3e3abc88
-pb is : [D@3e3abc88
+pb is : [D@7cca494b
+pb is : [D@7cca494b
+pb is : [D@7cca494b
+pb is : [D@7cca494b
+pb is : [D@7cca494b
 nope1.7976931348623157E308
 pb is : [D@6ce253f1
 pb is : [D@6ce253f1
@@ -1002,17 +1075,17 @@ pb is : [D@214c265e
 pb is : [D@214c265e
 pb is : [D@214c265e
 nope1.7976931348623157E308
-pb is : [D@87aac27
-pb is : [D@87aac27
-pb is : [D@87aac27
-pb is : [D@87aac27
-pb is : [D@87aac27
+pb is : [D@448139f0
+pb is : [D@448139f0
+pb is : [D@448139f0
+pb is : [D@448139f0
+pb is : [D@448139f0
 nope1.7976931348623157E308
-pb is : [D@3e3abc88
-pb is : [D@3e3abc88
-pb is : [D@3e3abc88
-pb is : [D@3e3abc88
-pb is : [D@3e3abc88
+pb is : [D@7cca494b
+pb is : [D@7cca494b
+pb is : [D@7cca494b
+pb is : [D@7cca494b
+pb is : [D@7cca494b
 nope1.7976931348623157E308
 pb is : [D@6ce253f1
 pb is : [D@6ce253f1
@@ -1122,17 +1195,17 @@ pb is : [D@214c265e
 pb is : [D@214c265e
 pb is : [D@214c265e
 nope1.7976931348623157E308
-pb is : [D@87aac27
-pb is : [D@87aac27
-pb is : [D@87aac27
-pb is : [D@87aac27
-pb is : [D@87aac27
+pb is : [D@448139f0
+pb is : [D@448139f0
+pb is : [D@448139f0
+pb is : [D@448139f0
+pb is : [D@448139f0
 nope1.7976931348623157E308
-pb is : [D@3e3abc88
-pb is : [D@3e3abc88
-pb is : [D@3e3abc88
-pb is : [D@3e3abc88
-pb is : [D@3e3abc88
+pb is : [D@7cca494b
+pb is : [D@7cca494b
+pb is : [D@7cca494b
+pb is : [D@7cca494b
+pb is : [D@7cca494b
 nope1.7976931348623157E308
 pb is : [D@6ce253f1
 pb is : [D@6ce253f1
@@ -1242,17 +1315,17 @@ pb is : [D@214c265e
 pb is : [D@214c265e
 pb is : [D@214c265e
 nope1.7976931348623157E308
-pb is : [D@87aac27
-pb is : [D@87aac27
-pb is : [D@87aac27
-pb is : [D@87aac27
-pb is : [D@87aac27
+pb is : [D@448139f0
+pb is : [D@448139f0
+pb is : [D@448139f0
+pb is : [D@448139f0
+pb is : [D@448139f0
 nope1.7976931348623157E308
-pb is : [D@3e3abc88
-pb is : [D@3e3abc88
-pb is : [D@3e3abc88
-pb is : [D@3e3abc88
-pb is : [D@3e3abc88
+pb is : [D@7cca494b
+pb is : [D@7cca494b
+pb is : [D@7cca494b
+pb is : [D@7cca494b
+pb is : [D@7cca494b
 nope1.7976931348623157E308
 pb is : [D@6ce253f1
 pb is : [D@6ce253f1
@@ -1362,17 +1435,17 @@ pb is : [D@214c265e
 pb is : [D@214c265e
 pb is : [D@214c265e
 nope1.7976931348623157E308
-pb is : [D@87aac27
-pb is : [D@87aac27
-pb is : [D@87aac27
-pb is : [D@87aac27
-pb is : [D@87aac27
+pb is : [D@448139f0
+pb is : [D@448139f0
+pb is : [D@448139f0
+pb is : [D@448139f0
+pb is : [D@448139f0
 nope1.7976931348623157E308
-pb is : [D@3e3abc88
-pb is : [D@3e3abc88
-pb is : [D@3e3abc88
-pb is : [D@3e3abc88
-pb is : [D@3e3abc88
+pb is : [D@7cca494b
+pb is : [D@7cca494b
+pb is : [D@7cca494b
+pb is : [D@7cca494b
+pb is : [D@7cca494b
 nope1.7976931348623157E308
 pb is : [D@6ce253f1
 pb is : [D@6ce253f1
@@ -1482,17 +1555,17 @@ pb is : [D@214c265e
 pb is : [D@214c265e
 pb is : [D@214c265e
 nope1.7976931348623157E308
-pb is : [D@87aac27
-pb is : [D@87aac27
-pb is : [D@87aac27
-pb is : [D@87aac27
-pb is : [D@87aac27
+pb is : [D@448139f0
+pb is : [D@448139f0
+pb is : [D@448139f0
+pb is : [D@448139f0
+pb is : [D@448139f0
 nope1.7976931348623157E308
-pb is : [D@3e3abc88
-pb is : [D@3e3abc88
-pb is : [D@3e3abc88
-pb is : [D@3e3abc88
-pb is : [D@3e3abc88
+pb is : [D@7cca494b
+pb is : [D@7cca494b
+pb is : [D@7cca494b
+pb is : [D@7cca494b
+pb is : [D@7cca494b
 nope1.7976931348623157E308
 pb is : [D@6ce253f1
 pb is : [D@6ce253f1
@@ -1602,17 +1675,17 @@ pb is : [D@214c265e
 pb is : [D@214c265e
 pb is : [D@214c265e
 nope1.7976931348623157E308
-pb is : [D@87aac27
-pb is : [D@87aac27
-pb is : [D@87aac27
-pb is : [D@87aac27
-pb is : [D@87aac27
+pb is : [D@448139f0
+pb is : [D@448139f0
+pb is : [D@448139f0
+pb is : [D@448139f0
+pb is : [D@448139f0
 nope1.7976931348623157E308
-pb is : [D@3e3abc88
-pb is : [D@3e3abc88
-pb is : [D@3e3abc88
-pb is : [D@3e3abc88
-pb is : [D@3e3abc88
+pb is : [D@7cca494b
+pb is : [D@7cca494b
+pb is : [D@7cca494b
+pb is : [D@7cca494b
+pb is : [D@7cca494b
 nope1.7976931348623157E308
 pb is : [D@6ce253f1
 pb is : [D@6ce253f1
@@ -1722,17 +1795,17 @@ pb is : [D@214c265e
 pb is : [D@214c265e
 pb is : [D@214c265e
 nope1.7976931348623157E308
-pb is : [D@87aac27
-pb is : [D@87aac27
-pb is : [D@87aac27
-pb is : [D@87aac27
-pb is : [D@87aac27
+pb is : [D@448139f0
+pb is : [D@448139f0
+pb is : [D@448139f0
+pb is : [D@448139f0
+pb is : [D@448139f0
 nope1.7976931348623157E308
-pb is : [D@3e3abc88
-pb is : [D@3e3abc88
-pb is : [D@3e3abc88
-pb is : [D@3e3abc88
-pb is : [D@3e3abc88
+pb is : [D@7cca494b
+pb is : [D@7cca494b
+pb is : [D@7cca494b
+pb is : [D@7cca494b
+pb is : [D@7cca494b
 nope1.7976931348623157E308
 pb is : [D@6ce253f1
 pb is : [D@6ce253f1
@@ -1841,24 +1914,24 @@ pb is : [D@214c265e
 pb is : [D@214c265e
 pb is : [D@214c265e
 pb is : [D@214c265e
-nope1.7976931348623157E308
-pb is : [D@87aac27
-pb is : [D@87aac27
-pb is : [D@87aac27
-pb is : [D@87aac27
-pb is : [D@87aac27
 nope1.7976931348623157E308
-pb is : [D@3e3abc88
-pb is : [D@3e3abc88
-pb is : [D@3e3abc88
-pb is : [D@3e3abc88
-pb is : [D@3e3abc88
-nope1.7976931348623157E308
-pb is : [D@6ce253f1
-pb is : [D@6ce253f1
+pb is : [D@448139f0
+pb is : [D@448139f0
+pb is : [D@448139f0
+pb is : [D@448139f0
+pb is : [D@448139f0
+nope1.7976931348623157E308
+pb is : [D@7cca494b
+pb is : [D@7cca494b
+pb is : [D@7cca494b
+pb is : [D@7cca494b
+pb is : [D@7cca494b
+nope1.7976931348623157E308
 pb is : [D@6ce253f1
 pb is : [D@6ce253f1
 pb is : [D@6ce253f1
+pb is : [D@6ce253f1
+pb is : [D@6ce253f1
 nope1.7976931348623157E308
 pb is : [D@53d8d10a
 pb is : [D@53d8d10a
@@ -1962,17 +2035,17 @@ pb is : [D@214c265e
 pb is : [D@214c265e
 pb is : [D@214c265e
 nope1.7976931348623157E308
-pb is : [D@87aac27
-pb is : [D@87aac27
-pb is : [D@87aac27
-pb is : [D@87aac27
-pb is : [D@87aac27
+pb is : [D@448139f0
+pb is : [D@448139f0
+pb is : [D@448139f0
+pb is : [D@448139f0
+pb is : [D@448139f0
 nope1.7976931348623157E308
-pb is : [D@3e3abc88
-pb is : [D@3e3abc88
-pb is : [D@3e3abc88
-pb is : [D@3e3abc88
-pb is : [D@3e3abc88
+pb is : [D@7cca494b
+pb is : [D@7cca494b
+pb is : [D@7cca494b
+pb is : [D@7cca494b
+pb is : [D@7cca494b
 nope1.7976931348623157E308
 pb is : [D@6ce253f1
 pb is : [D@6ce253f1
@@ -2082,17 +2155,17 @@ pb is : [D@214c265e
 pb is : [D@214c265e
 pb is : [D@214c265e
 nope1.7976931348623157E308
-pb is : [D@87aac27
-pb is : [D@87aac27
-pb is : [D@87aac27
-pb is : [D@87aac27
-pb is : [D@87aac27
+pb is : [D@448139f0
+pb is : [D@448139f0
+pb is : [D@448139f0
+pb is : [D@448139f0
+pb is : [D@448139f0
 nope1.7976931348623157E308
-pb is : [D@3e3abc88
-pb is : [D@3e3abc88
-pb is : [D@3e3abc88
-pb is : [D@3e3abc88
-pb is : [D@3e3abc88
+pb is : [D@7cca494b
+pb is : [D@7cca494b
+pb is : [D@7cca494b
+pb is : [D@7cca494b
+pb is : [D@7cca494b
 nope1.7976931348623157E308
 pb is : [D@6ce253f1
 pb is : [D@6ce253f1
@@ -2202,17 +2275,17 @@ pb is : [D@214c265e
 pb is : [D@214c265e
 pb is : [D@214c265e
 nope1.7976931348623157E308
-pb is : [D@87aac27
-pb is : [D@87aac27
-pb is : [D@87aac27
-pb is : [D@87aac27
-pb is : [D@87aac27
+pb is : [D@448139f0
+pb is : [D@448139f0
+pb is : [D@448139f0
+pb is : [D@448139f0
+pb is : [D@448139f0
 nope1.7976931348623157E308
-pb is : [D@3e3abc88
-pb is : [D@3e3abc88
-pb is : [D@3e3abc88
-pb is : [D@3e3abc88
-pb is : [D@3e3abc88
+pb is : [D@7cca494b
+pb is : [D@7cca494b
+pb is : [D@7cca494b
+pb is : [D@7cca494b
+pb is : [D@7cca494b
 nope1.7976931348623157E308
 pb is : [D@6ce253f1
 pb is : [D@6ce253f1
@@ -2322,17 +2395,17 @@ pb is : [D@214c265e
 pb is : [D@214c265e
 pb is : [D@214c265e
 nope1.7976931348623157E308
-pb is : [D@87aac27
-pb is : [D@87aac27
-pb is : [D@87aac27
-pb is : [D@87aac27
-pb is : [D@87aac27
+pb is : [D@448139f0
+pb is : [D@448139f0
+pb is : [D@448139f0
+pb is : [D@448139f0
+pb is : [D@448139f0
 nope1.7976931348623157E308
-pb is : [D@3e3abc88
-pb is : [D@3e3abc88
-pb is : [D@3e3abc88
-pb is : [D@3e3abc88
-pb is : [D@3e3abc88
+pb is : [D@7cca494b
+pb is : [D@7cca494b
+pb is : [D@7cca494b
+pb is : [D@7cca494b
+pb is : [D@7cca494b
 nope1.7976931348623157E308
 pb is : [D@6ce253f1
 pb is : [D@6ce253f1
@@ -2442,17 +2515,17 @@ pb is : [D@214c265e
 pb is : [D@214c265e
 pb is : [D@214c265e
 nope1.7976931348623157E308
-pb is : [D@87aac27
-pb is : [D@87aac27
-pb is : [D@87aac27
-pb is : [D@87aac27
-pb is : [D@87aac27
+pb is : [D@448139f0
+pb is : [D@448139f0
+pb is : [D@448139f0
+pb is : [D@448139f0
+pb is : [D@448139f0
 nope1.7976931348623157E308
-pb is : [D@3e3abc88
-pb is : [D@3e3abc88
-pb is : [D@3e3abc88
-pb is : [D@3e3abc88
-pb is : [D@3e3abc88
+pb is : [D@7cca494b
+pb is : [D@7cca494b
+pb is : [D@7cca494b
+pb is : [D@7cca494b
+pb is : [D@7cca494b
 nope1.7976931348623157E308
 pb is : [D@6ce253f1
 pb is : [D@6ce253f1
@@ -2562,17 +2635,17 @@ pb is : [D@214c265e
 pb is : [D@214c265e
 pb is : [D@214c265e
 nope1.7976931348623157E308
-pb is : [D@87aac27
-pb is : [D@87aac27
-pb is : [D@87aac27
-pb is : [D@87aac27
-pb is : [D@87aac27
+pb is : [D@448139f0
+pb is : [D@448139f0
+pb is : [D@448139f0
+pb is : [D@448139f0
+pb is : [D@448139f0
 nope1.7976931348623157E308
-pb is : [D@3e3abc88
-pb is : [D@3e3abc88
-pb is : [D@3e3abc88
-pb is : [D@3e3abc88
-pb is : [D@3e3abc88
+pb is : [D@7cca494b
+pb is : [D@7cca494b
+pb is : [D@7cca494b
+pb is : [D@7cca494b
+pb is : [D@7cca494b
 nope1.7976931348623157E308
 pb is : [D@6ce253f1
 pb is : [D@6ce253f1
@@ -2682,17 +2755,17 @@ pb is : [D@214c265e
 pb is : [D@214c265e
 pb is : [D@214c265e
 nope1.7976931348623157E308
-pb is : [D@87aac27
-pb is : [D@87aac27
-pb is : [D@87aac27
-pb is : [D@87aac27
-pb is : [D@87aac27
+pb is : [D@448139f0
+pb is : [D@448139f0
+pb is : [D@448139f0
+pb is : [D@448139f0
+pb is : [D@448139f0
 nope1.7976931348623157E308
-pb is : [D@3e3abc88
-pb is : [D@3e3abc88
-pb is : [D@3e3abc88
-pb is : [D@3e3abc88
-pb is : [D@3e3abc88
+pb is : [D@7cca494b
+pb is : [D@7cca494b
+pb is : [D@7cca494b
+pb is : [D@7cca494b
+pb is : [D@7cca494b
 nope1.7976931348623157E308
 pb is : [D@6ce253f1
 pb is : [D@6ce253f1
@@ -2802,17 +2875,17 @@ pb is : [D@214c265e
 pb is : [D@214c265e
 pb is : [D@214c265e
 nope1.7976931348623157E308
-pb is : [D@87aac27
-pb is : [D@87aac27
-pb is : [D@87aac27
-pb is : [D@87aac27
-pb is : [D@87aac27
+pb is : [D@448139f0
+pb is : [D@448139f0
+pb is : [D@448139f0
+pb is : [D@448139f0
+pb is : [D@448139f0
 nope1.7976931348623157E308
-pb is : [D@3e3abc88
-pb is : [D@3e3abc88
-pb is : [D@3e3abc88
-pb is : [D@3e3abc88
-pb is : [D@3e3abc88
+pb is : [D@7cca494b
+pb is : [D@7cca494b
+pb is : [D@7cca494b
+pb is : [D@7cca494b
+pb is : [D@7cca494b
 nope1.7976931348623157E308
 pb is : [D@6ce253f1
 pb is : [D@6ce253f1
@@ -2922,17 +2995,17 @@ pb is : [D@214c265e
 pb is : [D@214c265e
 pb is : [D@214c265e
 nope1.7976931348623157E308
-pb is : [D@87aac27
-pb is : [D@87aac27
-pb is : [D@87aac27
-pb is : [D@87aac27
-pb is : [D@87aac27
+pb is : [D@448139f0
+pb is : [D@448139f0
+pb is : [D@448139f0
+pb is : [D@448139f0
+pb is : [D@448139f0
 nope1.7976931348623157E308
-pb is : [D@3e3abc88
-pb is : [D@3e3abc88
-pb is : [D@3e3abc88
-pb is : [D@3e3abc88
-pb is : [D@3e3abc88
+pb is : [D@7cca494b
+pb is : [D@7cca494b
+pb is : [D@7cca494b
+pb is : [D@7cca494b
+pb is : [D@7cca494b
 nope1.7976931348623157E308
 pb is : [D@6ce253f1
 pb is : [D@6ce253f1
@@ -3042,17 +3115,17 @@ pb is : [D@214c265e
 pb is : [D@214c265e
 pb is : [D@214c265e
 nope1.7976931348623157E308
-pb is : [D@87aac27
-pb is : [D@87aac27
-pb is : [D@87aac27
-pb is : [D@87aac27
-pb is : [D@87aac27
+pb is : [D@448139f0
+pb is : [D@448139f0
+pb is : [D@448139f0
+pb is : [D@448139f0
+pb is : [D@448139f0
 nope1.7976931348623157E308
-pb is : [D@3e3abc88
-pb is : [D@3e3abc88
-pb is : [D@3e3abc88
-pb is : [D@3e3abc88
-pb is : [D@3e3abc88
+pb is : [D@7cca494b
+pb is : [D@7cca494b
+pb is : [D@7cca494b
+pb is : [D@7cca494b
+pb is : [D@7cca494b
 nope1.7976931348623157E308
 pb is : [D@6ce253f1
 pb is : [D@6ce253f1
@@ -3162,17 +3235,17 @@ pb is : [D@214c265e
 pb is : [D@214c265e
 pb is : [D@214c265e
 nope1.7976931348623157E308
-pb is : [D@87aac27
-pb is : [D@87aac27
-pb is : [D@87aac27
-pb is : [D@87aac27
-pb is : [D@87aac27
+pb is : [D@448139f0
+pb is : [D@448139f0
+pb is : [D@448139f0
+pb is : [D@448139f0
+pb is : [D@448139f0
 nope1.7976931348623157E308
-pb is : [D@3e3abc88
-pb is : [D@3e3abc88
-pb is : [D@3e3abc88
-pb is : [D@3e3abc88
-pb is : [D@3e3abc88
+pb is : [D@7cca494b
+pb is : [D@7cca494b
+pb is : [D@7cca494b
+pb is : [D@7cca494b
+pb is : [D@7cca494b
 nope1.7976931348623157E308
 pb is : [D@6ce253f1
 pb is : [D@6ce253f1
@@ -3282,17 +3355,17 @@ pb is : [D@214c265e
 pb is : [D@214c265e
 pb is : [D@214c265e
 nope1.7976931348623157E308
-pb is : [D@87aac27
-pb is : [D@87aac27
-pb is : [D@87aac27
-pb is : [D@87aac27
-pb is : [D@87aac27
+pb is : [D@448139f0
+pb is : [D@448139f0
+pb is : [D@448139f0
+pb is : [D@448139f0
+pb is : [D@448139f0
 nope1.7976931348623157E308
-pb is : [D@3e3abc88
-pb is : [D@3e3abc88
-pb is : [D@3e3abc88
-pb is : [D@3e3abc88
-pb is : [D@3e3abc88
+pb is : [D@7cca494b
+pb is : [D@7cca494b
+pb is : [D@7cca494b
+pb is : [D@7cca494b
+pb is : [D@7cca494b
 nope1.7976931348623157E308
 pb is : [D@6ce253f1
 pb is : [D@6ce253f1
@@ -3402,17 +3475,17 @@ pb is : [D@214c265e
 pb is : [D@214c265e
 pb is : [D@214c265e
 nope1.7976931348623157E308
-pb is : [D@87aac27
-pb is : [D@87aac27
-pb is : [D@87aac27
-pb is : [D@87aac27
-pb is : [D@87aac27
+pb is : [D@448139f0
+pb is : [D@448139f0
+pb is : [D@448139f0
+pb is : [D@448139f0
+pb is : [D@448139f0
 nope1.7976931348623157E308
-pb is : [D@3e3abc88
-pb is : [D@3e3abc88
-pb is : [D@3e3abc88
-pb is : [D@3e3abc88
-pb is : [D@3e3abc88
+pb is : [D@7cca494b
+pb is : [D@7cca494b
+pb is : [D@7cca494b
+pb is : [D@7cca494b
+pb is : [D@7cca494b
 nope1.7976931348623157E308
 pb is : [D@6ce253f1
 pb is : [D@6ce253f1
@@ -3522,17 +3595,17 @@ pb is : [D@214c265e
 pb is : [D@214c265e
 pb is : [D@214c265e
 nope1.7976931348623157E308
-pb is : [D@87aac27
-pb is : [D@87aac27
-pb is : [D@87aac27
-pb is : [D@87aac27
-pb is : [D@87aac27
+pb is : [D@448139f0
+pb is : [D@448139f0
+pb is : [D@448139f0
+pb is : [D@448139f0
+pb is : [D@448139f0
 nope1.7976931348623157E308
-pb is : [D@3e3abc88
-pb is : [D@3e3abc88
-pb is : [D@3e3abc88
-pb is : [D@3e3abc88
-pb is : [D@3e3abc88
+pb is : [D@7cca494b
+pb is : [D@7cca494b
+pb is : [D@7cca494b
+pb is : [D@7cca494b
+pb is : [D@7cca494b
 nope1.7976931348623157E308
 pb is : [D@6ce253f1
 pb is : [D@6ce253f1
@@ -3642,17 +3715,17 @@ pb is : [D@214c265e
 pb is : [D@214c265e
 pb is : [D@214c265e
 nope1.7976931348623157E308
-pb is : [D@87aac27
-pb is : [D@87aac27
-pb is : [D@87aac27
-pb is : [D@87aac27
-pb is : [D@87aac27
+pb is : [D@448139f0
+pb is : [D@448139f0
+pb is : [D@448139f0
+pb is : [D@448139f0
+pb is : [D@448139f0
 nope1.7976931348623157E308
-pb is : [D@3e3abc88
-pb is : [D@3e3abc88
-pb is : [D@3e3abc88
-pb is : [D@3e3abc88
-pb is : [D@3e3abc88
+pb is : [D@7cca494b
+pb is : [D@7cca494b
+pb is : [D@7cca494b
+pb is : [D@7cca494b
+pb is : [D@7cca494b
 nope1.7976931348623157E308
 pb is : [D@6ce253f1
 pb is : [D@6ce253f1
@@ -3762,17 +3835,17 @@ pb is : [D@214c265e
 pb is : [D@214c265e
 pb is : [D@214c265e
 nope1.7976931348623157E308
-pb is : [D@87aac27
-pb is : [D@87aac27
-pb is : [D@87aac27
-pb is : [D@87aac27
-pb is : [D@87aac27
+pb is : [D@448139f0
+pb is : [D@448139f0
+pb is : [D@448139f0
+pb is : [D@448139f0
+pb is : [D@448139f0
 nope1.7976931348623157E308
-pb is : [D@3e3abc88
-pb is : [D@3e3abc88
-pb is : [D@3e3abc88
-pb is : [D@3e3abc88
-pb is : [D@3e3abc88
+pb is : [D@7cca494b
+pb is : [D@7cca494b
+pb is : [D@7cca494b
+pb is : [D@7cca494b
+pb is : [D@7cca494b
 nope1.7976931348623157E308
 pb is : [D@6ce253f1
 pb is : [D@6ce253f1
@@ -3882,17 +3955,17 @@ pb is : [D@214c265e
 pb is : [D@214c265e
 pb is : [D@214c265e
 nope1.7976931348623157E308
-pb is : [D@87aac27
-pb is : [D@87aac27
-pb is : [D@87aac27
-pb is : [D@87aac27
-pb is : [D@87aac27
+pb is : [D@448139f0
+pb is : [D@448139f0
+pb is : [D@448139f0
+pb is : [D@448139f0
+pb is : [D@448139f0
 nope1.7976931348623157E308
-pb is : [D@3e3abc88
-pb is : [D@3e3abc88
-pb is : [D@3e3abc88
-pb is : [D@3e3abc88
-pb is : [D@3e3abc88
+pb is : [D@7cca494b
+pb is : [D@7cca494b
+pb is : [D@7cca494b
+pb is : [D@7cca494b
+pb is : [D@7cca494b
 nope1.7976931348623157E308
 pb is : [D@6ce253f1
 pb is : [D@6ce253f1
@@ -4002,17 +4075,17 @@ pb is : [D@214c265e
 pb is : [D@214c265e
 pb is : [D@214c265e
 nope1.7976931348623157E308
-pb is : [D@87aac27
-pb is : [D@87aac27
-pb is : [D@87aac27
-pb is : [D@87aac27
-pb is : [D@87aac27
+pb is : [D@448139f0
+pb is : [D@448139f0
+pb is : [D@448139f0
+pb is : [D@448139f0
+pb is : [D@448139f0
 nope1.7976931348623157E308
-pb is : [D@3e3abc88
-pb is : [D@3e3abc88
-pb is : [D@3e3abc88
-pb is : [D@3e3abc88
-pb is : [D@3e3abc88
+pb is : [D@7cca494b
+pb is : [D@7cca494b
+pb is : [D@7cca494b
+pb is : [D@7cca494b
+pb is : [D@7cca494b
 nope1.7976931348623157E308
 pb is : [D@6ce253f1
 pb is : [D@6ce253f1
@@ -4122,17 +4195,17 @@ pb is : [D@214c265e
 pb is : [D@214c265e
 pb is : [D@214c265e
 nope1.7976931348623157E308
-pb is : [D@87aac27
-pb is : [D@87aac27
-pb is : [D@87aac27
-pb is : [D@87aac27
-pb is : [D@87aac27
+pb is : [D@448139f0
+pb is : [D@448139f0
+pb is : [D@448139f0
+pb is : [D@448139f0
+pb is : [D@448139f0
 nope1.7976931348623157E308
-pb is : [D@3e3abc88
-pb is : [D@3e3abc88
-pb is : [D@3e3abc88
-pb is : [D@3e3abc88
-pb is : [D@3e3abc88
+pb is : [D@7cca494b
+pb is : [D@7cca494b
+pb is : [D@7cca494b
+pb is : [D@7cca494b
+pb is : [D@7cca494b
 nope1.7976931348623157E308
 pb is : [D@6ce253f1
 pb is : [D@6ce253f1
@@ -4242,17 +4315,17 @@ pb is : [D@214c265e
 pb is : [D@214c265e
 pb is : [D@214c265e
 nope1.7976931348623157E308
-pb is : [D@87aac27
-pb is : [D@87aac27
-pb is : [D@87aac27
-pb is : [D@87aac27
-pb is : [D@87aac27
+pb is : [D@448139f0
+pb is : [D@448139f0
+pb is : [D@448139f0
+pb is : [D@448139f0
+pb is : [D@448139f0
 nope1.7976931348623157E308
-pb is : [D@3e3abc88
-pb is : [D@3e3abc88
-pb is : [D@3e3abc88
-pb is : [D@3e3abc88
-pb is : [D@3e3abc88
+pb is : [D@7cca494b
+pb is : [D@7cca494b
+pb is : [D@7cca494b
+pb is : [D@7cca494b
+pb is : [D@7cca494b
 nope1.7976931348623157E308
 pb is : [D@6ce253f1
 pb is : [D@6ce253f1
@@ -4362,17 +4435,17 @@ pb is : [D@214c265e
 pb is : [D@214c265e
 pb is : [D@214c265e
 nope1.7976931348623157E308
-pb is : [D@87aac27
-pb is : [D@87aac27
-pb is : [D@87aac27
-pb is : [D@87aac27
-pb is : [D@87aac27
+pb is : [D@448139f0
+pb is : [D@448139f0
+pb is : [D@448139f0
+pb is : [D@448139f0
+pb is : [D@448139f0
 nope1.7976931348623157E308
-pb is : [D@3e3abc88
-pb is : [D@3e3abc88
-pb is : [D@3e3abc88
-pb is : [D@3e3abc88
-pb is : [D@3e3abc88
+pb is : [D@7cca494b
+pb is : [D@7cca494b
+pb is : [D@7cca494b
+pb is : [D@7cca494b
+pb is : [D@7cca494b
 nope1.7976931348623157E308
 pb is : [D@6ce253f1
 pb is : [D@6ce253f1
@@ -4482,17 +4555,17 @@ pb is : [D@214c265e
 pb is : [D@214c265e
 pb is : [D@214c265e
 nope1.7976931348623157E308
-pb is : [D@87aac27
-pb is : [D@87aac27
-pb is : [D@87aac27
-pb is : [D@87aac27
-pb is : [D@87aac27
+pb is : [D@448139f0
+pb is : [D@448139f0
+pb is : [D@448139f0
+pb is : [D@448139f0
+pb is : [D@448139f0
 nope1.7976931348623157E308
-pb is : [D@3e3abc88
-pb is : [D@3e3abc88
-pb is : [D@3e3abc88
-pb is : [D@3e3abc88
-pb is : [D@3e3abc88
+pb is : [D@7cca494b
+pb is : [D@7cca494b
+pb is : [D@7cca494b
+pb is : [D@7cca494b
+pb is : [D@7cca494b
 nope1.7976931348623157E308
 pb is : [D@6ce253f1
 pb is : [D@6ce253f1
@@ -4602,17 +4675,17 @@ pb is : [D@214c265e
 pb is : [D@214c265e
 pb is : [D@214c265e
 nope1.7976931348623157E308
-pb is : [D@87aac27
-pb is : [D@87aac27
-pb is : [D@87aac27
-pb is : [D@87aac27
-pb is : [D@87aac27
+pb is : [D@448139f0
+pb is : [D@448139f0
+pb is : [D@448139f0
+pb is : [D@448139f0
+pb is : [D@448139f0
 nope1.7976931348623157E308
-pb is : [D@3e3abc88
-pb is : [D@3e3abc88
-pb is : [D@3e3abc88
-pb is : [D@3e3abc88
-pb is : [D@3e3abc88
+pb is : [D@7cca494b
+pb is : [D@7cca494b
+pb is : [D@7cca494b
+pb is : [D@7cca494b
+pb is : [D@7cca494b
 nope1.7976931348623157E308
 pb is : [D@6ce253f1
 pb is : [D@6ce253f1
@@ -4722,17 +4795,17 @@ pb is : [D@214c265e
 pb is : [D@214c265e
 pb is : [D@214c265e
 nope1.7976931348623157E308
-pb is : [D@87aac27
-pb is : [D@87aac27
-pb is : [D@87aac27
-pb is : [D@87aac27
-pb is : [D@87aac27
+pb is : [D@448139f0
+pb is : [D@448139f0
+pb is : [D@448139f0
+pb is : [D@448139f0
+pb is : [D@448139f0
 nope1.7976931348623157E308
-pb is : [D@3e3abc88
-pb is : [D@3e3abc88
-pb is : [D@3e3abc88
-pb is : [D@3e3abc88
-pb is : [D@3e3abc88
+pb is : [D@7cca494b
+pb is : [D@7cca494b
+pb is : [D@7cca494b
+pb is : [D@7cca494b
+pb is : [D@7cca494b
 nope1.7976931348623157E308
 pb is : [D@6ce253f1
 pb is : [D@6ce253f1
@@ -4842,23 +4915,23 @@ pb is : [D@214c265e
 pb is : [D@214c265e
 pb is : [D@214c265e
 nope1.7976931348623157E308
-pb is : [D@87aac27
-pb is : [D@87aac27
-pb is : [D@87aac27
-pb is : [D@87aac27
-pb is : [D@87aac27
-nope1.7976931348623157E308
-pb is : [D@3e3abc88
-pb is : [D@3e3abc88
-pb is : [D@3e3abc88
-pb is : [D@3e3abc88
-pb is : [D@3e3abc88
-nope1.7976931348623157E308
-pb is : [D@6ce253f1
+pb is : [D@448139f0
+pb is : [D@448139f0
+pb is : [D@448139f0
+pb is : [D@448139f0
+pb is : [D@448139f0
+nope1.7976931348623157E308
+pb is : [D@7cca494b
+pb is : [D@7cca494b
+pb is : [D@7cca494b
+pb is : [D@7cca494b
+pb is : [D@7cca494b
+nope1.7976931348623157E308
 pb is : [D@6ce253f1
 pb is : [D@6ce253f1
 pb is : [D@6ce253f1
 pb is : [D@6ce253f1
+pb is : [D@6ce253f1
 nope1.7976931348623157E308
 pb is : [D@53d8d10a
 pb is : [D@53d8d10a
@@ -4962,17 +5035,17 @@ pb is : [D@214c265e
 pb is : [D@214c265e
 pb is : [D@214c265e
 nope1.7976931348623157E308
-pb is : [D@87aac27
-pb is : [D@87aac27
-pb is : [D@87aac27
-pb is : [D@87aac27
-pb is : [D@87aac27
+pb is : [D@448139f0
+pb is : [D@448139f0
+pb is : [D@448139f0
+pb is : [D@448139f0
+pb is : [D@448139f0
 nope1.7976931348623157E308
-pb is : [D@3e3abc88
-pb is : [D@3e3abc88
-pb is : [D@3e3abc88
-pb is : [D@3e3abc88
-pb is : [D@3e3abc88
+pb is : [D@7cca494b
+pb is : [D@7cca494b
+pb is : [D@7cca494b
+pb is : [D@7cca494b
+pb is : [D@7cca494b
 nope1.7976931348623157E308
 pb is : [D@6ce253f1
 pb is : [D@6ce253f1
@@ -5082,17 +5155,17 @@ pb is : [D@214c265e
 pb is : [D@214c265e
 pb is : [D@214c265e
 nope1.7976931348623157E308
-pb is : [D@87aac27
-pb is : [D@87aac27
-pb is : [D@87aac27
-pb is : [D@87aac27
-pb is : [D@87aac27
+pb is : [D@448139f0
+pb is : [D@448139f0
+pb is : [D@448139f0
+pb is : [D@448139f0
+pb is : [D@448139f0
 nope1.7976931348623157E308
-pb is : [D@3e3abc88
-pb is : [D@3e3abc88
-pb is : [D@3e3abc88
-pb is : [D@3e3abc88
-pb is : [D@3e3abc88
+pb is : [D@7cca494b
+pb is : [D@7cca494b
+pb is : [D@7cca494b
+pb is : [D@7cca494b
+pb is : [D@7cca494b
 nope1.7976931348623157E308
 pb is : [D@6ce253f1
 pb is : [D@6ce253f1
@@ -5202,17 +5275,17 @@ pb is : [D@214c265e
 pb is : [D@214c265e
 pb is : [D@214c265e
 nope1.7976931348623157E308
-pb is : [D@87aac27
-pb is : [D@87aac27
-pb is : [D@87aac27
-pb is : [D@87aac27
-pb is : [D@87aac27
+pb is : [D@448139f0
+pb is : [D@448139f0
+pb is : [D@448139f0
+pb is : [D@448139f0
+pb is : [D@448139f0
 nope1.7976931348623157E308
-pb is : [D@3e3abc88
-pb is : [D@3e3abc88
-pb is : [D@3e3abc88
-pb is : [D@3e3abc88
-pb is : [D@3e3abc88
+pb is : [D@7cca494b
+pb is : [D@7cca494b
+pb is : [D@7cca494b
+pb is : [D@7cca494b
+pb is : [D@7cca494b
 nope1.7976931348623157E308
 pb is : [D@6ce253f1
 pb is : [D@6ce253f1
@@ -5322,17 +5395,17 @@ pb is : [D@214c265e
 pb is : [D@214c265e
 pb is : [D@214c265e
 nope1.7976931348623157E308
-pb is : [D@87aac27
-pb is : [D@87aac27
-pb is : [D@87aac27
-pb is : [D@87aac27
-pb is : [D@87aac27
+pb is : [D@448139f0
+pb is : [D@448139f0
+pb is : [D@448139f0
+pb is : [D@448139f0
+pb is : [D@448139f0
 nope1.7976931348623157E308
-pb is : [D@3e3abc88
-pb is : [D@3e3abc88
-pb is : [D@3e3abc88
-pb is : [D@3e3abc88
-pb is : [D@3e3abc88
+pb is : [D@7cca494b
+pb is : [D@7cca494b
+pb is : [D@7cca494b
+pb is : [D@7cca494b
+pb is : [D@7cca494b
 nope1.7976931348623157E308
 pb is : [D@6ce253f1
 pb is : [D@6ce253f1
@@ -5442,61 +5515,51 @@ pb is : [D@214c265e
 pb is : [D@214c265e
 pb is : [D@214c265e
 nope1.7976931348623157E308
-ALL SSL 16.586185082069708
-ALL SSL 21.275361870179516
-ALL SSL 15.019723229896284
-ALL SSL 20.990969451063574
-ALL SSL 17.011603247128093
-ALL SSL 15.914667895173809
-ALL SSL 15.454899741961688
-ALL SSL 22.32568046681475
-ALL SSL 20.65942587399199
-ALL SSL 13.244874364982442
-ALL SSL 23.368019323622136
-ALL SSL 19.04230821551718
-ALL SSL 14.271155234020634
-ALL SSL 22.96798626680726
-ALL SSL 23.50345064497311
-ALL SSL 18.853879571794025
-ALL SSL 22.811147626423733
-ALL SSL 18.75039361982915
-ALL SSL 24.792890616462916
-ALL SSL 17.465561142310072
-india 13.244874364982442
-0.25
-5
-.
-.
-index J 0 0.7641664645373654
-index J 1 1.0801857024189099
-index J 2 1.345170428016082
-index J 3 1.6160063372628541
-index J 4 2.5
+pb is : [D@448139f0
+pb is : [D@448139f0
+pb is : [D@448139f0
+pb is : [D@448139f0
+pb is : [D@448139f0
+nope1.7976931348623157E308
+pb is : [D@7cca494b
+pb is : [D@7cca494b
+pb is : [D@7cca494b
+pb is : [D@7cca494b
+pb is : [D@7cca494b
+nope1.7976931348623157E308
+ALL SSL 12.718493778560545
+ALL SSL 16.307443807910463
+ALL SSL 14.631841037838484
+ALL SSL 22.0762677861749
+ALL SSL 21.816811174675657
+ALL SSL 12.115084969781364
+ALL SSL 15.322602907470554
+ALL SSL 19.36309970719025
+ALL SSL 19.721817591078562
+ALL SSL 19.11655235967134
+ALL SSL 25.093046230370675
+ALL SSL 25.272637321494642
+ALL SSL 11.736795922773918
+ALL SSL 19.504934868778847
+ALL SSL 17.253943763144363
+ALL SSL 20.60587992382324
+ALL SSL 16.794276226878214
+ALL SSL 15.513108681556657
+ALL SSL 16.571551999701153
+ALL SSL 18.398132299961393
+india 11.736795922773918
 0.25
 5
 .
 .
-.
-index J 0 0.3808296504540277
-index J 1 0.8056753000487837
-index J 2 1.5047509044767402
-index J 3 1.9649610278024339
+index J 0 0.32694836762832474
+index J 1 1.3581394315321316
+index J 2 1.7200534347354366
+index J 3 1.9754738134707754
 index J 4 2.5
-cPOS 15.201120352615145
-tempPos 8.300978626191197
-SSL value 15.201120352615145
-new SLL VALUE 15.201120352615145
 0.25
 5
-.
 .
-index J 0 0.2814942163692346
-index J 1 0.6887488158230538
-index J 2 1.4569905225575455
-index J 3 1.7853808705196694
-index J 4 2.5
-0.25
-5
 .
 .
 .
@@ -5509,49 +5572,20 @@ index J 4 2.5
 .
 .
 .
-index J 0 0.7072721836357798
-index J 1 1.088440277888653
-index J 2 1.6034968057566819
-index J 3 1.889958933605686
+index J 0 0.2843354299468094
+index J 1 1.1855399224407235
+index J 2 1.6883457462084301
+index J 3 1.9658261559765828
 index J 4 2.5
-cPOS 18.32087722399089
-tempPos 16.432471931689683
-SSL value 18.32087722399089
-new SLL VALUE 18.32087722399089
+cPOS 16.47271755239274
+tempPos 22.678173103578377
+SSL value 16.47271755239274
+new SLL VALUE 16.47271755239274
 0.25
 5
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
 .
 .
 .
-index J 0 0.5547563587144039
-index J 1 1.1418309415802042
-index J 2 1.695194908406254
-index J 3 1.9465609284605265
-index J 4 2.5
-0.25
-5
-.
 .
 .
 .
@@ -5564,15 +5598,11 @@ index J 4 2.5
 .
 .
 .
-index J 0 0.3977281218780063
-index J 1 0.7620385376592714
-index J 2 1.3819243908537
-index J 3 1.6646531780044815
+index J 0 0.2942708155850294
+index J 1 0.7563443953042548
+index J 2 1.623911199379394
+index J 3 1.9251260035191557
 index J 4 2.5
-cPOS 19.76436614475299
-tempPos 22.167679885415538
-SSL value 19.76436614475299
-new SLL VALUE 19.76436614475299
 0.25
 5
 .
@@ -5587,141 +5617,80 @@ new SLL VALUE 19.76436614475299
 .
 .
 .
-.
-index J 0 1.0833661734939284
-index J 1 1.3450631343862598
-index J 2 1.6517486776650863
-index J 3 1.9037382165358385
-index J 4 2.5
-0.25
-5
 .
 .
-index J 0 0.5531334322469512
-index J 1 0.8149894832893815
-index J 2 1.7215758485789028
-index J 3 1.978041120316127
+index J 0 0.36828817538998004
+index J 1 1.1583493128294728
+index J 2 1.4725241492369738
+index J 3 1.9216014940149635
 index J 4 2.5
-cPOS 23.95049444467011
-tempPos 15.562801409917553
-SSL value 23.95049444467011
-new SLL VALUE 23.95049444467011
+cPOS 12.702238380234153
+tempPos 18.020215821371263
+SSL value 12.702238380234153
+new SLL VALUE 12.702238380234153
 0.25
 5
-.
-.
-.
-.
-.
-.
-.
-.
 .
-.
-.
-.
-index J 0 0.5513930267572762
-index J 1 0.994227151948704
-index J 2 1.2895975001262128
-index J 3 1.5855491079428805
+index J 0 0.38775412189760483
+index J 1 1.319101059305853
+index J 2 1.5885984474183703
+index J 3 1.9772897308923263
 index J 4 2.5
 0.25
 5
-.
 .
 .
-.
-.
-.
-index J 0 0.6394404453961907
-index J 1 0.9016573735727915
-index J 2 1.5111368515630728
-index J 3 1.8976156950707435
+index J 0 0.8031260071398014
+index J 1 1.1501029728328425
+index J 2 1.7029256743985388
+index J 3 1.9903033212002164
 index J 4 2.5
-cPOS 14.428557479310403
-tempPos 15.791494997168531
-SSL value 14.428557479310403
-new SLL VALUE 14.428557479310403
+cPOS 15.621511198881775
+tempPos 18.859536977111297
+SSL value 15.621511198881775
+new SLL VALUE 15.621511198881775
 0.25
 5
 .
 .
 .
 .
-index J 0 0.623578259265512
-index J 1 1.0496939211219425
-index J 2 1.4504799394234076
-index J 3 1.828166974749068
+index J 0 0.6234399396004803
+index J 1 1.0986755535388102
+index J 2 1.4784653324991428
+index J 3 1.8771650274132317
 index J 4 2.5
 0.25
 5
-.
 .
 .
 .
 .
 .
 .
-.
-index J 0 0.25351813587100447
-index J 1 0.7958153191135328
-index J 2 1.09858404346765
-index J 3 1.5427643039884609
-index J 4 2.5
-cPOS 13.406957241761344
-tempPos 11.841564324037366
-SSL value 13.406957241761344
-new SLL VALUE 13.406957241761344
-0.25
-5
-.
-.
-index J 0 0.6561337623848655
-index J 1 0.9647058330848328
-index J 2 1.6631211032414634
-index J 3 1.9681330812974902
-index J 4 2.5
-0.25
-5
 .
-index J 0 0.5889168495780545
-index J 1 1.0241149112306167
-index J 2 1.7110869448772053
-index J 3 1.994662885307053
+index J 0 0.3690640699582053
+index J 1 1.020672158293518
+index J 2 1.2992103479605648
+index J 3 1.663993108904281
 index J 4 2.5
-cPOS 16.769824788102902
-tempPos 14.388490458959232
-SSL value 16.769824788102902
-new SLL VALUE 16.769824788102902
+cPOS 16.409051279514166
+tempPos 21.87654680647018
+SSL value 16.409051279514166
+new SLL VALUE 16.409051279514166
 0.25
 5
-.
-.
-.
 .
 .
 .
-index J 0 0.4296792947728264
-index J 1 1.1212744084487638
-index J 2 1.6422514486336826
-index J 3 1.9258210179465025
+index J 0 0.7782896855370891
+index J 1 1.1091412243848553
+index J 2 1.5484918470922653
+index J 3 1.814457808631831
 index J 4 2.5
 0.25
 5
 .
-.
-.
-index J 0 0.31200189110396664
-index J 1 0.789741077449402
-index J 2 1.2781087774648046
-index J 3 1.767289735146536
-index J 4 2.5
-cPOS 24.44423516884715
-tempPos 12.664733281000144
-SSL value 24.44423516884715
-new SLL VALUE 24.44423516884715
-0.25
-5
 .
 .
 .
@@ -5741,88 +5710,50 @@ new SLL VALUE 24.44423516884715
 .
 .
 .
-index J 0 0.4437181274665064
-index J 1 0.9898414393309869
-index J 2 1.519636362524587
-index J 3 1.9845537674582356
+index J 0 0.4532639857398419
+index J 1 0.7955711043230118
+index J 2 1.3294266579749103
+index J 3 1.5889689199418269
 index J 4 2.5
+cPOS 18.80350554347352
+tempPos 22.013786787437503
+SSL value 18.80350554347352
+new SLL VALUE 18.80350554347352
 0.25
 5
-.
-.
-.
 .
 .
-.
-index J 0 0.36382755832797337
-index J 1 0.7459346985504105
-index J 2 1.699349588680962
-index J 3 1.9776168925817161
+index J 0 0.757537143106441
+index J 1 1.3196337333513413
+index J 2 1.6903875100843067
+index J 3 1.9799670417698292
 index J 4 2.5
-cPOS 10.26778870226558
-tempPos 11.079934223245472
-SSL value 10.26778870226558
-new SLL VALUE 10.26778870226558
 0.25
 5
-.
 .
 .
 .
 .
 .
 .
-.
-index J 0 1.073753951023947
-index J 1 1.407331379639573
-index J 2 1.7197649581204715
-index J 3 1.9995525734006028
+index J 0 0.7867159766050859
+index J 1 1.1072710700606292
+index J 2 1.398127333588196
+index J 3 1.810802901419381
 index J 4 2.5
+cPOS 20.15712526934781
+tempPos 16.40268441106793
+SSL value 20.15712526934781
+new SLL VALUE 20.15712526934781
 0.25
 5
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
 .
 .
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-index J 0 0.9265881431017777
-index J 1 1.2043875316870325
-index J 2 1.5055671519686422
-index J 3 1.7849283329430998
+index J 0 0.9663478444736772
+index J 1 1.2191308919644397
+index J 2 1.5037387897657206
+index J 3 1.8253814714400158
 index J 4 2.5
-cPOS 24.35624094465775
-tempPos 20.418483309421255
-SSL value 24.35624094465775
-new SLL VALUE 24.35624094465775
 0.25
 5
 .
@@ -5835,112 +5766,75 @@ new SLL VALUE 24.35624094465775
 .
 .
 .
-index J 0 0.4636116348163012
-index J 1 1.2091239581100706
-index J 2 1.6324970447103704
-index J 3 1.8884615524128956
+index J 0 0.3797557705806345
+index J 1 0.7532152074608791
+index J 2 1.202653469592071
+index J 3 1.466245043500352
 index J 4 2.5
+cPOS 21.018366013733875
+tempPos 17.922968435959735
+SSL value 21.018366013733875
+new SLL VALUE 21.018366013733875
 0.25
 5
 .
-index J 0 0.3403811144180667
-index J 1 0.9494907275690757
-index J 2 1.46091368491098
-index J 3 1.9930151848119866
+index J 0 0.4894636281417061
+index J 1 0.8251710265283311
+index J 2 1.1090403246007847
+index J 3 1.8599049300945714
 index J 4 2.5
-cPOS 21.18674795726725
-tempPos 7.310873226879231
-SSL value 21.18674795726725
-new SLL VALUE 21.18674795726725
 0.25
 5
-.
 .
 .
 .
 .
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-index J 0 0.7638438204282701
-index J 1 1.0947860583603894
-index J 2 1.5056225870821967
-index J 3 1.8813538711139572
+index J 0 0.5432432776048078
+index J 1 1.0435894064927873
+index J 2 1.69556375868581
+index J 3 1.9860915647727897
 index J 4 2.5
+cPOS 19.522945603068038
+tempPos 18.135778734775357
+SSL value 19.522945603068038
+new SLL VALUE 19.522945603068038
 0.25
 5
-.
-.
 .
 .
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-index J 0 0.5772771236237838
-index J 1 1.4242432198673116
-index J 2 1.7028036079553008
-index J 3 1.9660214665884501
+index J 0 0.648581608492986
+index J 1 1.3981001376400397
+index J 2 1.7478090409866163
+index J 3 1.9997441546994332
 index J 4 2.5
-cPOS 16.671548847297863
-tempPos 19.26376602789845
-SSL value 16.671548847297863
-new SLL VALUE 16.671548847297863
 0.25
 5
-.
-.
-.
 .
 .
 .
 .
-.
-index J 0 0.711028418913406
-index J 1 0.9796661050236287
-index J 2 1.6662874007617332
-index J 3 1.9538905426603113
+index J 0 0.6387199480102612
+index J 1 0.9525864096422442
+index J 2 1.7153432939845432
+index J 3 1.9692523062023768
 index J 4 2.5
+cPOS 20.771787187683795
+tempPos 16.929407341887746
+SSL value 20.771787187683795
+new SLL VALUE 20.771787187683795
 0.25
 5
 .
 .
 .
 .
-index J 0 0.6617781497754256
-index J 1 0.956781013457439
-index J 2 1.5957246995920888
-index J 3 1.9841238492218012
+index J 0 0.7992707789799594
+index J 1 1.403520527950683
+index J 2 1.6680863283323875
+index J 3 1.9981318496890226
 index J 4 2.5
-cPOS 20.056426455584262
-tempPos 14.194939287493714
-SSL value 20.056426455584262
-new SLL VALUE 20.056426455584262
 0.25
 5
-.
-.
-.
 .
 .
 .
@@ -5948,35 +5842,45 @@ new SLL VALUE 20.056426455584262
 .
 .
 .
-.
-index J 0 0.6536615051102626
-index J 1 1.2801625610271434
-index J 2 1.648201434302682
-index J 3 1.991223108213931
+index J 0 0.27155323478297727
+index J 1 1.419141453272964
+index J 2 1.733713024323202
+index J 3 1.9863621172533832
 index J 4 2.5
+cPOS 21.267238541218312
+tempPos 16.865611534420403
+SSL value 21.267238541218312
+new SLL VALUE 21.267238541218312
 0.25
 5
-.
 .
 .
 .
 .
 .
 .
+index J 0 0.5316535231069671
+index J 1 1.0150130599175986
+index J 2 1.4379656199724482
+index J 3 1.853291440770157
+index J 4 2.5
+0.25
+5
 .
 .
 .
-index J 0 0.7127062458769402
-index J 1 1.0270018721359055
-index J 2 1.4016905171269323
-index J 3 1.6680527954897535
+index J 0 0.9888987259230357
+index J 1 1.3690419201397666
+index J 2 1.7388793226084318
+index J 3 1.994644854335598
 index J 4 2.5
-cPOS 20.09989174401387
-tempPos 17.064025459059614
-SSL value 20.09989174401387
-new SLL VALUE 20.09989174401387
+cPOS 11.814795758591185
+tempPos 23.280887216606448
+SSL value 11.814795758591185
+new SLL VALUE 11.814795758591185
 0.25
 5
+.
 .
 .
 .
@@ -5985,20 +5889,26 @@ new SLL VALUE 20.09989174401387
 .
 .
 .
-index J 0 0.4760229605866325
-index J 1 0.9047068912327029
-index J 2 1.5827011919894152
-index J 3 1.9828411126885503
+.
+index J 0 0.6048353249279227
+index J 1 1.0225380554871073
+index J 2 1.587153151394468
+index J 3 1.936636458630086
 index J 4 2.5
 0.25
 5
-.
-.
-.
-.
-.
 .
-.
+index J 0 0.4757006927321486
+index J 1 0.906014683446531
+index J 2 1.2305483858009136
+index J 3 1.7789647266439315
+index J 4 2.5
+cPOS 13.805094917560938
+tempPos 20.6426905635738
+SSL value 13.805094917560938
+new SLL VALUE 13.805094917560938
+0.25
+5
 .
 .
 .
@@ -6011,6 +5921,13 @@ index J 4 2.5
 .
 .
 .
+index J 0 1.0167296811290423
+index J 1 1.3476319597240927
+index J 2 1.649520574011348
+index J 3 1.9229331802490046
+index J 4 2.5
+0.25
+5
 .
 .
 .
@@ -6025,31 +5942,42 @@ index J 4 2.5
 .
 .
 .
+index J 0 0.44129899911864173
+index J 1 0.7542084927808842
+index J 2 1.5398728101010064
+index J 3 1.8822804674939921
+index J 4 2.5
+cPOS 23.25320127972499
+tempPos 18.561938775843572
+SSL value 23.25320127972499
+new SLL VALUE 23.25320127972499
+0.25
+5
 .
 .
 .
 .
 .
 .
-index J 0 0.3681883443532412
-index J 1 1.0292298383069427
-index J 2 1.5947821107082556
-index J 3 1.8716719304751517
+index J 0 0.4823977843666258
+index J 1 1.2489901895364928
+index J 2 1.6731889205020674
+index J 3 1.99830861924666
 index J 4 2.5
-cPOS 9.749592099906259
-tempPos 25.436515876601817
-SSL value 9.749592099906259
-new SLL VALUE 9.749592099906259
 0.25
 5
 .
 .
 .
-index J 0 0.3401112629106321
-index J 1 1.0335489335925139
-index J 2 1.3739409103704903
-index J 3 1.6893503650956274
+index J 0 0.5682370325825388
+index J 1 0.9243713151498567
+index J 2 1.3885699701457066
+index J 3 1.984871015698847
 index J 4 2.5
+cPOS 16.186349624801156
+tempPos 13.807713204396721
+SSL value 16.186349624801156
+new SLL VALUE 16.186349624801156
 0.25
 5
 .
@@ -6069,5020 +5997,91 @@ index J 4 2.5
 .
 .
 .
-index J 0 0.3879944763333677
-index J 1 1.1667619372920475
-index J 2 1.7159244032653236
-index J 3 1.9877848133529967
+.
+index J 0 0.6731282123319963
+index J 1 1.0861756171404182
+index J 2 1.5773076445320136
+index J 3 1.8544161285841663
 index J 4 2.5
-cPOS 20.426240209262314
-tempPos 24.751549293242437
-SSL value 20.426240209262314
-new SLL VALUE 20.426240209262314
 0.25
 5
+.
 .
 .
 .
+index J 0 0.48457646262356735
+index J 1 1.0155392914874797
+index J 2 1.6007723107897904
+index J 3 1.9457892074689402
+index J 4 2.5
+cPOS 15.779640172022118
+tempPos 17.736134739164942
+SSL value 15.779640172022118
+new SLL VALUE 15.779640172022118
+0.25
+5
 .
+index J 0 0.8957402255651249
+index J 1 1.3313991494957522
+index J 2 1.7409348708829058
+index J 3 1.9938901754654885
+index J 4 2.5
+0.25
+5
 .
 .
 .
 .
-index J 0 0.6707664181610422
-index J 1 1.0156401861600821
-index J 2 1.456565795690679
-index J 3 1.8901001574394418
+index J 0 0.5710605246513782
+index J 1 1.2089674542176343
+index J 2 1.6352447555177945
+index J 3 1.9817179906041131
 index J 4 2.5
+cPOS 21.976300090819166
+tempPos 17.312399310516447
+SSL value 21.976300090819166
+new SLL VALUE 21.976300090819166
 0.25
 5
 .
-index J 0 0.27021423971078906
-index J 1 1.1590540809260612
-index J 2 1.7375950635822766
-index J 3 1.9930073399540897
+index J 0 0.4415554988644703
+index J 1 0.8602716315921859
+index J 2 1.3979945561673577
+index J 3 1.9017995988388017
 index J 4 2.5
-cPOS 13.553049683873988
-tempPos 23.768167929750238
-SSL value 13.553049683873988
-new SLL VALUE 13.553049683873988
 0.25
 5
 .
-index J 0 0.8617642931477572
-index J 1 1.1918317124447686
-index J 2 1.4522267007385155
-index J 3 1.861781899674374
+index J 0 0.509641618708544
+index J 1 1.0715836470679112
+index J 2 1.5895552524589034
+index J 3 1.9887631177713747
 index J 4 2.5
+cPOS 5.910071527459847
+tempPos 13.28551925995959
+SSL value 5.910071527459847
+new SLL VALUE 5.910071527459847
 0.25
 5
-.
-.
-.
-.
-.
-.
 .
 .
 .
 .
-.
-.
-.
-.
-.
-.
+index J 0 1.033557332782872
+index J 1 1.446979530246773
+index J 2 1.734202279660052
+index J 3 1.997450806901056
+index J 4 2.5
+0.25
+5
 .
 .
 .
 .
 .
 .
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-index J 0 0.4535106510585596
-index J 1 0.9541771495572157
-index J 2 1.3052798608761436
-index J 3 1.686669315639724
-index J 4 2.5
-cPOS 18.96000834027076
-tempPos 17.30623663994534
-SSL value 18.96000834027076
-new SLL VALUE 18.96000834027076
-0.25
-5
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-index J 0 0.7126979458946643
-index J 1 1.0876394146380404
-index J 2 1.6699088091974976
-index J 3 1.97835086816151
-index J 4 2.5
-0.25
-5
-.
-.
-.
-.
-.
-.
-index J 0 0.9815558039683342
-index J 1 1.3863540871904796
-index J 2 1.6843384539228905
-index J 3 1.9904895603005608
-index J 4 2.5
-cPOS 16.74766578168105
-tempPos 23.185816569276298
-SSL value 16.74766578168105
-new SLL VALUE 16.74766578168105
-0.25
-5
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-index J 0 0.4019547046421652
-index J 1 0.9602286247315107
-index J 2 1.5843234782544224
-index J 3 1.8874877363972076
-index J 4 2.5
-0.25
-5
-.
-.
-.
-.
-.
-.
-index J 0 0.5114174592717227
-index J 1 0.8641136363130064
-index J 2 1.5244804094473654
-index J 3 1.8681953326421876
+index J 0 0.2555814154543434
+index J 1 1.0152383336770099
+index J 2 1.6060045717307903
+index J 3 1.9586237708408083
 index J 4 2.5
-cPOS 21.55520399250255
-tempPos 14.586397431538728
-SSL value 21.55520399250255
-new SLL VALUE 21.55520399250255
-new globalBest Found`14.428557479310403
-new globalBest Found`13.406957241761344
-new globalBest Found`10.26778870226558
-new globalBest Found`9.749592099906259
-pb is : [D@448139f0
-pb is : [D@448139f0
-pb is : [D@448139f0
-pb is : [D@448139f0
-pb is : [D@448139f0
-nope1.7976931348623157E308
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-nope1.7976931348623157E308
-pb is : [D@7ba4f24f
-pb is : [D@7ba4f24f
-pb is : [D@7ba4f24f
-pb is : [D@7ba4f24f
-pb is : [D@7ba4f24f
-nope1.7976931348623157E308
-pb is : [D@3b9a45b3
-pb is : [D@3b9a45b3
-pb is : [D@3b9a45b3
-pb is : [D@3b9a45b3
-pb is : [D@3b9a45b3
-nope1.7976931348623157E308
-pb is : [D@7699a589
-pb is : [D@7699a589
-pb is : [D@7699a589
-pb is : [D@7699a589
-pb is : [D@7699a589
-nope1.7976931348623157E308
-pb is : [D@58372a00
-pb is : [D@58372a00
-pb is : [D@58372a00
-pb is : [D@58372a00
-pb is : [D@58372a00
-nope1.7976931348623157E308
-pb is : [D@4dd8dc3
-pb is : [D@4dd8dc3
-pb is : [D@4dd8dc3
-pb is : [D@4dd8dc3
-pb is : [D@4dd8dc3
-nope1.7976931348623157E308
-pb is : [D@6d03e736
-pb is : [D@6d03e736
-pb is : [D@6d03e736
-pb is : [D@6d03e736
-pb is : [D@6d03e736
-nope1.7976931348623157E308
-pb is : [D@568db2f2
-pb is : [D@568db2f2
-pb is : [D@568db2f2
-pb is : [D@568db2f2
-pb is : [D@568db2f2
-nope1.7976931348623157E308
-pb is : [D@378bf509
-pb is : [D@378bf509
-pb is : [D@378bf509
-pb is : [D@378bf509
-pb is : [D@378bf509
-nope1.7976931348623157E308
-pb is : [D@5fd0d5ae
-pb is : [D@5fd0d5ae
-pb is : [D@5fd0d5ae
-pb is : [D@5fd0d5ae
-pb is : [D@5fd0d5ae
-nope1.7976931348623157E308
-pb is : [D@2d98a335
-pb is : [D@2d98a335
-pb is : [D@2d98a335
-pb is : [D@2d98a335
-pb is : [D@2d98a335
-nope1.7976931348623157E308
-pb is : [D@16b98e56
-pb is : [D@16b98e56
-pb is : [D@16b98e56
-pb is : [D@16b98e56
-pb is : [D@16b98e56
-nope1.7976931348623157E308
-pb is : [D@7ef20235
-pb is : [D@7ef20235
-pb is : [D@7ef20235
-pb is : [D@7ef20235
-pb is : [D@7ef20235
-nope1.7976931348623157E308
-pb is : [D@27d6c5e0
-pb is : [D@27d6c5e0
-pb is : [D@27d6c5e0
-pb is : [D@27d6c5e0
-pb is : [D@27d6c5e0
-nope1.7976931348623157E308
-pb is : [D@4f3f5b24
-pb is : [D@4f3f5b24
-pb is : [D@4f3f5b24
-pb is : [D@4f3f5b24
-pb is : [D@4f3f5b24
-nope1.7976931348623157E308
-pb is : [D@15aeb7ab
-pb is : [D@15aeb7ab
-pb is : [D@15aeb7ab
-pb is : [D@15aeb7ab
-pb is : [D@15aeb7ab
-nope1.7976931348623157E308
-pb is : [D@7b23ec81
-pb is : [D@7b23ec81
-pb is : [D@7b23ec81
-pb is : [D@7b23ec81
-pb is : [D@7b23ec81
-nope1.7976931348623157E308
-pb is : [D@6acbcfc0
-pb is : [D@6acbcfc0
-pb is : [D@6acbcfc0
-pb is : [D@6acbcfc0
-pb is : [D@6acbcfc0
-nope1.7976931348623157E308
-pb is : [D@5f184fc6
-pb is : [D@5f184fc6
-pb is : [D@5f184fc6
-pb is : [D@5f184fc6
-pb is : [D@5f184fc6
-nope1.7976931348623157E308
-pb is : [D@448139f0
-pb is : [D@448139f0
-pb is : [D@448139f0
-pb is : [D@448139f0
-pb is : [D@448139f0
-nope1.7976931348623157E308
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-nope1.7976931348623157E308
-pb is : [D@7ba4f24f
-pb is : [D@7ba4f24f
-pb is : [D@7ba4f24f
-pb is : [D@7ba4f24f
-pb is : [D@7ba4f24f
-nope1.7976931348623157E308
-pb is : [D@3b9a45b3
-pb is : [D@3b9a45b3
-pb is : [D@3b9a45b3
-pb is : [D@3b9a45b3
-pb is : [D@3b9a45b3
-nope1.7976931348623157E308
-pb is : [D@7699a589
-pb is : [D@7699a589
-pb is : [D@7699a589
-pb is : [D@7699a589
-pb is : [D@7699a589
-nope1.7976931348623157E308
-pb is : [D@58372a00
-pb is : [D@58372a00
-pb is : [D@58372a00
-pb is : [D@58372a00
-pb is : [D@58372a00
-nope1.7976931348623157E308
-pb is : [D@4dd8dc3
-pb is : [D@4dd8dc3
-pb is : [D@4dd8dc3
-pb is : [D@4dd8dc3
-pb is : [D@4dd8dc3
-nope1.7976931348623157E308
-pb is : [D@6d03e736
-pb is : [D@6d03e736
-pb is : [D@6d03e736
-pb is : [D@6d03e736
-pb is : [D@6d03e736
-nope1.7976931348623157E308
-pb is : [D@568db2f2
-pb is : [D@568db2f2
-pb is : [D@568db2f2
-pb is : [D@568db2f2
-pb is : [D@568db2f2
-nope1.7976931348623157E308
-pb is : [D@378bf509
-pb is : [D@378bf509
-pb is : [D@378bf509
-pb is : [D@378bf509
-pb is : [D@378bf509
-nope1.7976931348623157E308
-pb is : [D@5fd0d5ae
-pb is : [D@5fd0d5ae
-pb is : [D@5fd0d5ae
-pb is : [D@5fd0d5ae
-pb is : [D@5fd0d5ae
-nope1.7976931348623157E308
-pb is : [D@2d98a335
-pb is : [D@2d98a335
-pb is : [D@2d98a335
-pb is : [D@2d98a335
-pb is : [D@2d98a335
-nope1.7976931348623157E308
-pb is : [D@16b98e56
-pb is : [D@16b98e56
-pb is : [D@16b98e56
-pb is : [D@16b98e56
-pb is : [D@16b98e56
-nope1.7976931348623157E308
-pb is : [D@7ef20235
-pb is : [D@7ef20235
-pb is : [D@7ef20235
-pb is : [D@7ef20235
-pb is : [D@7ef20235
-nope1.7976931348623157E308
-pb is : [D@27d6c5e0
-pb is : [D@27d6c5e0
-pb is : [D@27d6c5e0
-pb is : [D@27d6c5e0
-pb is : [D@27d6c5e0
-nope1.7976931348623157E308
-pb is : [D@4f3f5b24
-pb is : [D@4f3f5b24
-pb is : [D@4f3f5b24
-pb is : [D@4f3f5b24
-pb is : [D@4f3f5b24
-nope1.7976931348623157E308
-pb is : [D@15aeb7ab
-pb is : [D@15aeb7ab
-pb is : [D@15aeb7ab
-pb is : [D@15aeb7ab
-pb is : [D@15aeb7ab
-nope1.7976931348623157E308
-pb is : [D@7b23ec81
-pb is : [D@7b23ec81
-pb is : [D@7b23ec81
-pb is : [D@7b23ec81
-pb is : [D@7b23ec81
-nope1.7976931348623157E308
-pb is : [D@6acbcfc0
-pb is : [D@6acbcfc0
-pb is : [D@6acbcfc0
-pb is : [D@6acbcfc0
-pb is : [D@6acbcfc0
-nope1.7976931348623157E308
-pb is : [D@5f184fc6
-pb is : [D@5f184fc6
-pb is : [D@5f184fc6
-pb is : [D@5f184fc6
-pb is : [D@5f184fc6
-nope1.7976931348623157E308
-pb is : [D@448139f0
-pb is : [D@448139f0
-pb is : [D@448139f0
-pb is : [D@448139f0
-pb is : [D@448139f0
-nope1.7976931348623157E308
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-nope1.7976931348623157E308
-pb is : [D@7ba4f24f
-pb is : [D@7ba4f24f
-pb is : [D@7ba4f24f
-pb is : [D@7ba4f24f
-pb is : [D@7ba4f24f
-nope1.7976931348623157E308
-pb is : [D@3b9a45b3
-pb is : [D@3b9a45b3
-pb is : [D@3b9a45b3
-pb is : [D@3b9a45b3
-pb is : [D@3b9a45b3
-nope1.7976931348623157E308
-pb is : [D@7699a589
-pb is : [D@7699a589
-pb is : [D@7699a589
-pb is : [D@7699a589
-pb is : [D@7699a589
-nope1.7976931348623157E308
-pb is : [D@58372a00
-pb is : [D@58372a00
-pb is : [D@58372a00
-pb is : [D@58372a00
-pb is : [D@58372a00
-nope1.7976931348623157E308
-pb is : [D@4dd8dc3
-pb is : [D@4dd8dc3
-pb is : [D@4dd8dc3
-pb is : [D@4dd8dc3
-pb is : [D@4dd8dc3
-nope1.7976931348623157E308
-pb is : [D@6d03e736
-pb is : [D@6d03e736
-pb is : [D@6d03e736
-pb is : [D@6d03e736
-pb is : [D@6d03e736
-nope1.7976931348623157E308
-pb is : [D@568db2f2
-pb is : [D@568db2f2
-pb is : [D@568db2f2
-pb is : [D@568db2f2
-pb is : [D@568db2f2
-nope1.7976931348623157E308
-pb is : [D@378bf509
-pb is : [D@378bf509
-pb is : [D@378bf509
-pb is : [D@378bf509
-pb is : [D@378bf509
-nope1.7976931348623157E308
-pb is : [D@5fd0d5ae
-pb is : [D@5fd0d5ae
-pb is : [D@5fd0d5ae
-pb is : [D@5fd0d5ae
-pb is : [D@5fd0d5ae
-nope1.7976931348623157E308
-pb is : [D@2d98a335
-pb is : [D@2d98a335
-pb is : [D@2d98a335
-pb is : [D@2d98a335
-pb is : [D@2d98a335
-nope1.7976931348623157E308
-pb is : [D@16b98e56
-pb is : [D@16b98e56
-pb is : [D@16b98e56
-pb is : [D@16b98e56
-pb is : [D@16b98e56
-nope1.7976931348623157E308
-pb is : [D@7ef20235
-pb is : [D@7ef20235
-pb is : [D@7ef20235
-pb is : [D@7ef20235
-pb is : [D@7ef20235
-nope1.7976931348623157E308
-pb is : [D@27d6c5e0
-pb is : [D@27d6c5e0
-pb is : [D@27d6c5e0
-pb is : [D@27d6c5e0
-pb is : [D@27d6c5e0
-nope1.7976931348623157E308
-pb is : [D@4f3f5b24
-pb is : [D@4f3f5b24
-pb is : [D@4f3f5b24
-pb is : [D@4f3f5b24
-pb is : [D@4f3f5b24
-nope1.7976931348623157E308
-pb is : [D@15aeb7ab
-pb is : [D@15aeb7ab
-pb is : [D@15aeb7ab
-pb is : [D@15aeb7ab
-pb is : [D@15aeb7ab
-nope1.7976931348623157E308
-pb is : [D@7b23ec81
-pb is : [D@7b23ec81
-pb is : [D@7b23ec81
-pb is : [D@7b23ec81
-pb is : [D@7b23ec81
-nope1.7976931348623157E308
-pb is : [D@6acbcfc0
-pb is : [D@6acbcfc0
-pb is : [D@6acbcfc0
-pb is : [D@6acbcfc0
-pb is : [D@6acbcfc0
-nope1.7976931348623157E308
-pb is : [D@5f184fc6
-pb is : [D@5f184fc6
-pb is : [D@5f184fc6
-pb is : [D@5f184fc6
-pb is : [D@5f184fc6
-nope1.7976931348623157E308
-pb is : [D@448139f0
-pb is : [D@448139f0
-pb is : [D@448139f0
-pb is : [D@448139f0
-pb is : [D@448139f0
-nope1.7976931348623157E308
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-nope1.7976931348623157E308
-pb is : [D@7ba4f24f
-pb is : [D@7ba4f24f
-pb is : [D@7ba4f24f
-pb is : [D@7ba4f24f
-pb is : [D@7ba4f24f
-nope1.7976931348623157E308
-pb is : [D@3b9a45b3
-pb is : [D@3b9a45b3
-pb is : [D@3b9a45b3
-pb is : [D@3b9a45b3
-pb is : [D@3b9a45b3
-nope1.7976931348623157E308
-pb is : [D@7699a589
-pb is : [D@7699a589
-pb is : [D@7699a589
-pb is : [D@7699a589
-pb is : [D@7699a589
-nope1.7976931348623157E308
-pb is : [D@58372a00
-pb is : [D@58372a00
-pb is : [D@58372a00
-pb is : [D@58372a00
-pb is : [D@58372a00
-nope1.7976931348623157E308
-pb is : [D@4dd8dc3
-pb is : [D@4dd8dc3
-pb is : [D@4dd8dc3
-pb is : [D@4dd8dc3
-pb is : [D@4dd8dc3
-nope1.7976931348623157E308
-pb is : [D@6d03e736
-pb is : [D@6d03e736
-pb is : [D@6d03e736
-pb is : [D@6d03e736
-pb is : [D@6d03e736
-nope1.7976931348623157E308
-pb is : [D@568db2f2
-pb is : [D@568db2f2
-pb is : [D@568db2f2
-pb is : [D@568db2f2
-pb is : [D@568db2f2
-nope1.7976931348623157E308
-pb is : [D@378bf509
-pb is : [D@378bf509
-pb is : [D@378bf509
-pb is : [D@378bf509
-pb is : [D@378bf509
-nope1.7976931348623157E308
-pb is : [D@5fd0d5ae
-pb is : [D@5fd0d5ae
-pb is : [D@5fd0d5ae
-pb is : [D@5fd0d5ae
-pb is : [D@5fd0d5ae
-nope1.7976931348623157E308
-pb is : [D@2d98a335
-pb is : [D@2d98a335
-pb is : [D@2d98a335
-pb is : [D@2d98a335
-pb is : [D@2d98a335
-nope1.7976931348623157E308
-pb is : [D@16b98e56
-pb is : [D@16b98e56
-pb is : [D@16b98e56
-pb is : [D@16b98e56
-pb is : [D@16b98e56
-nope1.7976931348623157E308
-pb is : [D@7ef20235
-pb is : [D@7ef20235
-pb is : [D@7ef20235
-pb is : [D@7ef20235
-pb is : [D@7ef20235
-nope1.7976931348623157E308
-pb is : [D@27d6c5e0
-pb is : [D@27d6c5e0
-pb is : [D@27d6c5e0
-pb is : [D@27d6c5e0
-pb is : [D@27d6c5e0
-nope1.7976931348623157E308
-pb is : [D@4f3f5b24
-pb is : [D@4f3f5b24
-pb is : [D@4f3f5b24
-pb is : [D@4f3f5b24
-pb is : [D@4f3f5b24
-nope1.7976931348623157E308
-pb is : [D@15aeb7ab
-pb is : [D@15aeb7ab
-pb is : [D@15aeb7ab
-pb is : [D@15aeb7ab
-pb is : [D@15aeb7ab
-nope1.7976931348623157E308
-pb is : [D@7b23ec81
-pb is : [D@7b23ec81
-pb is : [D@7b23ec81
-pb is : [D@7b23ec81
-pb is : [D@7b23ec81
-nope1.7976931348623157E308
-pb is : [D@6acbcfc0
-pb is : [D@6acbcfc0
-pb is : [D@6acbcfc0
-pb is : [D@6acbcfc0
-pb is : [D@6acbcfc0
-nope1.7976931348623157E308
-pb is : [D@5f184fc6
-pb is : [D@5f184fc6
-pb is : [D@5f184fc6
-pb is : [D@5f184fc6
-pb is : [D@5f184fc6
-nope1.7976931348623157E308
-pb is : [D@448139f0
-pb is : [D@448139f0
-pb is : [D@448139f0
-pb is : [D@448139f0
-pb is : [D@448139f0
-nope1.7976931348623157E308
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-nope1.7976931348623157E308
-pb is : [D@7ba4f24f
-pb is : [D@7ba4f24f
-pb is : [D@7ba4f24f
-pb is : [D@7ba4f24f
-pb is : [D@7ba4f24f
-nope1.7976931348623157E308
-pb is : [D@3b9a45b3
-pb is : [D@3b9a45b3
-pb is : [D@3b9a45b3
-pb is : [D@3b9a45b3
-pb is : [D@3b9a45b3
-nope1.7976931348623157E308
-pb is : [D@7699a589
-pb is : [D@7699a589
-pb is : [D@7699a589
-pb is : [D@7699a589
-pb is : [D@7699a589
-nope1.7976931348623157E308
-pb is : [D@58372a00
-pb is : [D@58372a00
-pb is : [D@58372a00
-pb is : [D@58372a00
-pb is : [D@58372a00
-nope1.7976931348623157E308
-pb is : [D@4dd8dc3
-pb is : [D@4dd8dc3
-pb is : [D@4dd8dc3
-pb is : [D@4dd8dc3
-pb is : [D@4dd8dc3
-nope1.7976931348623157E308
-pb is : [D@6d03e736
-pb is : [D@6d03e736
-pb is : [D@6d03e736
-pb is : [D@6d03e736
-pb is : [D@6d03e736
-nope1.7976931348623157E308
-pb is : [D@568db2f2
-pb is : [D@568db2f2
-pb is : [D@568db2f2
-pb is : [D@568db2f2
-pb is : [D@568db2f2
-nope1.7976931348623157E308
-pb is : [D@378bf509
-pb is : [D@378bf509
-pb is : [D@378bf509
-pb is : [D@378bf509
-pb is : [D@378bf509
-nope1.7976931348623157E308
-pb is : [D@5fd0d5ae
-pb is : [D@5fd0d5ae
-pb is : [D@5fd0d5ae
-pb is : [D@5fd0d5ae
-pb is : [D@5fd0d5ae
-nope1.7976931348623157E308
-pb is : [D@2d98a335
-pb is : [D@2d98a335
-pb is : [D@2d98a335
-pb is : [D@2d98a335
-pb is : [D@2d98a335
-nope1.7976931348623157E308
-pb is : [D@16b98e56
-pb is : [D@16b98e56
-pb is : [D@16b98e56
-pb is : [D@16b98e56
-pb is : [D@16b98e56
-nope1.7976931348623157E308
-pb is : [D@7ef20235
-pb is : [D@7ef20235
-pb is : [D@7ef20235
-pb is : [D@7ef20235
-pb is : [D@7ef20235
-nope1.7976931348623157E308
-pb is : [D@27d6c5e0
-pb is : [D@27d6c5e0
-pb is : [D@27d6c5e0
-pb is : [D@27d6c5e0
-pb is : [D@27d6c5e0
-nope1.7976931348623157E308
-pb is : [D@4f3f5b24
-pb is : [D@4f3f5b24
-pb is : [D@4f3f5b24
-pb is : [D@4f3f5b24
-pb is : [D@4f3f5b24
-nope1.7976931348623157E308
-pb is : [D@15aeb7ab
-pb is : [D@15aeb7ab
-pb is : [D@15aeb7ab
-pb is : [D@15aeb7ab
-pb is : [D@15aeb7ab
-nope1.7976931348623157E308
-pb is : [D@7b23ec81
-pb is : [D@7b23ec81
-pb is : [D@7b23ec81
-pb is : [D@7b23ec81
-pb is : [D@7b23ec81
-nope1.7976931348623157E308
-pb is : [D@6acbcfc0
-pb is : [D@6acbcfc0
-pb is : [D@6acbcfc0
-pb is : [D@6acbcfc0
-pb is : [D@6acbcfc0
-nope1.7976931348623157E308
-pb is : [D@5f184fc6
-pb is : [D@5f184fc6
-pb is : [D@5f184fc6
-pb is : [D@5f184fc6
-pb is : [D@5f184fc6
-nope1.7976931348623157E308
-pb is : [D@448139f0
-pb is : [D@448139f0
-pb is : [D@448139f0
-pb is : [D@448139f0
-pb is : [D@448139f0
-nope1.7976931348623157E308
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-nope1.7976931348623157E308
-pb is : [D@7ba4f24f
-pb is : [D@7ba4f24f
-pb is : [D@7ba4f24f
-pb is : [D@7ba4f24f
-pb is : [D@7ba4f24f
-nope1.7976931348623157E308
-pb is : [D@3b9a45b3
-pb is : [D@3b9a45b3
-pb is : [D@3b9a45b3
-pb is : [D@3b9a45b3
-pb is : [D@3b9a45b3
-nope1.7976931348623157E308
-pb is : [D@7699a589
-pb is : [D@7699a589
-pb is : [D@7699a589
-pb is : [D@7699a589
-pb is : [D@7699a589
-nope1.7976931348623157E308
-pb is : [D@58372a00
-pb is : [D@58372a00
-pb is : [D@58372a00
-pb is : [D@58372a00
-pb is : [D@58372a00
-nope1.7976931348623157E308
-pb is : [D@4dd8dc3
-pb is : [D@4dd8dc3
-pb is : [D@4dd8dc3
-pb is : [D@4dd8dc3
-pb is : [D@4dd8dc3
-nope1.7976931348623157E308
-pb is : [D@6d03e736
-pb is : [D@6d03e736
-pb is : [D@6d03e736
-pb is : [D@6d03e736
-pb is : [D@6d03e736
-nope1.7976931348623157E308
-pb is : [D@568db2f2
-pb is : [D@568db2f2
-pb is : [D@568db2f2
-pb is : [D@568db2f2
-pb is : [D@568db2f2
-nope1.7976931348623157E308
-pb is : [D@378bf509
-pb is : [D@378bf509
-pb is : [D@378bf509
-pb is : [D@378bf509
-pb is : [D@378bf509
-nope1.7976931348623157E308
-pb is : [D@5fd0d5ae
-pb is : [D@5fd0d5ae
-pb is : [D@5fd0d5ae
-pb is : [D@5fd0d5ae
-pb is : [D@5fd0d5ae
-nope1.7976931348623157E308
-pb is : [D@2d98a335
-pb is : [D@2d98a335
-pb is : [D@2d98a335
-pb is : [D@2d98a335
-pb is : [D@2d98a335
-nope1.7976931348623157E308
-pb is : [D@16b98e56
-pb is : [D@16b98e56
-pb is : [D@16b98e56
-pb is : [D@16b98e56
-pb is : [D@16b98e56
-nope1.7976931348623157E308
-pb is : [D@7ef20235
-pb is : [D@7ef20235
-pb is : [D@7ef20235
-pb is : [D@7ef20235
-pb is : [D@7ef20235
-nope1.7976931348623157E308
-pb is : [D@27d6c5e0
-pb is : [D@27d6c5e0
-pb is : [D@27d6c5e0
-pb is : [D@27d6c5e0
-pb is : [D@27d6c5e0
-nope1.7976931348623157E308
-pb is : [D@4f3f5b24
-pb is : [D@4f3f5b24
-pb is : [D@4f3f5b24
-pb is : [D@4f3f5b24
-pb is : [D@4f3f5b24
-nope1.7976931348623157E308
-pb is : [D@15aeb7ab
-pb is : [D@15aeb7ab
-pb is : [D@15aeb7ab
-pb is : [D@15aeb7ab
-pb is : [D@15aeb7ab
-nope1.7976931348623157E308
-pb is : [D@7b23ec81
-pb is : [D@7b23ec81
-pb is : [D@7b23ec81
-pb is : [D@7b23ec81
-pb is : [D@7b23ec81
-nope1.7976931348623157E308
-pb is : [D@6acbcfc0
-pb is : [D@6acbcfc0
-pb is : [D@6acbcfc0
-pb is : [D@6acbcfc0
-pb is : [D@6acbcfc0
-nope1.7976931348623157E308
-pb is : [D@5f184fc6
-pb is : [D@5f184fc6
-pb is : [D@5f184fc6
-pb is : [D@5f184fc6
-pb is : [D@5f184fc6
-nope1.7976931348623157E308
-pb is : [D@448139f0
-pb is : [D@448139f0
-pb is : [D@448139f0
-pb is : [D@448139f0
-pb is : [D@448139f0
-nope1.7976931348623157E308
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-nope1.7976931348623157E308
-pb is : [D@7ba4f24f
-pb is : [D@7ba4f24f
-pb is : [D@7ba4f24f
-pb is : [D@7ba4f24f
-pb is : [D@7ba4f24f
-nope1.7976931348623157E308
-pb is : [D@3b9a45b3
-pb is : [D@3b9a45b3
-pb is : [D@3b9a45b3
-pb is : [D@3b9a45b3
-pb is : [D@3b9a45b3
-nope1.7976931348623157E308
-pb is : [D@7699a589
-pb is : [D@7699a589
-pb is : [D@7699a589
-pb is : [D@7699a589
-pb is : [D@7699a589
-nope1.7976931348623157E308
-pb is : [D@58372a00
-pb is : [D@58372a00
-pb is : [D@58372a00
-pb is : [D@58372a00
-pb is : [D@58372a00
-nope1.7976931348623157E308
-pb is : [D@4dd8dc3
-pb is : [D@4dd8dc3
-pb is : [D@4dd8dc3
-pb is : [D@4dd8dc3
-pb is : [D@4dd8dc3
-nope1.7976931348623157E308
-pb is : [D@6d03e736
-pb is : [D@6d03e736
-pb is : [D@6d03e736
-pb is : [D@6d03e736
-pb is : [D@6d03e736
-nope1.7976931348623157E308
-pb is : [D@568db2f2
-pb is : [D@568db2f2
-pb is : [D@568db2f2
-pb is : [D@568db2f2
-pb is : [D@568db2f2
-nope1.7976931348623157E308
-pb is : [D@378bf509
-pb is : [D@378bf509
-pb is : [D@378bf509
-pb is : [D@378bf509
-pb is : [D@378bf509
-nope1.7976931348623157E308
-pb is : [D@5fd0d5ae
-pb is : [D@5fd0d5ae
-pb is : [D@5fd0d5ae
-pb is : [D@5fd0d5ae
-pb is : [D@5fd0d5ae
-nope1.7976931348623157E308
-pb is : [D@2d98a335
-pb is : [D@2d98a335
-pb is : [D@2d98a335
-pb is : [D@2d98a335
-pb is : [D@2d98a335
-nope1.7976931348623157E308
-pb is : [D@16b98e56
-pb is : [D@16b98e56
-pb is : [D@16b98e56
-pb is : [D@16b98e56
-pb is : [D@16b98e56
-nope1.7976931348623157E308
-pb is : [D@7ef20235
-pb is : [D@7ef20235
-pb is : [D@7ef20235
-pb is : [D@7ef20235
-pb is : [D@7ef20235
-nope1.7976931348623157E308
-pb is : [D@27d6c5e0
-pb is : [D@27d6c5e0
-pb is : [D@27d6c5e0
-pb is : [D@27d6c5e0
-pb is : [D@27d6c5e0
-nope1.7976931348623157E308
-pb is : [D@4f3f5b24
-pb is : [D@4f3f5b24
-pb is : [D@4f3f5b24
-pb is : [D@4f3f5b24
-pb is : [D@4f3f5b24
-nope1.7976931348623157E308
-pb is : [D@15aeb7ab
-pb is : [D@15aeb7ab
-pb is : [D@15aeb7ab
-pb is : [D@15aeb7ab
-pb is : [D@15aeb7ab
-nope1.7976931348623157E308
-pb is : [D@7b23ec81
-pb is : [D@7b23ec81
-pb is : [D@7b23ec81
-pb is : [D@7b23ec81
-pb is : [D@7b23ec81
-nope1.7976931348623157E308
-pb is : [D@6acbcfc0
-pb is : [D@6acbcfc0
-pb is : [D@6acbcfc0
-pb is : [D@6acbcfc0
-pb is : [D@6acbcfc0
-nope1.7976931348623157E308
-pb is : [D@5f184fc6
-pb is : [D@5f184fc6
-pb is : [D@5f184fc6
-pb is : [D@5f184fc6
-pb is : [D@5f184fc6
-nope1.7976931348623157E308
-pb is : [D@448139f0
-pb is : [D@448139f0
-pb is : [D@448139f0
-pb is : [D@448139f0
-pb is : [D@448139f0
-nope1.7976931348623157E308
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-nope1.7976931348623157E308
-pb is : [D@7ba4f24f
-pb is : [D@7ba4f24f
-pb is : [D@7ba4f24f
-pb is : [D@7ba4f24f
-pb is : [D@7ba4f24f
-nope1.7976931348623157E308
-pb is : [D@3b9a45b3
-pb is : [D@3b9a45b3
-pb is : [D@3b9a45b3
-pb is : [D@3b9a45b3
-pb is : [D@3b9a45b3
-nope1.7976931348623157E308
-pb is : [D@7699a589
-pb is : [D@7699a589
-pb is : [D@7699a589
-pb is : [D@7699a589
-pb is : [D@7699a589
-nope1.7976931348623157E308
-pb is : [D@58372a00
-pb is : [D@58372a00
-pb is : [D@58372a00
-pb is : [D@58372a00
-pb is : [D@58372a00
-nope1.7976931348623157E308
-pb is : [D@4dd8dc3
-pb is : [D@4dd8dc3
-pb is : [D@4dd8dc3
-pb is : [D@4dd8dc3
-pb is : [D@4dd8dc3
-nope1.7976931348623157E308
-pb is : [D@6d03e736
-pb is : [D@6d03e736
-pb is : [D@6d03e736
-pb is : [D@6d03e736
-pb is : [D@6d03e736
-nope1.7976931348623157E308
-pb is : [D@568db2f2
-pb is : [D@568db2f2
-pb is : [D@568db2f2
-pb is : [D@568db2f2
-pb is : [D@568db2f2
-nope1.7976931348623157E308
-pb is : [D@378bf509
-pb is : [D@378bf509
-pb is : [D@378bf509
-pb is : [D@378bf509
-pb is : [D@378bf509
-nope1.7976931348623157E308
-pb is : [D@5fd0d5ae
-pb is : [D@5fd0d5ae
-pb is : [D@5fd0d5ae
-pb is : [D@5fd0d5ae
-pb is : [D@5fd0d5ae
-nope1.7976931348623157E308
-pb is : [D@2d98a335
-pb is : [D@2d98a335
-pb is : [D@2d98a335
-pb is : [D@2d98a335
-pb is : [D@2d98a335
-nope1.7976931348623157E308
-pb is : [D@16b98e56
-pb is : [D@16b98e56
-pb is : [D@16b98e56
-pb is : [D@16b98e56
-pb is : [D@16b98e56
-nope1.7976931348623157E308
-pb is : [D@7ef20235
-pb is : [D@7ef20235
-pb is : [D@7ef20235
-pb is : [D@7ef20235
-pb is : [D@7ef20235
-nope1.7976931348623157E308
-pb is : [D@27d6c5e0
-pb is : [D@27d6c5e0
-pb is : [D@27d6c5e0
-pb is : [D@27d6c5e0
-pb is : [D@27d6c5e0
-nope1.7976931348623157E308
-pb is : [D@4f3f5b24
-pb is : [D@4f3f5b24
-pb is : [D@4f3f5b24
-pb is : [D@4f3f5b24
-pb is : [D@4f3f5b24
-nope1.7976931348623157E308
-pb is : [D@15aeb7ab
-pb is : [D@15aeb7ab
-pb is : [D@15aeb7ab
-pb is : [D@15aeb7ab
-pb is : [D@15aeb7ab
-nope1.7976931348623157E308
-pb is : [D@7b23ec81
-pb is : [D@7b23ec81
-pb is : [D@7b23ec81
-pb is : [D@7b23ec81
-pb is : [D@7b23ec81
-nope1.7976931348623157E308
-pb is : [D@6acbcfc0
-pb is : [D@6acbcfc0
-pb is : [D@6acbcfc0
-pb is : [D@6acbcfc0
-pb is : [D@6acbcfc0
-nope1.7976931348623157E308
-pb is : [D@5f184fc6
-pb is : [D@5f184fc6
-pb is : [D@5f184fc6
-pb is : [D@5f184fc6
-pb is : [D@5f184fc6
-nope1.7976931348623157E308
-pb is : [D@448139f0
-pb is : [D@448139f0
-pb is : [D@448139f0
-pb is : [D@448139f0
-pb is : [D@448139f0
-nope1.7976931348623157E308
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-nope1.7976931348623157E308
-pb is : [D@7ba4f24f
-pb is : [D@7ba4f24f
-pb is : [D@7ba4f24f
-pb is : [D@7ba4f24f
-pb is : [D@7ba4f24f
-nope1.7976931348623157E308
-pb is : [D@3b9a45b3
-pb is : [D@3b9a45b3
-pb is : [D@3b9a45b3
-pb is : [D@3b9a45b3
-pb is : [D@3b9a45b3
-nope1.7976931348623157E308
-pb is : [D@7699a589
-pb is : [D@7699a589
-pb is : [D@7699a589
-pb is : [D@7699a589
-pb is : [D@7699a589
-nope1.7976931348623157E308
-pb is : [D@58372a00
-pb is : [D@58372a00
-pb is : [D@58372a00
-pb is : [D@58372a00
-pb is : [D@58372a00
-nope1.7976931348623157E308
-pb is : [D@4dd8dc3
-pb is : [D@4dd8dc3
-pb is : [D@4dd8dc3
-pb is : [D@4dd8dc3
-pb is : [D@4dd8dc3
-nope1.7976931348623157E308
-pb is : [D@6d03e736
-pb is : [D@6d03e736
-pb is : [D@6d03e736
-pb is : [D@6d03e736
-pb is : [D@6d03e736
-nope1.7976931348623157E308
-pb is : [D@568db2f2
-pb is : [D@568db2f2
-pb is : [D@568db2f2
-pb is : [D@568db2f2
-pb is : [D@568db2f2
-nope1.7976931348623157E308
-pb is : [D@378bf509
-pb is : [D@378bf509
-pb is : [D@378bf509
-pb is : [D@378bf509
-pb is : [D@378bf509
-nope1.7976931348623157E308
-pb is : [D@5fd0d5ae
-pb is : [D@5fd0d5ae
-pb is : [D@5fd0d5ae
-pb is : [D@5fd0d5ae
-pb is : [D@5fd0d5ae
-nope1.7976931348623157E308
-pb is : [D@2d98a335
-pb is : [D@2d98a335
-pb is : [D@2d98a335
-pb is : [D@2d98a335
-pb is : [D@2d98a335
-nope1.7976931348623157E308
-pb is : [D@16b98e56
-pb is : [D@16b98e56
-pb is : [D@16b98e56
-pb is : [D@16b98e56
-pb is : [D@16b98e56
-nope1.7976931348623157E308
-pb is : [D@7ef20235
-pb is : [D@7ef20235
-pb is : [D@7ef20235
-pb is : [D@7ef20235
-pb is : [D@7ef20235
-nope1.7976931348623157E308
-pb is : [D@27d6c5e0
-pb is : [D@27d6c5e0
-pb is : [D@27d6c5e0
-pb is : [D@27d6c5e0
-pb is : [D@27d6c5e0
-nope1.7976931348623157E308
-pb is : [D@4f3f5b24
-pb is : [D@4f3f5b24
-pb is : [D@4f3f5b24
-pb is : [D@4f3f5b24
-pb is : [D@4f3f5b24
-nope1.7976931348623157E308
-pb is : [D@15aeb7ab
-pb is : [D@15aeb7ab
-pb is : [D@15aeb7ab
-pb is : [D@15aeb7ab
-pb is : [D@15aeb7ab
-nope1.7976931348623157E308
-pb is : [D@7b23ec81
-pb is : [D@7b23ec81
-pb is : [D@7b23ec81
-pb is : [D@7b23ec81
-pb is : [D@7b23ec81
-nope1.7976931348623157E308
-pb is : [D@6acbcfc0
-pb is : [D@6acbcfc0
-pb is : [D@6acbcfc0
-pb is : [D@6acbcfc0
-pb is : [D@6acbcfc0
-nope1.7976931348623157E308
-pb is : [D@5f184fc6
-pb is : [D@5f184fc6
-pb is : [D@5f184fc6
-pb is : [D@5f184fc6
-pb is : [D@5f184fc6
-nope1.7976931348623157E308
-pb is : [D@448139f0
-pb is : [D@448139f0
-pb is : [D@448139f0
-pb is : [D@448139f0
-pb is : [D@448139f0
-nope1.7976931348623157E308
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-nope1.7976931348623157E308
-pb is : [D@7ba4f24f
-pb is : [D@7ba4f24f
-pb is : [D@7ba4f24f
-pb is : [D@7ba4f24f
-pb is : [D@7ba4f24f
-nope1.7976931348623157E308
-pb is : [D@3b9a45b3
-pb is : [D@3b9a45b3
-pb is : [D@3b9a45b3
-pb is : [D@3b9a45b3
-pb is : [D@3b9a45b3
-nope1.7976931348623157E308
-pb is : [D@7699a589
-pb is : [D@7699a589
-pb is : [D@7699a589
-pb is : [D@7699a589
-pb is : [D@7699a589
-nope1.7976931348623157E308
-pb is : [D@58372a00
-pb is : [D@58372a00
-pb is : [D@58372a00
-pb is : [D@58372a00
-pb is : [D@58372a00
-nope1.7976931348623157E308
-pb is : [D@4dd8dc3
-pb is : [D@4dd8dc3
-pb is : [D@4dd8dc3
-pb is : [D@4dd8dc3
-pb is : [D@4dd8dc3
-nope1.7976931348623157E308
-pb is : [D@6d03e736
-pb is : [D@6d03e736
-pb is : [D@6d03e736
-pb is : [D@6d03e736
-pb is : [D@6d03e736
-nope1.7976931348623157E308
-pb is : [D@568db2f2
-pb is : [D@568db2f2
-pb is : [D@568db2f2
-pb is : [D@568db2f2
-pb is : [D@568db2f2
-nope1.7976931348623157E308
-pb is : [D@378bf509
-pb is : [D@378bf509
-pb is : [D@378bf509
-pb is : [D@378bf509
-pb is : [D@378bf509
-nope1.7976931348623157E308
-pb is : [D@5fd0d5ae
-pb is : [D@5fd0d5ae
-pb is : [D@5fd0d5ae
-pb is : [D@5fd0d5ae
-pb is : [D@5fd0d5ae
-nope1.7976931348623157E308
-pb is : [D@2d98a335
-pb is : [D@2d98a335
-pb is : [D@2d98a335
-pb is : [D@2d98a335
-pb is : [D@2d98a335
-nope1.7976931348623157E308
-pb is : [D@16b98e56
-pb is : [D@16b98e56
-pb is : [D@16b98e56
-pb is : [D@16b98e56
-pb is : [D@16b98e56
-nope1.7976931348623157E308
-pb is : [D@7ef20235
-pb is : [D@7ef20235
-pb is : [D@7ef20235
-pb is : [D@7ef20235
-pb is : [D@7ef20235
-nope1.7976931348623157E308
-pb is : [D@27d6c5e0
-pb is : [D@27d6c5e0
-pb is : [D@27d6c5e0
-pb is : [D@27d6c5e0
-pb is : [D@27d6c5e0
-nope1.7976931348623157E308
-pb is : [D@4f3f5b24
-pb is : [D@4f3f5b24
-pb is : [D@4f3f5b24
-pb is : [D@4f3f5b24
-pb is : [D@4f3f5b24
-nope1.7976931348623157E308
-pb is : [D@15aeb7ab
-pb is : [D@15aeb7ab
-pb is : [D@15aeb7ab
-pb is : [D@15aeb7ab
-pb is : [D@15aeb7ab
-nope1.7976931348623157E308
-pb is : [D@7b23ec81
-pb is : [D@7b23ec81
-pb is : [D@7b23ec81
-pb is : [D@7b23ec81
-pb is : [D@7b23ec81
-nope1.7976931348623157E308
-pb is : [D@6acbcfc0
-pb is : [D@6acbcfc0
-pb is : [D@6acbcfc0
-pb is : [D@6acbcfc0
-pb is : [D@6acbcfc0
-nope1.7976931348623157E308
-pb is : [D@5f184fc6
-pb is : [D@5f184fc6
-pb is : [D@5f184fc6
-pb is : [D@5f184fc6
-pb is : [D@5f184fc6
-nope1.7976931348623157E308
-pb is : [D@448139f0
-pb is : [D@448139f0
-pb is : [D@448139f0
-pb is : [D@448139f0
-pb is : [D@448139f0
-nope1.7976931348623157E308
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-nope1.7976931348623157E308
-pb is : [D@7ba4f24f
-pb is : [D@7ba4f24f
-pb is : [D@7ba4f24f
-pb is : [D@7ba4f24f
-pb is : [D@7ba4f24f
-nope1.7976931348623157E308
-pb is : [D@3b9a45b3
-pb is : [D@3b9a45b3
-pb is : [D@3b9a45b3
-pb is : [D@3b9a45b3
-pb is : [D@3b9a45b3
-nope1.7976931348623157E308
-pb is : [D@7699a589
-pb is : [D@7699a589
-pb is : [D@7699a589
-pb is : [D@7699a589
-pb is : [D@7699a589
-nope1.7976931348623157E308
-pb is : [D@58372a00
-pb is : [D@58372a00
-pb is : [D@58372a00
-pb is : [D@58372a00
-pb is : [D@58372a00
-nope1.7976931348623157E308
-pb is : [D@4dd8dc3
-pb is : [D@4dd8dc3
-pb is : [D@4dd8dc3
-pb is : [D@4dd8dc3
-pb is : [D@4dd8dc3
-nope1.7976931348623157E308
-pb is : [D@6d03e736
-pb is : [D@6d03e736
-pb is : [D@6d03e736
-pb is : [D@6d03e736
-pb is : [D@6d03e736
-nope1.7976931348623157E308
-pb is : [D@568db2f2
-pb is : [D@568db2f2
-pb is : [D@568db2f2
-pb is : [D@568db2f2
-pb is : [D@568db2f2
-nope1.7976931348623157E308
-pb is : [D@378bf509
-pb is : [D@378bf509
-pb is : [D@378bf509
-pb is : [D@378bf509
-pb is : [D@378bf509
-nope1.7976931348623157E308
-pb is : [D@5fd0d5ae
-pb is : [D@5fd0d5ae
-pb is : [D@5fd0d5ae
-pb is : [D@5fd0d5ae
-pb is : [D@5fd0d5ae
-nope1.7976931348623157E308
-pb is : [D@2d98a335
-pb is : [D@2d98a335
-pb is : [D@2d98a335
-pb is : [D@2d98a335
-pb is : [D@2d98a335
-nope1.7976931348623157E308
-pb is : [D@16b98e56
-pb is : [D@16b98e56
-pb is : [D@16b98e56
-pb is : [D@16b98e56
-pb is : [D@16b98e56
-nope1.7976931348623157E308
-pb is : [D@7ef20235
-pb is : [D@7ef20235
-pb is : [D@7ef20235
-pb is : [D@7ef20235
-pb is : [D@7ef20235
-nope1.7976931348623157E308
-pb is : [D@27d6c5e0
-pb is : [D@27d6c5e0
-pb is : [D@27d6c5e0
-pb is : [D@27d6c5e0
-pb is : [D@27d6c5e0
-nope1.7976931348623157E308
-pb is : [D@4f3f5b24
-pb is : [D@4f3f5b24
-pb is : [D@4f3f5b24
-pb is : [D@4f3f5b24
-pb is : [D@4f3f5b24
-nope1.7976931348623157E308
-pb is : [D@15aeb7ab
-pb is : [D@15aeb7ab
-pb is : [D@15aeb7ab
-pb is : [D@15aeb7ab
-pb is : [D@15aeb7ab
-nope1.7976931348623157E308
-pb is : [D@7b23ec81
-pb is : [D@7b23ec81
-pb is : [D@7b23ec81
-pb is : [D@7b23ec81
-pb is : [D@7b23ec81
-nope1.7976931348623157E308
-pb is : [D@6acbcfc0
-pb is : [D@6acbcfc0
-pb is : [D@6acbcfc0
-pb is : [D@6acbcfc0
-pb is : [D@6acbcfc0
-nope1.7976931348623157E308
-pb is : [D@5f184fc6
-pb is : [D@5f184fc6
-pb is : [D@5f184fc6
-pb is : [D@5f184fc6
-pb is : [D@5f184fc6
-nope1.7976931348623157E308
-pb is : [D@448139f0
-pb is : [D@448139f0
-pb is : [D@448139f0
-pb is : [D@448139f0
-pb is : [D@448139f0
-nope1.7976931348623157E308
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-nope1.7976931348623157E308
-pb is : [D@7ba4f24f
-pb is : [D@7ba4f24f
-pb is : [D@7ba4f24f
-pb is : [D@7ba4f24f
-pb is : [D@7ba4f24f
-nope1.7976931348623157E308
-pb is : [D@3b9a45b3
-pb is : [D@3b9a45b3
-pb is : [D@3b9a45b3
-pb is : [D@3b9a45b3
-pb is : [D@3b9a45b3
-nope1.7976931348623157E308
-pb is : [D@7699a589
-pb is : [D@7699a589
-pb is : [D@7699a589
-pb is : [D@7699a589
-pb is : [D@7699a589
-nope1.7976931348623157E308
-pb is : [D@58372a00
-pb is : [D@58372a00
-pb is : [D@58372a00
-pb is : [D@58372a00
-pb is : [D@58372a00
-nope1.7976931348623157E308
-pb is : [D@4dd8dc3
-pb is : [D@4dd8dc3
-pb is : [D@4dd8dc3
-pb is : [D@4dd8dc3
-pb is : [D@4dd8dc3
-nope1.7976931348623157E308
-pb is : [D@6d03e736
-pb is : [D@6d03e736
-pb is : [D@6d03e736
-pb is : [D@6d03e736
-pb is : [D@6d03e736
-nope1.7976931348623157E308
-pb is : [D@568db2f2
-pb is : [D@568db2f2
-pb is : [D@568db2f2
-pb is : [D@568db2f2
-pb is : [D@568db2f2
-nope1.7976931348623157E308
-pb is : [D@378bf509
-pb is : [D@378bf509
-pb is : [D@378bf509
-pb is : [D@378bf509
-pb is : [D@378bf509
-nope1.7976931348623157E308
-pb is : [D@5fd0d5ae
-pb is : [D@5fd0d5ae
-pb is : [D@5fd0d5ae
-pb is : [D@5fd0d5ae
-pb is : [D@5fd0d5ae
-nope1.7976931348623157E308
-pb is : [D@2d98a335
-pb is : [D@2d98a335
-pb is : [D@2d98a335
-pb is : [D@2d98a335
-pb is : [D@2d98a335
-nope1.7976931348623157E308
-pb is : [D@16b98e56
-pb is : [D@16b98e56
-pb is : [D@16b98e56
-pb is : [D@16b98e56
-pb is : [D@16b98e56
-nope1.7976931348623157E308
-pb is : [D@7ef20235
-pb is : [D@7ef20235
-pb is : [D@7ef20235
-pb is : [D@7ef20235
-pb is : [D@7ef20235
-nope1.7976931348623157E308
-pb is : [D@27d6c5e0
-pb is : [D@27d6c5e0
-pb is : [D@27d6c5e0
-pb is : [D@27d6c5e0
-pb is : [D@27d6c5e0
-nope1.7976931348623157E308
-pb is : [D@4f3f5b24
-pb is : [D@4f3f5b24
-pb is : [D@4f3f5b24
-pb is : [D@4f3f5b24
-pb is : [D@4f3f5b24
-nope1.7976931348623157E308
-pb is : [D@15aeb7ab
-pb is : [D@15aeb7ab
-pb is : [D@15aeb7ab
-pb is : [D@15aeb7ab
-pb is : [D@15aeb7ab
-nope1.7976931348623157E308
-pb is : [D@7b23ec81
-pb is : [D@7b23ec81
-pb is : [D@7b23ec81
-pb is : [D@7b23ec81
-pb is : [D@7b23ec81
-nope1.7976931348623157E308
-pb is : [D@6acbcfc0
-pb is : [D@6acbcfc0
-pb is : [D@6acbcfc0
-pb is : [D@6acbcfc0
-pb is : [D@6acbcfc0
-nope1.7976931348623157E308
-pb is : [D@5f184fc6
-pb is : [D@5f184fc6
-pb is : [D@5f184fc6
-pb is : [D@5f184fc6
-pb is : [D@5f184fc6
-nope1.7976931348623157E308
-pb is : [D@448139f0
-pb is : [D@448139f0
-pb is : [D@448139f0
-pb is : [D@448139f0
-pb is : [D@448139f0
-nope1.7976931348623157E308
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-nope1.7976931348623157E308
-pb is : [D@7ba4f24f
-pb is : [D@7ba4f24f
-pb is : [D@7ba4f24f
-pb is : [D@7ba4f24f
-pb is : [D@7ba4f24f
-nope1.7976931348623157E308
-pb is : [D@3b9a45b3
-pb is : [D@3b9a45b3
-pb is : [D@3b9a45b3
-pb is : [D@3b9a45b3
-pb is : [D@3b9a45b3
-nope1.7976931348623157E308
-pb is : [D@7699a589
-pb is : [D@7699a589
-pb is : [D@7699a589
-pb is : [D@7699a589
-pb is : [D@7699a589
-nope1.7976931348623157E308
-pb is : [D@58372a00
-pb is : [D@58372a00
-pb is : [D@58372a00
-pb is : [D@58372a00
-pb is : [D@58372a00
-nope1.7976931348623157E308
-pb is : [D@4dd8dc3
-pb is : [D@4dd8dc3
-pb is : [D@4dd8dc3
-pb is : [D@4dd8dc3
-pb is : [D@4dd8dc3
-nope1.7976931348623157E308
-pb is : [D@6d03e736
-pb is : [D@6d03e736
-pb is : [D@6d03e736
-pb is : [D@6d03e736
-pb is : [D@6d03e736
-nope1.7976931348623157E308
-pb is : [D@568db2f2
-pb is : [D@568db2f2
-pb is : [D@568db2f2
-pb is : [D@568db2f2
-pb is : [D@568db2f2
-nope1.7976931348623157E308
-pb is : [D@378bf509
-pb is : [D@378bf509
-pb is : [D@378bf509
-pb is : [D@378bf509
-pb is : [D@378bf509
-nope1.7976931348623157E308
-pb is : [D@5fd0d5ae
-pb is : [D@5fd0d5ae
-pb is : [D@5fd0d5ae
-pb is : [D@5fd0d5ae
-pb is : [D@5fd0d5ae
-nope1.7976931348623157E308
-pb is : [D@2d98a335
-pb is : [D@2d98a335
-pb is : [D@2d98a335
-pb is : [D@2d98a335
-pb is : [D@2d98a335
-nope1.7976931348623157E308
-pb is : [D@16b98e56
-pb is : [D@16b98e56
-pb is : [D@16b98e56
-pb is : [D@16b98e56
-pb is : [D@16b98e56
-nope1.7976931348623157E308
-pb is : [D@7ef20235
-pb is : [D@7ef20235
-pb is : [D@7ef20235
-pb is : [D@7ef20235
-pb is : [D@7ef20235
-nope1.7976931348623157E308
-pb is : [D@27d6c5e0
-pb is : [D@27d6c5e0
-pb is : [D@27d6c5e0
-pb is : [D@27d6c5e0
-pb is : [D@27d6c5e0
-nope1.7976931348623157E308
-pb is : [D@4f3f5b24
-pb is : [D@4f3f5b24
-pb is : [D@4f3f5b24
-pb is : [D@4f3f5b24
-pb is : [D@4f3f5b24
-nope1.7976931348623157E308
-pb is : [D@15aeb7ab
-pb is : [D@15aeb7ab
-pb is : [D@15aeb7ab
-pb is : [D@15aeb7ab
-pb is : [D@15aeb7ab
-nope1.7976931348623157E308
-pb is : [D@7b23ec81
-pb is : [D@7b23ec81
-pb is : [D@7b23ec81
-pb is : [D@7b23ec81
-pb is : [D@7b23ec81
-nope1.7976931348623157E308
-pb is : [D@6acbcfc0
-pb is : [D@6acbcfc0
-pb is : [D@6acbcfc0
-pb is : [D@6acbcfc0
-pb is : [D@6acbcfc0
-nope1.7976931348623157E308
-pb is : [D@5f184fc6
-pb is : [D@5f184fc6
-pb is : [D@5f184fc6
-pb is : [D@5f184fc6
-pb is : [D@5f184fc6
-nope1.7976931348623157E308
-pb is : [D@448139f0
-pb is : [D@448139f0
-pb is : [D@448139f0
-pb is : [D@448139f0
-pb is : [D@448139f0
-nope1.7976931348623157E308
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-nope1.7976931348623157E308
-pb is : [D@7ba4f24f
-pb is : [D@7ba4f24f
-pb is : [D@7ba4f24f
-pb is : [D@7ba4f24f
-pb is : [D@7ba4f24f
-nope1.7976931348623157E308
-pb is : [D@3b9a45b3
-pb is : [D@3b9a45b3
-pb is : [D@3b9a45b3
-pb is : [D@3b9a45b3
-pb is : [D@3b9a45b3
-nope1.7976931348623157E308
-pb is : [D@7699a589
-pb is : [D@7699a589
-pb is : [D@7699a589
-pb is : [D@7699a589
-pb is : [D@7699a589
-nope1.7976931348623157E308
-pb is : [D@58372a00
-pb is : [D@58372a00
-pb is : [D@58372a00
-pb is : [D@58372a00
-pb is : [D@58372a00
-nope1.7976931348623157E308
-pb is : [D@4dd8dc3
-pb is : [D@4dd8dc3
-pb is : [D@4dd8dc3
-pb is : [D@4dd8dc3
-pb is : [D@4dd8dc3
-nope1.7976931348623157E308
-pb is : [D@6d03e736
-pb is : [D@6d03e736
-pb is : [D@6d03e736
-pb is : [D@6d03e736
-pb is : [D@6d03e736
-nope1.7976931348623157E308
-pb is : [D@568db2f2
-pb is : [D@568db2f2
-pb is : [D@568db2f2
-pb is : [D@568db2f2
-pb is : [D@568db2f2
-nope1.7976931348623157E308
-pb is : [D@378bf509
-pb is : [D@378bf509
-pb is : [D@378bf509
-pb is : [D@378bf509
-pb is : [D@378bf509
-nope1.7976931348623157E308
-pb is : [D@5fd0d5ae
-pb is : [D@5fd0d5ae
-pb is : [D@5fd0d5ae
-pb is : [D@5fd0d5ae
-pb is : [D@5fd0d5ae
-nope1.7976931348623157E308
-pb is : [D@2d98a335
-pb is : [D@2d98a335
-pb is : [D@2d98a335
-pb is : [D@2d98a335
-pb is : [D@2d98a335
-nope1.7976931348623157E308
-pb is : [D@16b98e56
-pb is : [D@16b98e56
-pb is : [D@16b98e56
-pb is : [D@16b98e56
-pb is : [D@16b98e56
-nope1.7976931348623157E308
-pb is : [D@7ef20235
-pb is : [D@7ef20235
-pb is : [D@7ef20235
-pb is : [D@7ef20235
-pb is : [D@7ef20235
-nope1.7976931348623157E308
-pb is : [D@27d6c5e0
-pb is : [D@27d6c5e0
-pb is : [D@27d6c5e0
-pb is : [D@27d6c5e0
-pb is : [D@27d6c5e0
-nope1.7976931348623157E308
-pb is : [D@4f3f5b24
-pb is : [D@4f3f5b24
-pb is : [D@4f3f5b24
-pb is : [D@4f3f5b24
-pb is : [D@4f3f5b24
-nope1.7976931348623157E308
-pb is : [D@15aeb7ab
-pb is : [D@15aeb7ab
-pb is : [D@15aeb7ab
-pb is : [D@15aeb7ab
-pb is : [D@15aeb7ab
-nope1.7976931348623157E308
-pb is : [D@7b23ec81
-pb is : [D@7b23ec81
-pb is : [D@7b23ec81
-pb is : [D@7b23ec81
-pb is : [D@7b23ec81
-nope1.7976931348623157E308
-pb is : [D@6acbcfc0
-pb is : [D@6acbcfc0
-pb is : [D@6acbcfc0
-pb is : [D@6acbcfc0
-pb is : [D@6acbcfc0
-nope1.7976931348623157E308
-pb is : [D@5f184fc6
-pb is : [D@5f184fc6
-pb is : [D@5f184fc6
-pb is : [D@5f184fc6
-pb is : [D@5f184fc6
-nope1.7976931348623157E308
-pb is : [D@448139f0
-pb is : [D@448139f0
-pb is : [D@448139f0
-pb is : [D@448139f0
-pb is : [D@448139f0
-nope1.7976931348623157E308
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-nope1.7976931348623157E308
-pb is : [D@7ba4f24f
-pb is : [D@7ba4f24f
-pb is : [D@7ba4f24f
-pb is : [D@7ba4f24f
-pb is : [D@7ba4f24f
-nope1.7976931348623157E308
-pb is : [D@3b9a45b3
-pb is : [D@3b9a45b3
-pb is : [D@3b9a45b3
-pb is : [D@3b9a45b3
-pb is : [D@3b9a45b3
-nope1.7976931348623157E308
-pb is : [D@7699a589
-pb is : [D@7699a589
-pb is : [D@7699a589
-pb is : [D@7699a589
-pb is : [D@7699a589
-nope1.7976931348623157E308
-pb is : [D@58372a00
-pb is : [D@58372a00
-pb is : [D@58372a00
-pb is : [D@58372a00
-pb is : [D@58372a00
-nope1.7976931348623157E308
-pb is : [D@4dd8dc3
-pb is : [D@4dd8dc3
-pb is : [D@4dd8dc3
-pb is : [D@4dd8dc3
-pb is : [D@4dd8dc3
-nope1.7976931348623157E308
-pb is : [D@6d03e736
-pb is : [D@6d03e736
-pb is : [D@6d03e736
-pb is : [D@6d03e736
-pb is : [D@6d03e736
-nope1.7976931348623157E308
-pb is : [D@568db2f2
-pb is : [D@568db2f2
-pb is : [D@568db2f2
-pb is : [D@568db2f2
-pb is : [D@568db2f2
-nope1.7976931348623157E308
-pb is : [D@378bf509
-pb is : [D@378bf509
-pb is : [D@378bf509
-pb is : [D@378bf509
-pb is : [D@378bf509
-nope1.7976931348623157E308
-pb is : [D@5fd0d5ae
-pb is : [D@5fd0d5ae
-pb is : [D@5fd0d5ae
-pb is : [D@5fd0d5ae
-pb is : [D@5fd0d5ae
-nope1.7976931348623157E308
-pb is : [D@2d98a335
-pb is : [D@2d98a335
-pb is : [D@2d98a335
-pb is : [D@2d98a335
-pb is : [D@2d98a335
-nope1.7976931348623157E308
-pb is : [D@16b98e56
-pb is : [D@16b98e56
-pb is : [D@16b98e56
-pb is : [D@16b98e56
-pb is : [D@16b98e56
-nope1.7976931348623157E308
-pb is : [D@7ef20235
-pb is : [D@7ef20235
-pb is : [D@7ef20235
-pb is : [D@7ef20235
-pb is : [D@7ef20235
-nope1.7976931348623157E308
-pb is : [D@27d6c5e0
-pb is : [D@27d6c5e0
-pb is : [D@27d6c5e0
-pb is : [D@27d6c5e0
-pb is : [D@27d6c5e0
-nope1.7976931348623157E308
-pb is : [D@4f3f5b24
-pb is : [D@4f3f5b24
-pb is : [D@4f3f5b24
-pb is : [D@4f3f5b24
-pb is : [D@4f3f5b24
-nope1.7976931348623157E308
-pb is : [D@15aeb7ab
-pb is : [D@15aeb7ab
-pb is : [D@15aeb7ab
-pb is : [D@15aeb7ab
-pb is : [D@15aeb7ab
-nope1.7976931348623157E308
-pb is : [D@7b23ec81
-pb is : [D@7b23ec81
-pb is : [D@7b23ec81
-pb is : [D@7b23ec81
-pb is : [D@7b23ec81
-nope1.7976931348623157E308
-pb is : [D@6acbcfc0
-pb is : [D@6acbcfc0
-pb is : [D@6acbcfc0
-pb is : [D@6acbcfc0
-pb is : [D@6acbcfc0
-nope1.7976931348623157E308
-pb is : [D@5f184fc6
-pb is : [D@5f184fc6
-pb is : [D@5f184fc6
-pb is : [D@5f184fc6
-pb is : [D@5f184fc6
-nope1.7976931348623157E308
-pb is : [D@448139f0
-pb is : [D@448139f0
-pb is : [D@448139f0
-pb is : [D@448139f0
-pb is : [D@448139f0
-nope1.7976931348623157E308
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-nope1.7976931348623157E308
-pb is : [D@7ba4f24f
-pb is : [D@7ba4f24f
-pb is : [D@7ba4f24f
-pb is : [D@7ba4f24f
-pb is : [D@7ba4f24f
-nope1.7976931348623157E308
-pb is : [D@3b9a45b3
-pb is : [D@3b9a45b3
-pb is : [D@3b9a45b3
-pb is : [D@3b9a45b3
-pb is : [D@3b9a45b3
-nope1.7976931348623157E308
-pb is : [D@7699a589
-pb is : [D@7699a589
-pb is : [D@7699a589
-pb is : [D@7699a589
-pb is : [D@7699a589
-nope1.7976931348623157E308
-pb is : [D@58372a00
-pb is : [D@58372a00
-pb is : [D@58372a00
-pb is : [D@58372a00
-pb is : [D@58372a00
-nope1.7976931348623157E308
-pb is : [D@4dd8dc3
-pb is : [D@4dd8dc3
-pb is : [D@4dd8dc3
-pb is : [D@4dd8dc3
-pb is : [D@4dd8dc3
-nope1.7976931348623157E308
-pb is : [D@6d03e736
-pb is : [D@6d03e736
-pb is : [D@6d03e736
-pb is : [D@6d03e736
-pb is : [D@6d03e736
-nope1.7976931348623157E308
-pb is : [D@568db2f2
-pb is : [D@568db2f2
-pb is : [D@568db2f2
-pb is : [D@568db2f2
-pb is : [D@568db2f2
-nope1.7976931348623157E308
-pb is : [D@378bf509
-pb is : [D@378bf509
-pb is : [D@378bf509
-pb is : [D@378bf509
-pb is : [D@378bf509
-nope1.7976931348623157E308
-pb is : [D@5fd0d5ae
-pb is : [D@5fd0d5ae
-pb is : [D@5fd0d5ae
-pb is : [D@5fd0d5ae
-pb is : [D@5fd0d5ae
-nope1.7976931348623157E308
-pb is : [D@2d98a335
-pb is : [D@2d98a335
-pb is : [D@2d98a335
-pb is : [D@2d98a335
-pb is : [D@2d98a335
-nope1.7976931348623157E308
-pb is : [D@16b98e56
-pb is : [D@16b98e56
-pb is : [D@16b98e56
-pb is : [D@16b98e56
-pb is : [D@16b98e56
-nope1.7976931348623157E308
-pb is : [D@7ef20235
-pb is : [D@7ef20235
-pb is : [D@7ef20235
-pb is : [D@7ef20235
-pb is : [D@7ef20235
-nope1.7976931348623157E308
-pb is : [D@27d6c5e0
-pb is : [D@27d6c5e0
-pb is : [D@27d6c5e0
-pb is : [D@27d6c5e0
-pb is : [D@27d6c5e0
-nope1.7976931348623157E308
-pb is : [D@4f3f5b24
-pb is : [D@4f3f5b24
-pb is : [D@4f3f5b24
-pb is : [D@4f3f5b24
-pb is : [D@4f3f5b24
-nope1.7976931348623157E308
-pb is : [D@15aeb7ab
-pb is : [D@15aeb7ab
-pb is : [D@15aeb7ab
-pb is : [D@15aeb7ab
-pb is : [D@15aeb7ab
-nope1.7976931348623157E308
-pb is : [D@7b23ec81
-pb is : [D@7b23ec81
-pb is : [D@7b23ec81
-pb is : [D@7b23ec81
-pb is : [D@7b23ec81
-nope1.7976931348623157E308
-pb is : [D@6acbcfc0
-pb is : [D@6acbcfc0
-pb is : [D@6acbcfc0
-pb is : [D@6acbcfc0
-pb is : [D@6acbcfc0
-nope1.7976931348623157E308
-pb is : [D@5f184fc6
-pb is : [D@5f184fc6
-pb is : [D@5f184fc6
-pb is : [D@5f184fc6
-pb is : [D@5f184fc6
-nope1.7976931348623157E308
-pb is : [D@448139f0
-pb is : [D@448139f0
-pb is : [D@448139f0
-pb is : [D@448139f0
-pb is : [D@448139f0
-nope1.7976931348623157E308
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-nope1.7976931348623157E308
-pb is : [D@7ba4f24f
-pb is : [D@7ba4f24f
-pb is : [D@7ba4f24f
-pb is : [D@7ba4f24f
-pb is : [D@7ba4f24f
-nope1.7976931348623157E308
-pb is : [D@3b9a45b3
-pb is : [D@3b9a45b3
-pb is : [D@3b9a45b3
-pb is : [D@3b9a45b3
-pb is : [D@3b9a45b3
-nope1.7976931348623157E308
-pb is : [D@7699a589
-pb is : [D@7699a589
-pb is : [D@7699a589
-pb is : [D@7699a589
-pb is : [D@7699a589
-nope1.7976931348623157E308
-pb is : [D@58372a00
-pb is : [D@58372a00
-pb is : [D@58372a00
-pb is : [D@58372a00
-pb is : [D@58372a00
-nope1.7976931348623157E308
-pb is : [D@4dd8dc3
-pb is : [D@4dd8dc3
-pb is : [D@4dd8dc3
-pb is : [D@4dd8dc3
-pb is : [D@4dd8dc3
-nope1.7976931348623157E308
-pb is : [D@6d03e736
-pb is : [D@6d03e736
-pb is : [D@6d03e736
-pb is : [D@6d03e736
-pb is : [D@6d03e736
-nope1.7976931348623157E308
-pb is : [D@568db2f2
-pb is : [D@568db2f2
-pb is : [D@568db2f2
-pb is : [D@568db2f2
-pb is : [D@568db2f2
-nope1.7976931348623157E308
-pb is : [D@378bf509
-pb is : [D@378bf509
-pb is : [D@378bf509
-pb is : [D@378bf509
-pb is : [D@378bf509
-nope1.7976931348623157E308
-pb is : [D@5fd0d5ae
-pb is : [D@5fd0d5ae
-pb is : [D@5fd0d5ae
-pb is : [D@5fd0d5ae
-pb is : [D@5fd0d5ae
-nope1.7976931348623157E308
-pb is : [D@2d98a335
-pb is : [D@2d98a335
-pb is : [D@2d98a335
-pb is : [D@2d98a335
-pb is : [D@2d98a335
-nope1.7976931348623157E308
-pb is : [D@16b98e56
-pb is : [D@16b98e56
-pb is : [D@16b98e56
-pb is : [D@16b98e56
-pb is : [D@16b98e56
-nope1.7976931348623157E308
-pb is : [D@7ef20235
-pb is : [D@7ef20235
-pb is : [D@7ef20235
-pb is : [D@7ef20235
-pb is : [D@7ef20235
-nope1.7976931348623157E308
-pb is : [D@27d6c5e0
-pb is : [D@27d6c5e0
-pb is : [D@27d6c5e0
-pb is : [D@27d6c5e0
-pb is : [D@27d6c5e0
-nope1.7976931348623157E308
-pb is : [D@4f3f5b24
-pb is : [D@4f3f5b24
-pb is : [D@4f3f5b24
-pb is : [D@4f3f5b24
-pb is : [D@4f3f5b24
-nope1.7976931348623157E308
-pb is : [D@15aeb7ab
-pb is : [D@15aeb7ab
-pb is : [D@15aeb7ab
-pb is : [D@15aeb7ab
-pb is : [D@15aeb7ab
-nope1.7976931348623157E308
-pb is : [D@7b23ec81
-pb is : [D@7b23ec81
-pb is : [D@7b23ec81
-pb is : [D@7b23ec81
-pb is : [D@7b23ec81
-nope1.7976931348623157E308
-pb is : [D@6acbcfc0
-pb is : [D@6acbcfc0
-pb is : [D@6acbcfc0
-pb is : [D@6acbcfc0
-pb is : [D@6acbcfc0
-nope1.7976931348623157E308
-pb is : [D@5f184fc6
-pb is : [D@5f184fc6
-pb is : [D@5f184fc6
-pb is : [D@5f184fc6
-pb is : [D@5f184fc6
-nope1.7976931348623157E308
-pb is : [D@448139f0
-pb is : [D@448139f0
-pb is : [D@448139f0
-pb is : [D@448139f0
-pb is : [D@448139f0
-nope1.7976931348623157E308
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-nope1.7976931348623157E308
-pb is : [D@7ba4f24f
-pb is : [D@7ba4f24f
-pb is : [D@7ba4f24f
-pb is : [D@7ba4f24f
-pb is : [D@7ba4f24f
-nope1.7976931348623157E308
-pb is : [D@3b9a45b3
-pb is : [D@3b9a45b3
-pb is : [D@3b9a45b3
-pb is : [D@3b9a45b3
-pb is : [D@3b9a45b3
-nope1.7976931348623157E308
-pb is : [D@7699a589
-pb is : [D@7699a589
-pb is : [D@7699a589
-pb is : [D@7699a589
-pb is : [D@7699a589
-nope1.7976931348623157E308
-pb is : [D@58372a00
-pb is : [D@58372a00
-pb is : [D@58372a00
-pb is : [D@58372a00
-pb is : [D@58372a00
-nope1.7976931348623157E308
-pb is : [D@4dd8dc3
-pb is : [D@4dd8dc3
-pb is : [D@4dd8dc3
-pb is : [D@4dd8dc3
-pb is : [D@4dd8dc3
-nope1.7976931348623157E308
-pb is : [D@6d03e736
-pb is : [D@6d03e736
-pb is : [D@6d03e736
-pb is : [D@6d03e736
-pb is : [D@6d03e736
-nope1.7976931348623157E308
-pb is : [D@568db2f2
-pb is : [D@568db2f2
-pb is : [D@568db2f2
-pb is : [D@568db2f2
-pb is : [D@568db2f2
-nope1.7976931348623157E308
-pb is : [D@378bf509
-pb is : [D@378bf509
-pb is : [D@378bf509
-pb is : [D@378bf509
-pb is : [D@378bf509
-nope1.7976931348623157E308
-pb is : [D@5fd0d5ae
-pb is : [D@5fd0d5ae
-pb is : [D@5fd0d5ae
-pb is : [D@5fd0d5ae
-pb is : [D@5fd0d5ae
-nope1.7976931348623157E308
-pb is : [D@2d98a335
-pb is : [D@2d98a335
-pb is : [D@2d98a335
-pb is : [D@2d98a335
-pb is : [D@2d98a335
-nope1.7976931348623157E308
-pb is : [D@16b98e56
-pb is : [D@16b98e56
-pb is : [D@16b98e56
-pb is : [D@16b98e56
-pb is : [D@16b98e56
-nope1.7976931348623157E308
-pb is : [D@7ef20235
-pb is : [D@7ef20235
-pb is : [D@7ef20235
-pb is : [D@7ef20235
-pb is : [D@7ef20235
-nope1.7976931348623157E308
-pb is : [D@27d6c5e0
-pb is : [D@27d6c5e0
-pb is : [D@27d6c5e0
-pb is : [D@27d6c5e0
-pb is : [D@27d6c5e0
-nope1.7976931348623157E308
-pb is : [D@4f3f5b24
-pb is : [D@4f3f5b24
-pb is : [D@4f3f5b24
-pb is : [D@4f3f5b24
-pb is : [D@4f3f5b24
-nope1.7976931348623157E308
-pb is : [D@15aeb7ab
-pb is : [D@15aeb7ab
-pb is : [D@15aeb7ab
-pb is : [D@15aeb7ab
-pb is : [D@15aeb7ab
-nope1.7976931348623157E308
-pb is : [D@7b23ec81
-pb is : [D@7b23ec81
-pb is : [D@7b23ec81
-pb is : [D@7b23ec81
-pb is : [D@7b23ec81
-nope1.7976931348623157E308
-pb is : [D@6acbcfc0
-pb is : [D@6acbcfc0
-pb is : [D@6acbcfc0
-pb is : [D@6acbcfc0
-pb is : [D@6acbcfc0
-nope1.7976931348623157E308
-pb is : [D@5f184fc6
-pb is : [D@5f184fc6
-pb is : [D@5f184fc6
-pb is : [D@5f184fc6
-pb is : [D@5f184fc6
-nope1.7976931348623157E308
-pb is : [D@448139f0
-pb is : [D@448139f0
-pb is : [D@448139f0
-pb is : [D@448139f0
-pb is : [D@448139f0
-nope1.7976931348623157E308
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-nope1.7976931348623157E308
-pb is : [D@7ba4f24f
-pb is : [D@7ba4f24f
-pb is : [D@7ba4f24f
-pb is : [D@7ba4f24f
-pb is : [D@7ba4f24f
-nope1.7976931348623157E308
-pb is : [D@3b9a45b3
-pb is : [D@3b9a45b3
-pb is : [D@3b9a45b3
-pb is : [D@3b9a45b3
-pb is : [D@3b9a45b3
-nope1.7976931348623157E308
-pb is : [D@7699a589
-pb is : [D@7699a589
-pb is : [D@7699a589
-pb is : [D@7699a589
-pb is : [D@7699a589
-nope1.7976931348623157E308
-pb is : [D@58372a00
-pb is : [D@58372a00
-pb is : [D@58372a00
-pb is : [D@58372a00
-pb is : [D@58372a00
-nope1.7976931348623157E308
-pb is : [D@4dd8dc3
-pb is : [D@4dd8dc3
-pb is : [D@4dd8dc3
-pb is : [D@4dd8dc3
-pb is : [D@4dd8dc3
-nope1.7976931348623157E308
-pb is : [D@6d03e736
-pb is : [D@6d03e736
-pb is : [D@6d03e736
-pb is : [D@6d03e736
-pb is : [D@6d03e736
-nope1.7976931348623157E308
-pb is : [D@568db2f2
-pb is : [D@568db2f2
-pb is : [D@568db2f2
-pb is : [D@568db2f2
-pb is : [D@568db2f2
-nope1.7976931348623157E308
-pb is : [D@378bf509
-pb is : [D@378bf509
-pb is : [D@378bf509
-pb is : [D@378bf509
-pb is : [D@378bf509
-nope1.7976931348623157E308
-pb is : [D@5fd0d5ae
-pb is : [D@5fd0d5ae
-pb is : [D@5fd0d5ae
-pb is : [D@5fd0d5ae
-pb is : [D@5fd0d5ae
-nope1.7976931348623157E308
-pb is : [D@2d98a335
-pb is : [D@2d98a335
-pb is : [D@2d98a335
-pb is : [D@2d98a335
-pb is : [D@2d98a335
-nope1.7976931348623157E308
-pb is : [D@16b98e56
-pb is : [D@16b98e56
-pb is : [D@16b98e56
-pb is : [D@16b98e56
-pb is : [D@16b98e56
-nope1.7976931348623157E308
-pb is : [D@7ef20235
-pb is : [D@7ef20235
-pb is : [D@7ef20235
-pb is : [D@7ef20235
-pb is : [D@7ef20235
-nope1.7976931348623157E308
-pb is : [D@27d6c5e0
-pb is : [D@27d6c5e0
-pb is : [D@27d6c5e0
-pb is : [D@27d6c5e0
-pb is : [D@27d6c5e0
-nope1.7976931348623157E308
-pb is : [D@4f3f5b24
-pb is : [D@4f3f5b24
-pb is : [D@4f3f5b24
-pb is : [D@4f3f5b24
-pb is : [D@4f3f5b24
-nope1.7976931348623157E308
-pb is : [D@15aeb7ab
-pb is : [D@15aeb7ab
-pb is : [D@15aeb7ab
-pb is : [D@15aeb7ab
-pb is : [D@15aeb7ab
-nope1.7976931348623157E308
-pb is : [D@7b23ec81
-pb is : [D@7b23ec81
-pb is : [D@7b23ec81
-pb is : [D@7b23ec81
-pb is : [D@7b23ec81
-nope1.7976931348623157E308
-pb is : [D@6acbcfc0
-pb is : [D@6acbcfc0
-pb is : [D@6acbcfc0
-pb is : [D@6acbcfc0
-pb is : [D@6acbcfc0
-nope1.7976931348623157E308
-pb is : [D@5f184fc6
-pb is : [D@5f184fc6
-pb is : [D@5f184fc6
-pb is : [D@5f184fc6
-pb is : [D@5f184fc6
-nope1.7976931348623157E308
-pb is : [D@448139f0
-pb is : [D@448139f0
-pb is : [D@448139f0
-pb is : [D@448139f0
-pb is : [D@448139f0
-nope1.7976931348623157E308
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-nope1.7976931348623157E308
-pb is : [D@7ba4f24f
-pb is : [D@7ba4f24f
-pb is : [D@7ba4f24f
-pb is : [D@7ba4f24f
-pb is : [D@7ba4f24f
-nope1.7976931348623157E308
-pb is : [D@3b9a45b3
-pb is : [D@3b9a45b3
-pb is : [D@3b9a45b3
-pb is : [D@3b9a45b3
-pb is : [D@3b9a45b3
-nope1.7976931348623157E308
-pb is : [D@7699a589
-pb is : [D@7699a589
-pb is : [D@7699a589
-pb is : [D@7699a589
-pb is : [D@7699a589
-nope1.7976931348623157E308
-pb is : [D@58372a00
-pb is : [D@58372a00
-pb is : [D@58372a00
-pb is : [D@58372a00
-pb is : [D@58372a00
-nope1.7976931348623157E308
-pb is : [D@4dd8dc3
-pb is : [D@4dd8dc3
-pb is : [D@4dd8dc3
-pb is : [D@4dd8dc3
-pb is : [D@4dd8dc3
-nope1.7976931348623157E308
-pb is : [D@6d03e736
-pb is : [D@6d03e736
-pb is : [D@6d03e736
-pb is : [D@6d03e736
-pb is : [D@6d03e736
-nope1.7976931348623157E308
-pb is : [D@568db2f2
-pb is : [D@568db2f2
-pb is : [D@568db2f2
-pb is : [D@568db2f2
-pb is : [D@568db2f2
-nope1.7976931348623157E308
-pb is : [D@378bf509
-pb is : [D@378bf509
-pb is : [D@378bf509
-pb is : [D@378bf509
-pb is : [D@378bf509
-nope1.7976931348623157E308
-pb is : [D@5fd0d5ae
-pb is : [D@5fd0d5ae
-pb is : [D@5fd0d5ae
-pb is : [D@5fd0d5ae
-pb is : [D@5fd0d5ae
-nope1.7976931348623157E308
-pb is : [D@2d98a335
-pb is : [D@2d98a335
-pb is : [D@2d98a335
-pb is : [D@2d98a335
-pb is : [D@2d98a335
-nope1.7976931348623157E308
-pb is : [D@16b98e56
-pb is : [D@16b98e56
-pb is : [D@16b98e56
-pb is : [D@16b98e56
-pb is : [D@16b98e56
-nope1.7976931348623157E308
-pb is : [D@7ef20235
-pb is : [D@7ef20235
-pb is : [D@7ef20235
-pb is : [D@7ef20235
-pb is : [D@7ef20235
-nope1.7976931348623157E308
-pb is : [D@27d6c5e0
-pb is : [D@27d6c5e0
-pb is : [D@27d6c5e0
-pb is : [D@27d6c5e0
-pb is : [D@27d6c5e0
-nope1.7976931348623157E308
-pb is : [D@4f3f5b24
-pb is : [D@4f3f5b24
-pb is : [D@4f3f5b24
-pb is : [D@4f3f5b24
-pb is : [D@4f3f5b24
-nope1.7976931348623157E308
-pb is : [D@15aeb7ab
-pb is : [D@15aeb7ab
-pb is : [D@15aeb7ab
-pb is : [D@15aeb7ab
-pb is : [D@15aeb7ab
-nope1.7976931348623157E308
-pb is : [D@7b23ec81
-pb is : [D@7b23ec81
-pb is : [D@7b23ec81
-pb is : [D@7b23ec81
-pb is : [D@7b23ec81
-nope1.7976931348623157E308
-pb is : [D@6acbcfc0
-pb is : [D@6acbcfc0
-pb is : [D@6acbcfc0
-pb is : [D@6acbcfc0
-pb is : [D@6acbcfc0
-nope1.7976931348623157E308
-pb is : [D@5f184fc6
-pb is : [D@5f184fc6
-pb is : [D@5f184fc6
-pb is : [D@5f184fc6
-pb is : [D@5f184fc6
-nope1.7976931348623157E308
-pb is : [D@448139f0
-pb is : [D@448139f0
-pb is : [D@448139f0
-pb is : [D@448139f0
-pb is : [D@448139f0
-nope1.7976931348623157E308
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-nope1.7976931348623157E308
-pb is : [D@7ba4f24f
-pb is : [D@7ba4f24f
-pb is : [D@7ba4f24f
-pb is : [D@7ba4f24f
-pb is : [D@7ba4f24f
-nope1.7976931348623157E308
-pb is : [D@3b9a45b3
-pb is : [D@3b9a45b3
-pb is : [D@3b9a45b3
-pb is : [D@3b9a45b3
-pb is : [D@3b9a45b3
-nope1.7976931348623157E308
-pb is : [D@7699a589
-pb is : [D@7699a589
-pb is : [D@7699a589
-pb is : [D@7699a589
-pb is : [D@7699a589
-nope1.7976931348623157E308
-pb is : [D@58372a00
-pb is : [D@58372a00
-pb is : [D@58372a00
-pb is : [D@58372a00
-pb is : [D@58372a00
-nope1.7976931348623157E308
-pb is : [D@4dd8dc3
-pb is : [D@4dd8dc3
-pb is : [D@4dd8dc3
-pb is : [D@4dd8dc3
-pb is : [D@4dd8dc3
-nope1.7976931348623157E308
-pb is : [D@6d03e736
-pb is : [D@6d03e736
-pb is : [D@6d03e736
-pb is : [D@6d03e736
-pb is : [D@6d03e736
-nope1.7976931348623157E308
-pb is : [D@568db2f2
-pb is : [D@568db2f2
-pb is : [D@568db2f2
-pb is : [D@568db2f2
-pb is : [D@568db2f2
-nope1.7976931348623157E308
-pb is : [D@378bf509
-pb is : [D@378bf509
-pb is : [D@378bf509
-pb is : [D@378bf509
-pb is : [D@378bf509
-nope1.7976931348623157E308
-pb is : [D@5fd0d5ae
-pb is : [D@5fd0d5ae
-pb is : [D@5fd0d5ae
-pb is : [D@5fd0d5ae
-pb is : [D@5fd0d5ae
-nope1.7976931348623157E308
-pb is : [D@2d98a335
-pb is : [D@2d98a335
-pb is : [D@2d98a335
-pb is : [D@2d98a335
-pb is : [D@2d98a335
-nope1.7976931348623157E308
-pb is : [D@16b98e56
-pb is : [D@16b98e56
-pb is : [D@16b98e56
-pb is : [D@16b98e56
-pb is : [D@16b98e56
-nope1.7976931348623157E308
-pb is : [D@7ef20235
-pb is : [D@7ef20235
-pb is : [D@7ef20235
-pb is : [D@7ef20235
-pb is : [D@7ef20235
-nope1.7976931348623157E308
-pb is : [D@27d6c5e0
-pb is : [D@27d6c5e0
-pb is : [D@27d6c5e0
-pb is : [D@27d6c5e0
-pb is : [D@27d6c5e0
-nope1.7976931348623157E308
-pb is : [D@4f3f5b24
-pb is : [D@4f3f5b24
-pb is : [D@4f3f5b24
-pb is : [D@4f3f5b24
-pb is : [D@4f3f5b24
-nope1.7976931348623157E308
-pb is : [D@15aeb7ab
-pb is : [D@15aeb7ab
-pb is : [D@15aeb7ab
-pb is : [D@15aeb7ab
-pb is : [D@15aeb7ab
-nope1.7976931348623157E308
-pb is : [D@7b23ec81
-pb is : [D@7b23ec81
-pb is : [D@7b23ec81
-pb is : [D@7b23ec81
-pb is : [D@7b23ec81
-nope1.7976931348623157E308
-pb is : [D@6acbcfc0
-pb is : [D@6acbcfc0
-pb is : [D@6acbcfc0
-pb is : [D@6acbcfc0
-pb is : [D@6acbcfc0
-nope1.7976931348623157E308
-pb is : [D@5f184fc6
-pb is : [D@5f184fc6
-pb is : [D@5f184fc6
-pb is : [D@5f184fc6
-pb is : [D@5f184fc6
-nope1.7976931348623157E308
-pb is : [D@448139f0
-pb is : [D@448139f0
-pb is : [D@448139f0
-pb is : [D@448139f0
-pb is : [D@448139f0
-nope1.7976931348623157E308
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-nope1.7976931348623157E308
-pb is : [D@7ba4f24f
-pb is : [D@7ba4f24f
-pb is : [D@7ba4f24f
-pb is : [D@7ba4f24f
-pb is : [D@7ba4f24f
-nope1.7976931348623157E308
-pb is : [D@3b9a45b3
-pb is : [D@3b9a45b3
-pb is : [D@3b9a45b3
-pb is : [D@3b9a45b3
-pb is : [D@3b9a45b3
-nope1.7976931348623157E308
-pb is : [D@7699a589
-pb is : [D@7699a589
-pb is : [D@7699a589
-pb is : [D@7699a589
-pb is : [D@7699a589
-nope1.7976931348623157E308
-pb is : [D@58372a00
-pb is : [D@58372a00
-pb is : [D@58372a00
-pb is : [D@58372a00
-pb is : [D@58372a00
-nope1.7976931348623157E308
-pb is : [D@4dd8dc3
-pb is : [D@4dd8dc3
-pb is : [D@4dd8dc3
-pb is : [D@4dd8dc3
-pb is : [D@4dd8dc3
-nope1.7976931348623157E308
-pb is : [D@6d03e736
-pb is : [D@6d03e736
-pb is : [D@6d03e736
-pb is : [D@6d03e736
-pb is : [D@6d03e736
-nope1.7976931348623157E308
-pb is : [D@568db2f2
-pb is : [D@568db2f2
-pb is : [D@568db2f2
-pb is : [D@568db2f2
-pb is : [D@568db2f2
-nope1.7976931348623157E308
-pb is : [D@378bf509
-pb is : [D@378bf509
-pb is : [D@378bf509
-pb is : [D@378bf509
-pb is : [D@378bf509
-nope1.7976931348623157E308
-pb is : [D@5fd0d5ae
-pb is : [D@5fd0d5ae
-pb is : [D@5fd0d5ae
-pb is : [D@5fd0d5ae
-pb is : [D@5fd0d5ae
-nope1.7976931348623157E308
-pb is : [D@2d98a335
-pb is : [D@2d98a335
-pb is : [D@2d98a335
-pb is : [D@2d98a335
-pb is : [D@2d98a335
-nope1.7976931348623157E308
-pb is : [D@16b98e56
-pb is : [D@16b98e56
-pb is : [D@16b98e56
-pb is : [D@16b98e56
-pb is : [D@16b98e56
-nope1.7976931348623157E308
-pb is : [D@7ef20235
-pb is : [D@7ef20235
-pb is : [D@7ef20235
-pb is : [D@7ef20235
-pb is : [D@7ef20235
-nope1.7976931348623157E308
-pb is : [D@27d6c5e0
-pb is : [D@27d6c5e0
-pb is : [D@27d6c5e0
-pb is : [D@27d6c5e0
-pb is : [D@27d6c5e0
-nope1.7976931348623157E308
-pb is : [D@4f3f5b24
-pb is : [D@4f3f5b24
-pb is : [D@4f3f5b24
-pb is : [D@4f3f5b24
-pb is : [D@4f3f5b24
-nope1.7976931348623157E308
-pb is : [D@15aeb7ab
-pb is : [D@15aeb7ab
-pb is : [D@15aeb7ab
-pb is : [D@15aeb7ab
-pb is : [D@15aeb7ab
-nope1.7976931348623157E308
-pb is : [D@7b23ec81
-pb is : [D@7b23ec81
-pb is : [D@7b23ec81
-pb is : [D@7b23ec81
-pb is : [D@7b23ec81
-nope1.7976931348623157E308
-pb is : [D@6acbcfc0
-pb is : [D@6acbcfc0
-pb is : [D@6acbcfc0
-pb is : [D@6acbcfc0
-pb is : [D@6acbcfc0
-nope1.7976931348623157E308
-pb is : [D@5f184fc6
-pb is : [D@5f184fc6
-pb is : [D@5f184fc6
-pb is : [D@5f184fc6
-pb is : [D@5f184fc6
-nope1.7976931348623157E308
-pb is : [D@448139f0
-pb is : [D@448139f0
-pb is : [D@448139f0
-pb is : [D@448139f0
-pb is : [D@448139f0
-nope1.7976931348623157E308
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-nope1.7976931348623157E308
-pb is : [D@7ba4f24f
-pb is : [D@7ba4f24f
-pb is : [D@7ba4f24f
-pb is : [D@7ba4f24f
-pb is : [D@7ba4f24f
-nope1.7976931348623157E308
-pb is : [D@3b9a45b3
-pb is : [D@3b9a45b3
-pb is : [D@3b9a45b3
-pb is : [D@3b9a45b3
-pb is : [D@3b9a45b3
-nope1.7976931348623157E308
-pb is : [D@7699a589
-pb is : [D@7699a589
-pb is : [D@7699a589
-pb is : [D@7699a589
-pb is : [D@7699a589
-nope1.7976931348623157E308
-pb is : [D@58372a00
-pb is : [D@58372a00
-pb is : [D@58372a00
-pb is : [D@58372a00
-pb is : [D@58372a00
-nope1.7976931348623157E308
-pb is : [D@4dd8dc3
-pb is : [D@4dd8dc3
-pb is : [D@4dd8dc3
-pb is : [D@4dd8dc3
-pb is : [D@4dd8dc3
-nope1.7976931348623157E308
-pb is : [D@6d03e736
-pb is : [D@6d03e736
-pb is : [D@6d03e736
-pb is : [D@6d03e736
-pb is : [D@6d03e736
-nope1.7976931348623157E308
-pb is : [D@568db2f2
-pb is : [D@568db2f2
-pb is : [D@568db2f2
-pb is : [D@568db2f2
-pb is : [D@568db2f2
-nope1.7976931348623157E308
-pb is : [D@378bf509
-pb is : [D@378bf509
-pb is : [D@378bf509
-pb is : [D@378bf509
-pb is : [D@378bf509
-nope1.7976931348623157E308
-pb is : [D@5fd0d5ae
-pb is : [D@5fd0d5ae
-pb is : [D@5fd0d5ae
-pb is : [D@5fd0d5ae
-pb is : [D@5fd0d5ae
-nope1.7976931348623157E308
-pb is : [D@2d98a335
-pb is : [D@2d98a335
-pb is : [D@2d98a335
-pb is : [D@2d98a335
-pb is : [D@2d98a335
-nope1.7976931348623157E308
-pb is : [D@16b98e56
-pb is : [D@16b98e56
-pb is : [D@16b98e56
-pb is : [D@16b98e56
-pb is : [D@16b98e56
-nope1.7976931348623157E308
-pb is : [D@7ef20235
-pb is : [D@7ef20235
-pb is : [D@7ef20235
-pb is : [D@7ef20235
-pb is : [D@7ef20235
-nope1.7976931348623157E308
-pb is : [D@27d6c5e0
-pb is : [D@27d6c5e0
-pb is : [D@27d6c5e0
-pb is : [D@27d6c5e0
-pb is : [D@27d6c5e0
-nope1.7976931348623157E308
-pb is : [D@4f3f5b24
-pb is : [D@4f3f5b24
-pb is : [D@4f3f5b24
-pb is : [D@4f3f5b24
-pb is : [D@4f3f5b24
-nope1.7976931348623157E308
-pb is : [D@15aeb7ab
-pb is : [D@15aeb7ab
-pb is : [D@15aeb7ab
-pb is : [D@15aeb7ab
-pb is : [D@15aeb7ab
-nope1.7976931348623157E308
-pb is : [D@7b23ec81
-pb is : [D@7b23ec81
-pb is : [D@7b23ec81
-pb is : [D@7b23ec81
-pb is : [D@7b23ec81
-nope1.7976931348623157E308
-pb is : [D@6acbcfc0
-pb is : [D@6acbcfc0
-pb is : [D@6acbcfc0
-pb is : [D@6acbcfc0
-pb is : [D@6acbcfc0
-nope1.7976931348623157E308
-pb is : [D@5f184fc6
-pb is : [D@5f184fc6
-pb is : [D@5f184fc6
-pb is : [D@5f184fc6
-pb is : [D@5f184fc6
-nope1.7976931348623157E308
-pb is : [D@448139f0
-pb is : [D@448139f0
-pb is : [D@448139f0
-pb is : [D@448139f0
-pb is : [D@448139f0
-nope1.7976931348623157E308
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-nope1.7976931348623157E308
-pb is : [D@7ba4f24f
-pb is : [D@7ba4f24f
-pb is : [D@7ba4f24f
-pb is : [D@7ba4f24f
-pb is : [D@7ba4f24f
-nope1.7976931348623157E308
-pb is : [D@3b9a45b3
-pb is : [D@3b9a45b3
-pb is : [D@3b9a45b3
-pb is : [D@3b9a45b3
-pb is : [D@3b9a45b3
-nope1.7976931348623157E308
-pb is : [D@7699a589
-pb is : [D@7699a589
-pb is : [D@7699a589
-pb is : [D@7699a589
-pb is : [D@7699a589
-nope1.7976931348623157E308
-pb is : [D@58372a00
-pb is : [D@58372a00
-pb is : [D@58372a00
-pb is : [D@58372a00
-pb is : [D@58372a00
-nope1.7976931348623157E308
-pb is : [D@4dd8dc3
-pb is : [D@4dd8dc3
-pb is : [D@4dd8dc3
-pb is : [D@4dd8dc3
-pb is : [D@4dd8dc3
-nope1.7976931348623157E308
-pb is : [D@6d03e736
-pb is : [D@6d03e736
-pb is : [D@6d03e736
-pb is : [D@6d03e736
-pb is : [D@6d03e736
-nope1.7976931348623157E308
-pb is : [D@568db2f2
-pb is : [D@568db2f2
-pb is : [D@568db2f2
-pb is : [D@568db2f2
-pb is : [D@568db2f2
-nope1.7976931348623157E308
-pb is : [D@378bf509
-pb is : [D@378bf509
-pb is : [D@378bf509
-pb is : [D@378bf509
-pb is : [D@378bf509
-nope1.7976931348623157E308
-pb is : [D@5fd0d5ae
-pb is : [D@5fd0d5ae
-pb is : [D@5fd0d5ae
-pb is : [D@5fd0d5ae
-pb is : [D@5fd0d5ae
-nope1.7976931348623157E308
-pb is : [D@2d98a335
-pb is : [D@2d98a335
-pb is : [D@2d98a335
-pb is : [D@2d98a335
-pb is : [D@2d98a335
-nope1.7976931348623157E308
-pb is : [D@16b98e56
-pb is : [D@16b98e56
-pb is : [D@16b98e56
-pb is : [D@16b98e56
-pb is : [D@16b98e56
-nope1.7976931348623157E308
-pb is : [D@7ef20235
-pb is : [D@7ef20235
-pb is : [D@7ef20235
-pb is : [D@7ef20235
-pb is : [D@7ef20235
-nope1.7976931348623157E308
-pb is : [D@27d6c5e0
-pb is : [D@27d6c5e0
-pb is : [D@27d6c5e0
-pb is : [D@27d6c5e0
-pb is : [D@27d6c5e0
-nope1.7976931348623157E308
-pb is : [D@4f3f5b24
-pb is : [D@4f3f5b24
-pb is : [D@4f3f5b24
-pb is : [D@4f3f5b24
-pb is : [D@4f3f5b24
-nope1.7976931348623157E308
-pb is : [D@15aeb7ab
-pb is : [D@15aeb7ab
-pb is : [D@15aeb7ab
-pb is : [D@15aeb7ab
-pb is : [D@15aeb7ab
-nope1.7976931348623157E308
-pb is : [D@7b23ec81
-pb is : [D@7b23ec81
-pb is : [D@7b23ec81
-pb is : [D@7b23ec81
-pb is : [D@7b23ec81
-nope1.7976931348623157E308
-pb is : [D@6acbcfc0
-pb is : [D@6acbcfc0
-pb is : [D@6acbcfc0
-pb is : [D@6acbcfc0
-pb is : [D@6acbcfc0
-nope1.7976931348623157E308
-pb is : [D@5f184fc6
-pb is : [D@5f184fc6
-pb is : [D@5f184fc6
-pb is : [D@5f184fc6
-pb is : [D@5f184fc6
-nope1.7976931348623157E308
-pb is : [D@448139f0
-pb is : [D@448139f0
-pb is : [D@448139f0
-pb is : [D@448139f0
-pb is : [D@448139f0
-nope1.7976931348623157E308
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-nope1.7976931348623157E308
-pb is : [D@7ba4f24f
-pb is : [D@7ba4f24f
-pb is : [D@7ba4f24f
-pb is : [D@7ba4f24f
-pb is : [D@7ba4f24f
-nope1.7976931348623157E308
-pb is : [D@3b9a45b3
-pb is : [D@3b9a45b3
-pb is : [D@3b9a45b3
-pb is : [D@3b9a45b3
-pb is : [D@3b9a45b3
-nope1.7976931348623157E308
-pb is : [D@7699a589
-pb is : [D@7699a589
-pb is : [D@7699a589
-pb is : [D@7699a589
-pb is : [D@7699a589
-nope1.7976931348623157E308
-pb is : [D@58372a00
-pb is : [D@58372a00
-pb is : [D@58372a00
-pb is : [D@58372a00
-pb is : [D@58372a00
-nope1.7976931348623157E308
-pb is : [D@4dd8dc3
-pb is : [D@4dd8dc3
-pb is : [D@4dd8dc3
-pb is : [D@4dd8dc3
-pb is : [D@4dd8dc3
-nope1.7976931348623157E308
-pb is : [D@6d03e736
-pb is : [D@6d03e736
-pb is : [D@6d03e736
-pb is : [D@6d03e736
-pb is : [D@6d03e736
-nope1.7976931348623157E308
-pb is : [D@568db2f2
-pb is : [D@568db2f2
-pb is : [D@568db2f2
-pb is : [D@568db2f2
-pb is : [D@568db2f2
-nope1.7976931348623157E308
-pb is : [D@378bf509
-pb is : [D@378bf509
-pb is : [D@378bf509
-pb is : [D@378bf509
-pb is : [D@378bf509
-nope1.7976931348623157E308
-pb is : [D@5fd0d5ae
-pb is : [D@5fd0d5ae
-pb is : [D@5fd0d5ae
-pb is : [D@5fd0d5ae
-pb is : [D@5fd0d5ae
-nope1.7976931348623157E308
-pb is : [D@2d98a335
-pb is : [D@2d98a335
-pb is : [D@2d98a335
-pb is : [D@2d98a335
-pb is : [D@2d98a335
-nope1.7976931348623157E308
-pb is : [D@16b98e56
-pb is : [D@16b98e56
-pb is : [D@16b98e56
-pb is : [D@16b98e56
-pb is : [D@16b98e56
-nope1.7976931348623157E308
-pb is : [D@7ef20235
-pb is : [D@7ef20235
-pb is : [D@7ef20235
-pb is : [D@7ef20235
-pb is : [D@7ef20235
-nope1.7976931348623157E308
-pb is : [D@27d6c5e0
-pb is : [D@27d6c5e0
-pb is : [D@27d6c5e0
-pb is : [D@27d6c5e0
-pb is : [D@27d6c5e0
-nope1.7976931348623157E308
-pb is : [D@4f3f5b24
-pb is : [D@4f3f5b24
-pb is : [D@4f3f5b24
-pb is : [D@4f3f5b24
-pb is : [D@4f3f5b24
-nope1.7976931348623157E308
-pb is : [D@15aeb7ab
-pb is : [D@15aeb7ab
-pb is : [D@15aeb7ab
-pb is : [D@15aeb7ab
-pb is : [D@15aeb7ab
-nope1.7976931348623157E308
-pb is : [D@7b23ec81
-pb is : [D@7b23ec81
-pb is : [D@7b23ec81
-pb is : [D@7b23ec81
-pb is : [D@7b23ec81
-nope1.7976931348623157E308
-pb is : [D@6acbcfc0
-pb is : [D@6acbcfc0
-pb is : [D@6acbcfc0
-pb is : [D@6acbcfc0
-pb is : [D@6acbcfc0
-nope1.7976931348623157E308
-pb is : [D@5f184fc6
-pb is : [D@5f184fc6
-pb is : [D@5f184fc6
-pb is : [D@5f184fc6
-pb is : [D@5f184fc6
-nope1.7976931348623157E308
-pb is : [D@448139f0
-pb is : [D@448139f0
-pb is : [D@448139f0
-pb is : [D@448139f0
-pb is : [D@448139f0
-nope1.7976931348623157E308
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-nope1.7976931348623157E308
-pb is : [D@7ba4f24f
-pb is : [D@7ba4f24f
-pb is : [D@7ba4f24f
-pb is : [D@7ba4f24f
-pb is : [D@7ba4f24f
-nope1.7976931348623157E308
-pb is : [D@3b9a45b3
-pb is : [D@3b9a45b3
-pb is : [D@3b9a45b3
-pb is : [D@3b9a45b3
-pb is : [D@3b9a45b3
-nope1.7976931348623157E308
-pb is : [D@7699a589
-pb is : [D@7699a589
-pb is : [D@7699a589
-pb is : [D@7699a589
-pb is : [D@7699a589
-nope1.7976931348623157E308
-pb is : [D@58372a00
-pb is : [D@58372a00
-pb is : [D@58372a00
-pb is : [D@58372a00
-pb is : [D@58372a00
-nope1.7976931348623157E308
-pb is : [D@4dd8dc3
-pb is : [D@4dd8dc3
-pb is : [D@4dd8dc3
-pb is : [D@4dd8dc3
-pb is : [D@4dd8dc3
-nope1.7976931348623157E308
-pb is : [D@6d03e736
-pb is : [D@6d03e736
-pb is : [D@6d03e736
-pb is : [D@6d03e736
-pb is : [D@6d03e736
-nope1.7976931348623157E308
-pb is : [D@568db2f2
-pb is : [D@568db2f2
-pb is : [D@568db2f2
-pb is : [D@568db2f2
-pb is : [D@568db2f2
-nope1.7976931348623157E308
-pb is : [D@378bf509
-pb is : [D@378bf509
-pb is : [D@378bf509
-pb is : [D@378bf509
-pb is : [D@378bf509
-nope1.7976931348623157E308
-pb is : [D@5fd0d5ae
-pb is : [D@5fd0d5ae
-pb is : [D@5fd0d5ae
-pb is : [D@5fd0d5ae
-pb is : [D@5fd0d5ae
-nope1.7976931348623157E308
-pb is : [D@2d98a335
-pb is : [D@2d98a335
-pb is : [D@2d98a335
-pb is : [D@2d98a335
-pb is : [D@2d98a335
-nope1.7976931348623157E308
-pb is : [D@16b98e56
-pb is : [D@16b98e56
-pb is : [D@16b98e56
-pb is : [D@16b98e56
-pb is : [D@16b98e56
-nope1.7976931348623157E308
-pb is : [D@7ef20235
-pb is : [D@7ef20235
-pb is : [D@7ef20235
-pb is : [D@7ef20235
-pb is : [D@7ef20235
-nope1.7976931348623157E308
-pb is : [D@27d6c5e0
-pb is : [D@27d6c5e0
-pb is : [D@27d6c5e0
-pb is : [D@27d6c5e0
-pb is : [D@27d6c5e0
-nope1.7976931348623157E308
-pb is : [D@4f3f5b24
-pb is : [D@4f3f5b24
-pb is : [D@4f3f5b24
-pb is : [D@4f3f5b24
-pb is : [D@4f3f5b24
-nope1.7976931348623157E308
-pb is : [D@15aeb7ab
-pb is : [D@15aeb7ab
-pb is : [D@15aeb7ab
-pb is : [D@15aeb7ab
-pb is : [D@15aeb7ab
-nope1.7976931348623157E308
-pb is : [D@7b23ec81
-pb is : [D@7b23ec81
-pb is : [D@7b23ec81
-pb is : [D@7b23ec81
-pb is : [D@7b23ec81
-nope1.7976931348623157E308
-pb is : [D@6acbcfc0
-pb is : [D@6acbcfc0
-pb is : [D@6acbcfc0
-pb is : [D@6acbcfc0
-pb is : [D@6acbcfc0
-nope1.7976931348623157E308
-pb is : [D@5f184fc6
-pb is : [D@5f184fc6
-pb is : [D@5f184fc6
-pb is : [D@5f184fc6
-pb is : [D@5f184fc6
-nope1.7976931348623157E308
-pb is : [D@448139f0
-pb is : [D@448139f0
-pb is : [D@448139f0
-pb is : [D@448139f0
-pb is : [D@448139f0
-nope1.7976931348623157E308
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-nope1.7976931348623157E308
-pb is : [D@7ba4f24f
-pb is : [D@7ba4f24f
-pb is : [D@7ba4f24f
-pb is : [D@7ba4f24f
-pb is : [D@7ba4f24f
-nope1.7976931348623157E308
-pb is : [D@3b9a45b3
-pb is : [D@3b9a45b3
-pb is : [D@3b9a45b3
-pb is : [D@3b9a45b3
-pb is : [D@3b9a45b3
-nope1.7976931348623157E308
-pb is : [D@7699a589
-pb is : [D@7699a589
-pb is : [D@7699a589
-pb is : [D@7699a589
-pb is : [D@7699a589
-nope1.7976931348623157E308
-pb is : [D@58372a00
-pb is : [D@58372a00
-pb is : [D@58372a00
-pb is : [D@58372a00
-pb is : [D@58372a00
-nope1.7976931348623157E308
-pb is : [D@4dd8dc3
-pb is : [D@4dd8dc3
-pb is : [D@4dd8dc3
-pb is : [D@4dd8dc3
-pb is : [D@4dd8dc3
-nope1.7976931348623157E308
-pb is : [D@6d03e736
-pb is : [D@6d03e736
-pb is : [D@6d03e736
-pb is : [D@6d03e736
-pb is : [D@6d03e736
-nope1.7976931348623157E308
-pb is : [D@568db2f2
-pb is : [D@568db2f2
-pb is : [D@568db2f2
-pb is : [D@568db2f2
-pb is : [D@568db2f2
-nope1.7976931348623157E308
-pb is : [D@378bf509
-pb is : [D@378bf509
-pb is : [D@378bf509
-pb is : [D@378bf509
-pb is : [D@378bf509
-nope1.7976931348623157E308
-pb is : [D@5fd0d5ae
-pb is : [D@5fd0d5ae
-pb is : [D@5fd0d5ae
-pb is : [D@5fd0d5ae
-pb is : [D@5fd0d5ae
-nope1.7976931348623157E308
-pb is : [D@2d98a335
-pb is : [D@2d98a335
-pb is : [D@2d98a335
-pb is : [D@2d98a335
-pb is : [D@2d98a335
-nope1.7976931348623157E308
-pb is : [D@16b98e56
-pb is : [D@16b98e56
-pb is : [D@16b98e56
-pb is : [D@16b98e56
-pb is : [D@16b98e56
-nope1.7976931348623157E308
-pb is : [D@7ef20235
-pb is : [D@7ef20235
-pb is : [D@7ef20235
-pb is : [D@7ef20235
-pb is : [D@7ef20235
-nope1.7976931348623157E308
-pb is : [D@27d6c5e0
-pb is : [D@27d6c5e0
-pb is : [D@27d6c5e0
-pb is : [D@27d6c5e0
-pb is : [D@27d6c5e0
-nope1.7976931348623157E308
-pb is : [D@4f3f5b24
-pb is : [D@4f3f5b24
-pb is : [D@4f3f5b24
-pb is : [D@4f3f5b24
-pb is : [D@4f3f5b24
-nope1.7976931348623157E308
-pb is : [D@15aeb7ab
-pb is : [D@15aeb7ab
-pb is : [D@15aeb7ab
-pb is : [D@15aeb7ab
-pb is : [D@15aeb7ab
-nope1.7976931348623157E308
-pb is : [D@7b23ec81
-pb is : [D@7b23ec81
-pb is : [D@7b23ec81
-pb is : [D@7b23ec81
-pb is : [D@7b23ec81
-nope1.7976931348623157E308
-pb is : [D@6acbcfc0
-pb is : [D@6acbcfc0
-pb is : [D@6acbcfc0
-pb is : [D@6acbcfc0
-pb is : [D@6acbcfc0
-nope1.7976931348623157E308
-pb is : [D@5f184fc6
-pb is : [D@5f184fc6
-pb is : [D@5f184fc6
-pb is : [D@5f184fc6
-pb is : [D@5f184fc6
-nope1.7976931348623157E308
-pb is : [D@448139f0
-pb is : [D@448139f0
-pb is : [D@448139f0
-pb is : [D@448139f0
-pb is : [D@448139f0
-nope1.7976931348623157E308
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-nope1.7976931348623157E308
-pb is : [D@7ba4f24f
-pb is : [D@7ba4f24f
-pb is : [D@7ba4f24f
-pb is : [D@7ba4f24f
-pb is : [D@7ba4f24f
-nope1.7976931348623157E308
-pb is : [D@3b9a45b3
-pb is : [D@3b9a45b3
-pb is : [D@3b9a45b3
-pb is : [D@3b9a45b3
-pb is : [D@3b9a45b3
-nope1.7976931348623157E308
-pb is : [D@7699a589
-pb is : [D@7699a589
-pb is : [D@7699a589
-pb is : [D@7699a589
-pb is : [D@7699a589
-nope1.7976931348623157E308
-pb is : [D@58372a00
-pb is : [D@58372a00
-pb is : [D@58372a00
-pb is : [D@58372a00
-pb is : [D@58372a00
-nope1.7976931348623157E308
-pb is : [D@4dd8dc3
-pb is : [D@4dd8dc3
-pb is : [D@4dd8dc3
-pb is : [D@4dd8dc3
-pb is : [D@4dd8dc3
-nope1.7976931348623157E308
-pb is : [D@6d03e736
-pb is : [D@6d03e736
-pb is : [D@6d03e736
-pb is : [D@6d03e736
-pb is : [D@6d03e736
-nope1.7976931348623157E308
-pb is : [D@568db2f2
-pb is : [D@568db2f2
-pb is : [D@568db2f2
-pb is : [D@568db2f2
-pb is : [D@568db2f2
-nope1.7976931348623157E308
-pb is : [D@378bf509
-pb is : [D@378bf509
-pb is : [D@378bf509
-pb is : [D@378bf509
-pb is : [D@378bf509
-nope1.7976931348623157E308
-pb is : [D@5fd0d5ae
-pb is : [D@5fd0d5ae
-pb is : [D@5fd0d5ae
-pb is : [D@5fd0d5ae
-pb is : [D@5fd0d5ae
-nope1.7976931348623157E308
-pb is : [D@2d98a335
-pb is : [D@2d98a335
-pb is : [D@2d98a335
-pb is : [D@2d98a335
-pb is : [D@2d98a335
-nope1.7976931348623157E308
-pb is : [D@16b98e56
-pb is : [D@16b98e56
-pb is : [D@16b98e56
-pb is : [D@16b98e56
-pb is : [D@16b98e56
-nope1.7976931348623157E308
-pb is : [D@7ef20235
-pb is : [D@7ef20235
-pb is : [D@7ef20235
-pb is : [D@7ef20235
-pb is : [D@7ef20235
-nope1.7976931348623157E308
-pb is : [D@27d6c5e0
-pb is : [D@27d6c5e0
-pb is : [D@27d6c5e0
-pb is : [D@27d6c5e0
-pb is : [D@27d6c5e0
-nope1.7976931348623157E308
-pb is : [D@4f3f5b24
-pb is : [D@4f3f5b24
-pb is : [D@4f3f5b24
-pb is : [D@4f3f5b24
-pb is : [D@4f3f5b24
-nope1.7976931348623157E308
-pb is : [D@15aeb7ab
-pb is : [D@15aeb7ab
-pb is : [D@15aeb7ab
-pb is : [D@15aeb7ab
-pb is : [D@15aeb7ab
-nope1.7976931348623157E308
-pb is : [D@7b23ec81
-pb is : [D@7b23ec81
-pb is : [D@7b23ec81
-pb is : [D@7b23ec81
-pb is : [D@7b23ec81
-nope1.7976931348623157E308
-pb is : [D@6acbcfc0
-pb is : [D@6acbcfc0
-pb is : [D@6acbcfc0
-pb is : [D@6acbcfc0
-pb is : [D@6acbcfc0
-nope1.7976931348623157E308
-pb is : [D@5f184fc6
-pb is : [D@5f184fc6
-pb is : [D@5f184fc6
-pb is : [D@5f184fc6
-pb is : [D@5f184fc6
-nope1.7976931348623157E308
-pb is : [D@448139f0
-pb is : [D@448139f0
-pb is : [D@448139f0
-pb is : [D@448139f0
-pb is : [D@448139f0
-nope1.7976931348623157E308
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-nope1.7976931348623157E308
-pb is : [D@7ba4f24f
-pb is : [D@7ba4f24f
-pb is : [D@7ba4f24f
-pb is : [D@7ba4f24f
-pb is : [D@7ba4f24f
-nope1.7976931348623157E308
-pb is : [D@3b9a45b3
-pb is : [D@3b9a45b3
-pb is : [D@3b9a45b3
-pb is : [D@3b9a45b3
-pb is : [D@3b9a45b3
-nope1.7976931348623157E308
-pb is : [D@7699a589
-pb is : [D@7699a589
-pb is : [D@7699a589
-pb is : [D@7699a589
-pb is : [D@7699a589
-nope1.7976931348623157E308
-pb is : [D@58372a00
-pb is : [D@58372a00
-pb is : [D@58372a00
-pb is : [D@58372a00
-pb is : [D@58372a00
-nope1.7976931348623157E308
-pb is : [D@4dd8dc3
-pb is : [D@4dd8dc3
-pb is : [D@4dd8dc3
-pb is : [D@4dd8dc3
-pb is : [D@4dd8dc3
-nope1.7976931348623157E308
-pb is : [D@6d03e736
-pb is : [D@6d03e736
-pb is : [D@6d03e736
-pb is : [D@6d03e736
-pb is : [D@6d03e736
-nope1.7976931348623157E308
-pb is : [D@568db2f2
-pb is : [D@568db2f2
-pb is : [D@568db2f2
-pb is : [D@568db2f2
-pb is : [D@568db2f2
-nope1.7976931348623157E308
-pb is : [D@378bf509
-pb is : [D@378bf509
-pb is : [D@378bf509
-pb is : [D@378bf509
-pb is : [D@378bf509
-nope1.7976931348623157E308
-pb is : [D@5fd0d5ae
-pb is : [D@5fd0d5ae
-pb is : [D@5fd0d5ae
-pb is : [D@5fd0d5ae
-pb is : [D@5fd0d5ae
-nope1.7976931348623157E308
-pb is : [D@2d98a335
-pb is : [D@2d98a335
-pb is : [D@2d98a335
-pb is : [D@2d98a335
-pb is : [D@2d98a335
-nope1.7976931348623157E308
-pb is : [D@16b98e56
-pb is : [D@16b98e56
-pb is : [D@16b98e56
-pb is : [D@16b98e56
-pb is : [D@16b98e56
-nope1.7976931348623157E308
-pb is : [D@7ef20235
-pb is : [D@7ef20235
-pb is : [D@7ef20235
-pb is : [D@7ef20235
-pb is : [D@7ef20235
-nope1.7976931348623157E308
-pb is : [D@27d6c5e0
-pb is : [D@27d6c5e0
-pb is : [D@27d6c5e0
-pb is : [D@27d6c5e0
-pb is : [D@27d6c5e0
-nope1.7976931348623157E308
-pb is : [D@4f3f5b24
-pb is : [D@4f3f5b24
-pb is : [D@4f3f5b24
-pb is : [D@4f3f5b24
-pb is : [D@4f3f5b24
-nope1.7976931348623157E308
-pb is : [D@15aeb7ab
-pb is : [D@15aeb7ab
-pb is : [D@15aeb7ab
-pb is : [D@15aeb7ab
-pb is : [D@15aeb7ab
-nope1.7976931348623157E308
-pb is : [D@7b23ec81
-pb is : [D@7b23ec81
-pb is : [D@7b23ec81
-pb is : [D@7b23ec81
-pb is : [D@7b23ec81
-nope1.7976931348623157E308
-pb is : [D@6acbcfc0
-pb is : [D@6acbcfc0
-pb is : [D@6acbcfc0
-pb is : [D@6acbcfc0
-pb is : [D@6acbcfc0
-nope1.7976931348623157E308
-pb is : [D@5f184fc6
-pb is : [D@5f184fc6
-pb is : [D@5f184fc6
-pb is : [D@5f184fc6
-pb is : [D@5f184fc6
-nope1.7976931348623157E308
-pb is : [D@448139f0
-pb is : [D@448139f0
-pb is : [D@448139f0
-pb is : [D@448139f0
-pb is : [D@448139f0
-nope1.7976931348623157E308
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-nope1.7976931348623157E308
-pb is : [D@7ba4f24f
-pb is : [D@7ba4f24f
-pb is : [D@7ba4f24f
-pb is : [D@7ba4f24f
-pb is : [D@7ba4f24f
-nope1.7976931348623157E308
-pb is : [D@3b9a45b3
-pb is : [D@3b9a45b3
-pb is : [D@3b9a45b3
-pb is : [D@3b9a45b3
-pb is : [D@3b9a45b3
-nope1.7976931348623157E308
-pb is : [D@7699a589
-pb is : [D@7699a589
-pb is : [D@7699a589
-pb is : [D@7699a589
-pb is : [D@7699a589
-nope1.7976931348623157E308
-pb is : [D@58372a00
-pb is : [D@58372a00
-pb is : [D@58372a00
-pb is : [D@58372a00
-pb is : [D@58372a00
-nope1.7976931348623157E308
-pb is : [D@4dd8dc3
-pb is : [D@4dd8dc3
-pb is : [D@4dd8dc3
-pb is : [D@4dd8dc3
-pb is : [D@4dd8dc3
-nope1.7976931348623157E308
-pb is : [D@6d03e736
-pb is : [D@6d03e736
-pb is : [D@6d03e736
-pb is : [D@6d03e736
-pb is : [D@6d03e736
-nope1.7976931348623157E308
-pb is : [D@568db2f2
-pb is : [D@568db2f2
-pb is : [D@568db2f2
-pb is : [D@568db2f2
-pb is : [D@568db2f2
-nope1.7976931348623157E308
-pb is : [D@378bf509
-pb is : [D@378bf509
-pb is : [D@378bf509
-pb is : [D@378bf509
-pb is : [D@378bf509
-nope1.7976931348623157E308
-pb is : [D@5fd0d5ae
-pb is : [D@5fd0d5ae
-pb is : [D@5fd0d5ae
-pb is : [D@5fd0d5ae
-pb is : [D@5fd0d5ae
-nope1.7976931348623157E308
-pb is : [D@2d98a335
-pb is : [D@2d98a335
-pb is : [D@2d98a335
-pb is : [D@2d98a335
-pb is : [D@2d98a335
-nope1.7976931348623157E308
-pb is : [D@16b98e56
-pb is : [D@16b98e56
-pb is : [D@16b98e56
-pb is : [D@16b98e56
-pb is : [D@16b98e56
-nope1.7976931348623157E308
-pb is : [D@7ef20235
-pb is : [D@7ef20235
-pb is : [D@7ef20235
-pb is : [D@7ef20235
-pb is : [D@7ef20235
-nope1.7976931348623157E308
-pb is : [D@27d6c5e0
-pb is : [D@27d6c5e0
-pb is : [D@27d6c5e0
-pb is : [D@27d6c5e0
-pb is : [D@27d6c5e0
-nope1.7976931348623157E308
-pb is : [D@4f3f5b24
-pb is : [D@4f3f5b24
-pb is : [D@4f3f5b24
-pb is : [D@4f3f5b24
-pb is : [D@4f3f5b24
-nope1.7976931348623157E308
-pb is : [D@15aeb7ab
-pb is : [D@15aeb7ab
-pb is : [D@15aeb7ab
-pb is : [D@15aeb7ab
-pb is : [D@15aeb7ab
-nope1.7976931348623157E308
-pb is : [D@7b23ec81
-pb is : [D@7b23ec81
-pb is : [D@7b23ec81
-pb is : [D@7b23ec81
-pb is : [D@7b23ec81
-nope1.7976931348623157E308
-pb is : [D@6acbcfc0
-pb is : [D@6acbcfc0
-pb is : [D@6acbcfc0
-pb is : [D@6acbcfc0
-pb is : [D@6acbcfc0
-nope1.7976931348623157E308
-pb is : [D@5f184fc6
-pb is : [D@5f184fc6
-pb is : [D@5f184fc6
-pb is : [D@5f184fc6
-pb is : [D@5f184fc6
-nope1.7976931348623157E308
-pb is : [D@448139f0
-pb is : [D@448139f0
-pb is : [D@448139f0
-pb is : [D@448139f0
-pb is : [D@448139f0
-nope1.7976931348623157E308
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-nope1.7976931348623157E308
-pb is : [D@7ba4f24f
-pb is : [D@7ba4f24f
-pb is : [D@7ba4f24f
-pb is : [D@7ba4f24f
-pb is : [D@7ba4f24f
-nope1.7976931348623157E308
-pb is : [D@3b9a45b3
-pb is : [D@3b9a45b3
-pb is : [D@3b9a45b3
-pb is : [D@3b9a45b3
-pb is : [D@3b9a45b3
-nope1.7976931348623157E308
-pb is : [D@7699a589
-pb is : [D@7699a589
-pb is : [D@7699a589
-pb is : [D@7699a589
-pb is : [D@7699a589
-nope1.7976931348623157E308
-pb is : [D@58372a00
-pb is : [D@58372a00
-pb is : [D@58372a00
-pb is : [D@58372a00
-pb is : [D@58372a00
-nope1.7976931348623157E308
-pb is : [D@4dd8dc3
-pb is : [D@4dd8dc3
-pb is : [D@4dd8dc3
-pb is : [D@4dd8dc3
-pb is : [D@4dd8dc3
-nope1.7976931348623157E308
-pb is : [D@6d03e736
-pb is : [D@6d03e736
-pb is : [D@6d03e736
-pb is : [D@6d03e736
-pb is : [D@6d03e736
-nope1.7976931348623157E308
-pb is : [D@568db2f2
-pb is : [D@568db2f2
-pb is : [D@568db2f2
-pb is : [D@568db2f2
-pb is : [D@568db2f2
-nope1.7976931348623157E308
-pb is : [D@378bf509
-pb is : [D@378bf509
-pb is : [D@378bf509
-pb is : [D@378bf509
-pb is : [D@378bf509
-nope1.7976931348623157E308
-pb is : [D@5fd0d5ae
-pb is : [D@5fd0d5ae
-pb is : [D@5fd0d5ae
-pb is : [D@5fd0d5ae
-pb is : [D@5fd0d5ae
-nope1.7976931348623157E308
-pb is : [D@2d98a335
-pb is : [D@2d98a335
-pb is : [D@2d98a335
-pb is : [D@2d98a335
-pb is : [D@2d98a335
-nope1.7976931348623157E308
-pb is : [D@16b98e56
-pb is : [D@16b98e56
-pb is : [D@16b98e56
-pb is : [D@16b98e56
-pb is : [D@16b98e56
-nope1.7976931348623157E308
-pb is : [D@7ef20235
-pb is : [D@7ef20235
-pb is : [D@7ef20235
-pb is : [D@7ef20235
-pb is : [D@7ef20235
-nope1.7976931348623157E308
-pb is : [D@27d6c5e0
-pb is : [D@27d6c5e0
-pb is : [D@27d6c5e0
-pb is : [D@27d6c5e0
-pb is : [D@27d6c5e0
-nope1.7976931348623157E308
-pb is : [D@4f3f5b24
-pb is : [D@4f3f5b24
-pb is : [D@4f3f5b24
-pb is : [D@4f3f5b24
-pb is : [D@4f3f5b24
-nope1.7976931348623157E308
-pb is : [D@15aeb7ab
-pb is : [D@15aeb7ab
-pb is : [D@15aeb7ab
-pb is : [D@15aeb7ab
-pb is : [D@15aeb7ab
-nope1.7976931348623157E308
-pb is : [D@7b23ec81
-pb is : [D@7b23ec81
-pb is : [D@7b23ec81
-pb is : [D@7b23ec81
-pb is : [D@7b23ec81
-nope1.7976931348623157E308
-pb is : [D@6acbcfc0
-pb is : [D@6acbcfc0
-pb is : [D@6acbcfc0
-pb is : [D@6acbcfc0
-pb is : [D@6acbcfc0
-nope1.7976931348623157E308
-pb is : [D@5f184fc6
-pb is : [D@5f184fc6
-pb is : [D@5f184fc6
-pb is : [D@5f184fc6
-pb is : [D@5f184fc6
-nope1.7976931348623157E308
-pb is : [D@448139f0
-pb is : [D@448139f0
-pb is : [D@448139f0
-pb is : [D@448139f0
-pb is : [D@448139f0
-nope1.7976931348623157E308
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-nope1.7976931348623157E308
-pb is : [D@7ba4f24f
-pb is : [D@7ba4f24f
-pb is : [D@7ba4f24f
-pb is : [D@7ba4f24f
-pb is : [D@7ba4f24f
-nope1.7976931348623157E308
-pb is : [D@3b9a45b3
-pb is : [D@3b9a45b3
-pb is : [D@3b9a45b3
-pb is : [D@3b9a45b3
-pb is : [D@3b9a45b3
-nope1.7976931348623157E308
-pb is : [D@7699a589
-pb is : [D@7699a589
-pb is : [D@7699a589
-pb is : [D@7699a589
-pb is : [D@7699a589
-nope1.7976931348623157E308
-pb is : [D@58372a00
-pb is : [D@58372a00
-pb is : [D@58372a00
-pb is : [D@58372a00
-pb is : [D@58372a00
-nope1.7976931348623157E308
-pb is : [D@4dd8dc3
-pb is : [D@4dd8dc3
-pb is : [D@4dd8dc3
-pb is : [D@4dd8dc3
-pb is : [D@4dd8dc3
-nope1.7976931348623157E308
-pb is : [D@6d03e736
-pb is : [D@6d03e736
-pb is : [D@6d03e736
-pb is : [D@6d03e736
-pb is : [D@6d03e736
-nope1.7976931348623157E308
-pb is : [D@568db2f2
-pb is : [D@568db2f2
-pb is : [D@568db2f2
-pb is : [D@568db2f2
-pb is : [D@568db2f2
-nope1.7976931348623157E308
-pb is : [D@378bf509
-pb is : [D@378bf509
-pb is : [D@378bf509
-pb is : [D@378bf509
-pb is : [D@378bf509
-nope1.7976931348623157E308
-pb is : [D@5fd0d5ae
-pb is : [D@5fd0d5ae
-pb is : [D@5fd0d5ae
-pb is : [D@5fd0d5ae
-pb is : [D@5fd0d5ae
-nope1.7976931348623157E308
-pb is : [D@2d98a335
-pb is : [D@2d98a335
-pb is : [D@2d98a335
-pb is : [D@2d98a335
-pb is : [D@2d98a335
-nope1.7976931348623157E308
-pb is : [D@16b98e56
-pb is : [D@16b98e56
-pb is : [D@16b98e56
-pb is : [D@16b98e56
-pb is : [D@16b98e56
-nope1.7976931348623157E308
-pb is : [D@7ef20235
-pb is : [D@7ef20235
-pb is : [D@7ef20235
-pb is : [D@7ef20235
-pb is : [D@7ef20235
-nope1.7976931348623157E308
-pb is : [D@27d6c5e0
-pb is : [D@27d6c5e0
-pb is : [D@27d6c5e0
-pb is : [D@27d6c5e0
-pb is : [D@27d6c5e0
-nope1.7976931348623157E308
-pb is : [D@4f3f5b24
-pb is : [D@4f3f5b24
-pb is : [D@4f3f5b24
-pb is : [D@4f3f5b24
-pb is : [D@4f3f5b24
-nope1.7976931348623157E308
-pb is : [D@15aeb7ab
-pb is : [D@15aeb7ab
-pb is : [D@15aeb7ab
-pb is : [D@15aeb7ab
-pb is : [D@15aeb7ab
-nope1.7976931348623157E308
-pb is : [D@7b23ec81
-pb is : [D@7b23ec81
-pb is : [D@7b23ec81
-pb is : [D@7b23ec81
-pb is : [D@7b23ec81
-nope1.7976931348623157E308
-pb is : [D@6acbcfc0
-pb is : [D@6acbcfc0
-pb is : [D@6acbcfc0
-pb is : [D@6acbcfc0
-pb is : [D@6acbcfc0
-nope1.7976931348623157E308
-pb is : [D@5f184fc6
-pb is : [D@5f184fc6
-pb is : [D@5f184fc6
-pb is : [D@5f184fc6
-pb is : [D@5f184fc6
-nope1.7976931348623157E308
-pb is : [D@448139f0
-pb is : [D@448139f0
-pb is : [D@448139f0
-pb is : [D@448139f0
-pb is : [D@448139f0
-nope1.7976931348623157E308
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-nope1.7976931348623157E308
-pb is : [D@7ba4f24f
-pb is : [D@7ba4f24f
-pb is : [D@7ba4f24f
-pb is : [D@7ba4f24f
-pb is : [D@7ba4f24f
-nope1.7976931348623157E308
-pb is : [D@3b9a45b3
-pb is : [D@3b9a45b3
-pb is : [D@3b9a45b3
-pb is : [D@3b9a45b3
-pb is : [D@3b9a45b3
-nope1.7976931348623157E308
-pb is : [D@7699a589
-pb is : [D@7699a589
-pb is : [D@7699a589
-pb is : [D@7699a589
-pb is : [D@7699a589
-nope1.7976931348623157E308
-pb is : [D@58372a00
-pb is : [D@58372a00
-pb is : [D@58372a00
-pb is : [D@58372a00
-pb is : [D@58372a00
-nope1.7976931348623157E308
-pb is : [D@4dd8dc3
-pb is : [D@4dd8dc3
-pb is : [D@4dd8dc3
-pb is : [D@4dd8dc3
-pb is : [D@4dd8dc3
-nope1.7976931348623157E308
-pb is : [D@6d03e736
-pb is : [D@6d03e736
-pb is : [D@6d03e736
-pb is : [D@6d03e736
-pb is : [D@6d03e736
-nope1.7976931348623157E308
-pb is : [D@568db2f2
-pb is : [D@568db2f2
-pb is : [D@568db2f2
-pb is : [D@568db2f2
-pb is : [D@568db2f2
-nope1.7976931348623157E308
-pb is : [D@378bf509
-pb is : [D@378bf509
-pb is : [D@378bf509
-pb is : [D@378bf509
-pb is : [D@378bf509
-nope1.7976931348623157E308
-pb is : [D@5fd0d5ae
-pb is : [D@5fd0d5ae
-pb is : [D@5fd0d5ae
-pb is : [D@5fd0d5ae
-pb is : [D@5fd0d5ae
-nope1.7976931348623157E308
-pb is : [D@2d98a335
-pb is : [D@2d98a335
-pb is : [D@2d98a335
-pb is : [D@2d98a335
-pb is : [D@2d98a335
-nope1.7976931348623157E308
-pb is : [D@16b98e56
-pb is : [D@16b98e56
-pb is : [D@16b98e56
-pb is : [D@16b98e56
-pb is : [D@16b98e56
-nope1.7976931348623157E308
-pb is : [D@7ef20235
-pb is : [D@7ef20235
-pb is : [D@7ef20235
-pb is : [D@7ef20235
-pb is : [D@7ef20235
-nope1.7976931348623157E308
-pb is : [D@27d6c5e0
-pb is : [D@27d6c5e0
-pb is : [D@27d6c5e0
-pb is : [D@27d6c5e0
-pb is : [D@27d6c5e0
-nope1.7976931348623157E308
-pb is : [D@4f3f5b24
-pb is : [D@4f3f5b24
-pb is : [D@4f3f5b24
-pb is : [D@4f3f5b24
-pb is : [D@4f3f5b24
-nope1.7976931348623157E308
-pb is : [D@15aeb7ab
-pb is : [D@15aeb7ab
-pb is : [D@15aeb7ab
-pb is : [D@15aeb7ab
-pb is : [D@15aeb7ab
-nope1.7976931348623157E308
-pb is : [D@7b23ec81
-pb is : [D@7b23ec81
-pb is : [D@7b23ec81
-pb is : [D@7b23ec81
-pb is : [D@7b23ec81
-nope1.7976931348623157E308
-pb is : [D@6acbcfc0
-pb is : [D@6acbcfc0
-pb is : [D@6acbcfc0
-pb is : [D@6acbcfc0
-pb is : [D@6acbcfc0
-nope1.7976931348623157E308
-pb is : [D@5f184fc6
-pb is : [D@5f184fc6
-pb is : [D@5f184fc6
-pb is : [D@5f184fc6
-pb is : [D@5f184fc6
-nope1.7976931348623157E308
-pb is : [D@448139f0
-pb is : [D@448139f0
-pb is : [D@448139f0
-pb is : [D@448139f0
-pb is : [D@448139f0
-nope1.7976931348623157E308
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-nope1.7976931348623157E308
-pb is : [D@7ba4f24f
-pb is : [D@7ba4f24f
-pb is : [D@7ba4f24f
-pb is : [D@7ba4f24f
-pb is : [D@7ba4f24f
-nope1.7976931348623157E308
-pb is : [D@3b9a45b3
-pb is : [D@3b9a45b3
-pb is : [D@3b9a45b3
-pb is : [D@3b9a45b3
-pb is : [D@3b9a45b3
-nope1.7976931348623157E308
-pb is : [D@7699a589
-pb is : [D@7699a589
-pb is : [D@7699a589
-pb is : [D@7699a589
-pb is : [D@7699a589
-nope1.7976931348623157E308
-pb is : [D@58372a00
-pb is : [D@58372a00
-pb is : [D@58372a00
-pb is : [D@58372a00
-pb is : [D@58372a00
-nope1.7976931348623157E308
-pb is : [D@4dd8dc3
-pb is : [D@4dd8dc3
-pb is : [D@4dd8dc3
-pb is : [D@4dd8dc3
-pb is : [D@4dd8dc3
-nope1.7976931348623157E308
-pb is : [D@6d03e736
-pb is : [D@6d03e736
-pb is : [D@6d03e736
-pb is : [D@6d03e736
-pb is : [D@6d03e736
-nope1.7976931348623157E308
-pb is : [D@568db2f2
-pb is : [D@568db2f2
-pb is : [D@568db2f2
-pb is : [D@568db2f2
-pb is : [D@568db2f2
-nope1.7976931348623157E308
-pb is : [D@378bf509
-pb is : [D@378bf509
-pb is : [D@378bf509
-pb is : [D@378bf509
-pb is : [D@378bf509
-nope1.7976931348623157E308
-pb is : [D@5fd0d5ae
-pb is : [D@5fd0d5ae
-pb is : [D@5fd0d5ae
-pb is : [D@5fd0d5ae
-pb is : [D@5fd0d5ae
-nope1.7976931348623157E308
-pb is : [D@2d98a335
-pb is : [D@2d98a335
-pb is : [D@2d98a335
-pb is : [D@2d98a335
-pb is : [D@2d98a335
-nope1.7976931348623157E308
-pb is : [D@16b98e56
-pb is : [D@16b98e56
-pb is : [D@16b98e56
-pb is : [D@16b98e56
-pb is : [D@16b98e56
-nope1.7976931348623157E308
-pb is : [D@7ef20235
-pb is : [D@7ef20235
-pb is : [D@7ef20235
-pb is : [D@7ef20235
-pb is : [D@7ef20235
-nope1.7976931348623157E308
-pb is : [D@27d6c5e0
-pb is : [D@27d6c5e0
-pb is : [D@27d6c5e0
-pb is : [D@27d6c5e0
-pb is : [D@27d6c5e0
-nope1.7976931348623157E308
-pb is : [D@4f3f5b24
-pb is : [D@4f3f5b24
-pb is : [D@4f3f5b24
-pb is : [D@4f3f5b24
-pb is : [D@4f3f5b24
-nope1.7976931348623157E308
-pb is : [D@15aeb7ab
-pb is : [D@15aeb7ab
-pb is : [D@15aeb7ab
-pb is : [D@15aeb7ab
-pb is : [D@15aeb7ab
-nope1.7976931348623157E308
-pb is : [D@7b23ec81
-pb is : [D@7b23ec81
-pb is : [D@7b23ec81
-pb is : [D@7b23ec81
-pb is : [D@7b23ec81
-nope1.7976931348623157E308
-pb is : [D@6acbcfc0
-pb is : [D@6acbcfc0
-pb is : [D@6acbcfc0
-pb is : [D@6acbcfc0
-pb is : [D@6acbcfc0
-nope1.7976931348623157E308
-pb is : [D@5f184fc6
-pb is : [D@5f184fc6
-pb is : [D@5f184fc6
-pb is : [D@5f184fc6
-pb is : [D@5f184fc6
-nope1.7976931348623157E308
-pb is : [D@448139f0
-pb is : [D@448139f0
-pb is : [D@448139f0
-pb is : [D@448139f0
-pb is : [D@448139f0
-nope1.7976931348623157E308
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-nope1.7976931348623157E308
-pb is : [D@7ba4f24f
-pb is : [D@7ba4f24f
-pb is : [D@7ba4f24f
-pb is : [D@7ba4f24f
-pb is : [D@7ba4f24f
-nope1.7976931348623157E308
-pb is : [D@3b9a45b3
-pb is : [D@3b9a45b3
-pb is : [D@3b9a45b3
-pb is : [D@3b9a45b3
-pb is : [D@3b9a45b3
-nope1.7976931348623157E308
-pb is : [D@7699a589
-pb is : [D@7699a589
-pb is : [D@7699a589
-pb is : [D@7699a589
-pb is : [D@7699a589
-nope1.7976931348623157E308
-pb is : [D@58372a00
-pb is : [D@58372a00
-pb is : [D@58372a00
-pb is : [D@58372a00
-pb is : [D@58372a00
-nope1.7976931348623157E308
-pb is : [D@4dd8dc3
-pb is : [D@4dd8dc3
-pb is : [D@4dd8dc3
-pb is : [D@4dd8dc3
-pb is : [D@4dd8dc3
-nope1.7976931348623157E308
-pb is : [D@6d03e736
-pb is : [D@6d03e736
-pb is : [D@6d03e736
-pb is : [D@6d03e736
-pb is : [D@6d03e736
-nope1.7976931348623157E308
-pb is : [D@568db2f2
-pb is : [D@568db2f2
-pb is : [D@568db2f2
-pb is : [D@568db2f2
-pb is : [D@568db2f2
-nope1.7976931348623157E308
-pb is : [D@378bf509
-pb is : [D@378bf509
-pb is : [D@378bf509
-pb is : [D@378bf509
-pb is : [D@378bf509
-nope1.7976931348623157E308
-pb is : [D@5fd0d5ae
-pb is : [D@5fd0d5ae
-pb is : [D@5fd0d5ae
-pb is : [D@5fd0d5ae
-pb is : [D@5fd0d5ae
-nope1.7976931348623157E308
-pb is : [D@2d98a335
-pb is : [D@2d98a335
-pb is : [D@2d98a335
-pb is : [D@2d98a335
-pb is : [D@2d98a335
-nope1.7976931348623157E308
-pb is : [D@16b98e56
-pb is : [D@16b98e56
-pb is : [D@16b98e56
-pb is : [D@16b98e56
-pb is : [D@16b98e56
-nope1.7976931348623157E308
-pb is : [D@7ef20235
-pb is : [D@7ef20235
-pb is : [D@7ef20235
-pb is : [D@7ef20235
-pb is : [D@7ef20235
-nope1.7976931348623157E308
-pb is : [D@27d6c5e0
-pb is : [D@27d6c5e0
-pb is : [D@27d6c5e0
-pb is : [D@27d6c5e0
-pb is : [D@27d6c5e0
-nope1.7976931348623157E308
-pb is : [D@4f3f5b24
-pb is : [D@4f3f5b24
-pb is : [D@4f3f5b24
-pb is : [D@4f3f5b24
-pb is : [D@4f3f5b24
-nope1.7976931348623157E308
-pb is : [D@15aeb7ab
-pb is : [D@15aeb7ab
-pb is : [D@15aeb7ab
-pb is : [D@15aeb7ab
-pb is : [D@15aeb7ab
-nope1.7976931348623157E308
-pb is : [D@7b23ec81
-pb is : [D@7b23ec81
-pb is : [D@7b23ec81
-pb is : [D@7b23ec81
-pb is : [D@7b23ec81
-nope1.7976931348623157E308
-pb is : [D@6acbcfc0
-pb is : [D@6acbcfc0
-pb is : [D@6acbcfc0
-pb is : [D@6acbcfc0
-pb is : [D@6acbcfc0
-nope1.7976931348623157E308
-pb is : [D@5f184fc6
-pb is : [D@5f184fc6
-pb is : [D@5f184fc6
-pb is : [D@5f184fc6
-pb is : [D@5f184fc6
-nope1.7976931348623157E308
-pb is : [D@448139f0
-pb is : [D@448139f0
-pb is : [D@448139f0
-pb is : [D@448139f0
-pb is : [D@448139f0
-nope1.7976931348623157E308
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-nope1.7976931348623157E308
-pb is : [D@7ba4f24f
-pb is : [D@7ba4f24f
-pb is : [D@7ba4f24f
-pb is : [D@7ba4f24f
-pb is : [D@7ba4f24f
-nope1.7976931348623157E308
-pb is : [D@3b9a45b3
-pb is : [D@3b9a45b3
-pb is : [D@3b9a45b3
-pb is : [D@3b9a45b3
-pb is : [D@3b9a45b3
-nope1.7976931348623157E308
-pb is : [D@7699a589
-pb is : [D@7699a589
-pb is : [D@7699a589
-pb is : [D@7699a589
-pb is : [D@7699a589
-nope1.7976931348623157E308
-pb is : [D@58372a00
-pb is : [D@58372a00
-pb is : [D@58372a00
-pb is : [D@58372a00
-pb is : [D@58372a00
-nope1.7976931348623157E308
-pb is : [D@4dd8dc3
-pb is : [D@4dd8dc3
-pb is : [D@4dd8dc3
-pb is : [D@4dd8dc3
-pb is : [D@4dd8dc3
-nope1.7976931348623157E308
-pb is : [D@6d03e736
-pb is : [D@6d03e736
-pb is : [D@6d03e736
-pb is : [D@6d03e736
-pb is : [D@6d03e736
-nope1.7976931348623157E308
-pb is : [D@568db2f2
-pb is : [D@568db2f2
-pb is : [D@568db2f2
-pb is : [D@568db2f2
-pb is : [D@568db2f2
-nope1.7976931348623157E308
-pb is : [D@378bf509
-pb is : [D@378bf509
-pb is : [D@378bf509
-pb is : [D@378bf509
-pb is : [D@378bf509
-nope1.7976931348623157E308
-pb is : [D@5fd0d5ae
-pb is : [D@5fd0d5ae
-pb is : [D@5fd0d5ae
-pb is : [D@5fd0d5ae
-pb is : [D@5fd0d5ae
-nope1.7976931348623157E308
-pb is : [D@2d98a335
-pb is : [D@2d98a335
-pb is : [D@2d98a335
-pb is : [D@2d98a335
-pb is : [D@2d98a335
-nope1.7976931348623157E308
-pb is : [D@16b98e56
-pb is : [D@16b98e56
-pb is : [D@16b98e56
-pb is : [D@16b98e56
-pb is : [D@16b98e56
-nope1.7976931348623157E308
-pb is : [D@7ef20235
-pb is : [D@7ef20235
-pb is : [D@7ef20235
-pb is : [D@7ef20235
-pb is : [D@7ef20235
-nope1.7976931348623157E308
-pb is : [D@27d6c5e0
-pb is : [D@27d6c5e0
-pb is : [D@27d6c5e0
-pb is : [D@27d6c5e0
-pb is : [D@27d6c5e0
-nope1.7976931348623157E308
-pb is : [D@4f3f5b24
-pb is : [D@4f3f5b24
-pb is : [D@4f3f5b24
-pb is : [D@4f3f5b24
-pb is : [D@4f3f5b24
-nope1.7976931348623157E308
-pb is : [D@15aeb7ab
-pb is : [D@15aeb7ab
-pb is : [D@15aeb7ab
-pb is : [D@15aeb7ab
-pb is : [D@15aeb7ab
-nope1.7976931348623157E308
-pb is : [D@7b23ec81
-pb is : [D@7b23ec81
-pb is : [D@7b23ec81
-pb is : [D@7b23ec81
-pb is : [D@7b23ec81
-nope1.7976931348623157E308
-pb is : [D@6acbcfc0
-pb is : [D@6acbcfc0
-pb is : [D@6acbcfc0
-pb is : [D@6acbcfc0
-pb is : [D@6acbcfc0
-nope1.7976931348623157E308
-pb is : [D@5f184fc6
-pb is : [D@5f184fc6
-pb is : [D@5f184fc6
-pb is : [D@5f184fc6
-pb is : [D@5f184fc6
-nope1.7976931348623157E308
-pb is : [D@448139f0
-pb is : [D@448139f0
-pb is : [D@448139f0
-pb is : [D@448139f0
-pb is : [D@448139f0
-nope1.7976931348623157E308
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-nope1.7976931348623157E308
-pb is : [D@7ba4f24f
-pb is : [D@7ba4f24f
-pb is : [D@7ba4f24f
-pb is : [D@7ba4f24f
-pb is : [D@7ba4f24f
-nope1.7976931348623157E308
-pb is : [D@3b9a45b3
-pb is : [D@3b9a45b3
-pb is : [D@3b9a45b3
-pb is : [D@3b9a45b3
-pb is : [D@3b9a45b3
-nope1.7976931348623157E308
-pb is : [D@7699a589
-pb is : [D@7699a589
-pb is : [D@7699a589
-pb is : [D@7699a589
-pb is : [D@7699a589
-nope1.7976931348623157E308
-pb is : [D@58372a00
-pb is : [D@58372a00
-pb is : [D@58372a00
-pb is : [D@58372a00
-pb is : [D@58372a00
-nope1.7976931348623157E308
-pb is : [D@4dd8dc3
-pb is : [D@4dd8dc3
-pb is : [D@4dd8dc3
-pb is : [D@4dd8dc3
-pb is : [D@4dd8dc3
-nope1.7976931348623157E308
-pb is : [D@6d03e736
-pb is : [D@6d03e736
-pb is : [D@6d03e736
-pb is : [D@6d03e736
-pb is : [D@6d03e736
-nope1.7976931348623157E308
-pb is : [D@568db2f2
-pb is : [D@568db2f2
-pb is : [D@568db2f2
-pb is : [D@568db2f2
-pb is : [D@568db2f2
-nope1.7976931348623157E308
-pb is : [D@378bf509
-pb is : [D@378bf509
-pb is : [D@378bf509
-pb is : [D@378bf509
-pb is : [D@378bf509
-nope1.7976931348623157E308
-pb is : [D@5fd0d5ae
-pb is : [D@5fd0d5ae
-pb is : [D@5fd0d5ae
-pb is : [D@5fd0d5ae
-pb is : [D@5fd0d5ae
-nope1.7976931348623157E308
-pb is : [D@2d98a335
-pb is : [D@2d98a335
-pb is : [D@2d98a335
-pb is : [D@2d98a335
-pb is : [D@2d98a335
-nope1.7976931348623157E308
-pb is : [D@16b98e56
-pb is : [D@16b98e56
-pb is : [D@16b98e56
-pb is : [D@16b98e56
-pb is : [D@16b98e56
-nope1.7976931348623157E308
-pb is : [D@7ef20235
-pb is : [D@7ef20235
-pb is : [D@7ef20235
-pb is : [D@7ef20235
-pb is : [D@7ef20235
-nope1.7976931348623157E308
-pb is : [D@27d6c5e0
-pb is : [D@27d6c5e0
-pb is : [D@27d6c5e0
-pb is : [D@27d6c5e0
-pb is : [D@27d6c5e0
-nope1.7976931348623157E308
-pb is : [D@4f3f5b24
-pb is : [D@4f3f5b24
-pb is : [D@4f3f5b24
-pb is : [D@4f3f5b24
-pb is : [D@4f3f5b24
-nope1.7976931348623157E308
-pb is : [D@15aeb7ab
-pb is : [D@15aeb7ab
-pb is : [D@15aeb7ab
-pb is : [D@15aeb7ab
-pb is : [D@15aeb7ab
-nope1.7976931348623157E308
-pb is : [D@7b23ec81
-pb is : [D@7b23ec81
-pb is : [D@7b23ec81
-pb is : [D@7b23ec81
-pb is : [D@7b23ec81
-nope1.7976931348623157E308
-pb is : [D@6acbcfc0
-pb is : [D@6acbcfc0
-pb is : [D@6acbcfc0
-pb is : [D@6acbcfc0
-pb is : [D@6acbcfc0
-nope1.7976931348623157E308
-pb is : [D@5f184fc6
-pb is : [D@5f184fc6
-pb is : [D@5f184fc6
-pb is : [D@5f184fc6
-pb is : [D@5f184fc6
-nope1.7976931348623157E308
-pb is : [D@448139f0
-pb is : [D@448139f0
-pb is : [D@448139f0
-pb is : [D@448139f0
-pb is : [D@448139f0
-nope1.7976931348623157E308
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-nope1.7976931348623157E308
-pb is : [D@7ba4f24f
-pb is : [D@7ba4f24f
-pb is : [D@7ba4f24f
-pb is : [D@7ba4f24f
-pb is : [D@7ba4f24f
-nope1.7976931348623157E308
-pb is : [D@3b9a45b3
-pb is : [D@3b9a45b3
-pb is : [D@3b9a45b3
-pb is : [D@3b9a45b3
-pb is : [D@3b9a45b3
-nope1.7976931348623157E308
-pb is : [D@7699a589
-pb is : [D@7699a589
-pb is : [D@7699a589
-pb is : [D@7699a589
-pb is : [D@7699a589
-nope1.7976931348623157E308
-pb is : [D@58372a00
-pb is : [D@58372a00
-pb is : [D@58372a00
-pb is : [D@58372a00
-pb is : [D@58372a00
-nope1.7976931348623157E308
-pb is : [D@4dd8dc3
-pb is : [D@4dd8dc3
-pb is : [D@4dd8dc3
-pb is : [D@4dd8dc3
-pb is : [D@4dd8dc3
-nope1.7976931348623157E308
-pb is : [D@6d03e736
-pb is : [D@6d03e736
-pb is : [D@6d03e736
-pb is : [D@6d03e736
-pb is : [D@6d03e736
-nope1.7976931348623157E308
-pb is : [D@568db2f2
-pb is : [D@568db2f2
-pb is : [D@568db2f2
-pb is : [D@568db2f2
-pb is : [D@568db2f2
-nope1.7976931348623157E308
-pb is : [D@378bf509
-pb is : [D@378bf509
-pb is : [D@378bf509
-pb is : [D@378bf509
-pb is : [D@378bf509
-nope1.7976931348623157E308
-pb is : [D@5fd0d5ae
-pb is : [D@5fd0d5ae
-pb is : [D@5fd0d5ae
-pb is : [D@5fd0d5ae
-pb is : [D@5fd0d5ae
-nope1.7976931348623157E308
-pb is : [D@2d98a335
-pb is : [D@2d98a335
-pb is : [D@2d98a335
-pb is : [D@2d98a335
-pb is : [D@2d98a335
-nope1.7976931348623157E308
-pb is : [D@16b98e56
-pb is : [D@16b98e56
-pb is : [D@16b98e56
-pb is : [D@16b98e56
-pb is : [D@16b98e56
-nope1.7976931348623157E308
-pb is : [D@7ef20235
-pb is : [D@7ef20235
-pb is : [D@7ef20235
-pb is : [D@7ef20235
-pb is : [D@7ef20235
-nope1.7976931348623157E308
-pb is : [D@27d6c5e0
-pb is : [D@27d6c5e0
-pb is : [D@27d6c5e0
-pb is : [D@27d6c5e0
-pb is : [D@27d6c5e0
-nope1.7976931348623157E308
-pb is : [D@4f3f5b24
-pb is : [D@4f3f5b24
-pb is : [D@4f3f5b24
-pb is : [D@4f3f5b24
-pb is : [D@4f3f5b24
-nope1.7976931348623157E308
-pb is : [D@15aeb7ab
-pb is : [D@15aeb7ab
-pb is : [D@15aeb7ab
-pb is : [D@15aeb7ab
-pb is : [D@15aeb7ab
-nope1.7976931348623157E308
-pb is : [D@7b23ec81
-pb is : [D@7b23ec81
-pb is : [D@7b23ec81
-pb is : [D@7b23ec81
-pb is : [D@7b23ec81
-nope1.7976931348623157E308
-pb is : [D@6acbcfc0
-pb is : [D@6acbcfc0
-pb is : [D@6acbcfc0
-pb is : [D@6acbcfc0
-pb is : [D@6acbcfc0
-nope1.7976931348623157E308
-pb is : [D@5f184fc6
-pb is : [D@5f184fc6
-pb is : [D@5f184fc6
-pb is : [D@5f184fc6
-pb is : [D@5f184fc6
-nope1.7976931348623157E308
-pb is : [D@448139f0
-pb is : [D@448139f0
-pb is : [D@448139f0
-pb is : [D@448139f0
-pb is : [D@448139f0
-nope1.7976931348623157E308
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-nope1.7976931348623157E308
-pb is : [D@7ba4f24f
-pb is : [D@7ba4f24f
-pb is : [D@7ba4f24f
-pb is : [D@7ba4f24f
-pb is : [D@7ba4f24f
-nope1.7976931348623157E308
-pb is : [D@3b9a45b3
-pb is : [D@3b9a45b3
-pb is : [D@3b9a45b3
-pb is : [D@3b9a45b3
-pb is : [D@3b9a45b3
-nope1.7976931348623157E308
-pb is : [D@7699a589
-pb is : [D@7699a589
-pb is : [D@7699a589
-pb is : [D@7699a589
-pb is : [D@7699a589
-nope1.7976931348623157E308
-pb is : [D@58372a00
-pb is : [D@58372a00
-pb is : [D@58372a00
-pb is : [D@58372a00
-pb is : [D@58372a00
-nope1.7976931348623157E308
-pb is : [D@4dd8dc3
-pb is : [D@4dd8dc3
-pb is : [D@4dd8dc3
-pb is : [D@4dd8dc3
-pb is : [D@4dd8dc3
-nope1.7976931348623157E308
-pb is : [D@6d03e736
-pb is : [D@6d03e736
-pb is : [D@6d03e736
-pb is : [D@6d03e736
-pb is : [D@6d03e736
-nope1.7976931348623157E308
-pb is : [D@568db2f2
-pb is : [D@568db2f2
-pb is : [D@568db2f2
-pb is : [D@568db2f2
-pb is : [D@568db2f2
-nope1.7976931348623157E308
-pb is : [D@378bf509
-pb is : [D@378bf509
-pb is : [D@378bf509
-pb is : [D@378bf509
-pb is : [D@378bf509
-nope1.7976931348623157E308
-pb is : [D@5fd0d5ae
-pb is : [D@5fd0d5ae
-pb is : [D@5fd0d5ae
-pb is : [D@5fd0d5ae
-pb is : [D@5fd0d5ae
-nope1.7976931348623157E308
-pb is : [D@2d98a335
-pb is : [D@2d98a335
-pb is : [D@2d98a335
-pb is : [D@2d98a335
-pb is : [D@2d98a335
-nope1.7976931348623157E308
-pb is : [D@16b98e56
-pb is : [D@16b98e56
-pb is : [D@16b98e56
-pb is : [D@16b98e56
-pb is : [D@16b98e56
-nope1.7976931348623157E308
-pb is : [D@7ef20235
-pb is : [D@7ef20235
-pb is : [D@7ef20235
-pb is : [D@7ef20235
-pb is : [D@7ef20235
-nope1.7976931348623157E308
-pb is : [D@27d6c5e0
-pb is : [D@27d6c5e0
-pb is : [D@27d6c5e0
-pb is : [D@27d6c5e0
-pb is : [D@27d6c5e0
-nope1.7976931348623157E308
-pb is : [D@4f3f5b24
-pb is : [D@4f3f5b24
-pb is : [D@4f3f5b24
-pb is : [D@4f3f5b24
-pb is : [D@4f3f5b24
-nope1.7976931348623157E308
-pb is : [D@15aeb7ab
-pb is : [D@15aeb7ab
-pb is : [D@15aeb7ab
-pb is : [D@15aeb7ab
-pb is : [D@15aeb7ab
-nope1.7976931348623157E308
-pb is : [D@7b23ec81
-pb is : [D@7b23ec81
-pb is : [D@7b23ec81
-pb is : [D@7b23ec81
-pb is : [D@7b23ec81
-nope1.7976931348623157E308
-pb is : [D@6acbcfc0
-pb is : [D@6acbcfc0
-pb is : [D@6acbcfc0
-pb is : [D@6acbcfc0
-pb is : [D@6acbcfc0
-nope1.7976931348623157E308
-pb is : [D@5f184fc6
-pb is : [D@5f184fc6
-pb is : [D@5f184fc6
-pb is : [D@5f184fc6
-pb is : [D@5f184fc6
-nope1.7976931348623157E308
-pb is : [D@448139f0
-pb is : [D@448139f0
-pb is : [D@448139f0
-pb is : [D@448139f0
-pb is : [D@448139f0
-nope1.7976931348623157E308
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-pb is : [D@7cca494b
-nope1.7976931348623157E308
-pb is : [D@7ba4f24f
-pb is : [D@7ba4f24f
-pb is : [D@7ba4f24f
-pb is : [D@7ba4f24f
-pb is : [D@7ba4f24f
-nope1.7976931348623157E308
-pb is : [D@3b9a45b3
-pb is : [D@3b9a45b3
-pb is : [D@3b9a45b3
-pb is : [D@3b9a45b3
-pb is : [D@3b9a45b3
-nope1.7976931348623157E308
-pb is : [D@7699a589
-pb is : [D@7699a589
-pb is : [D@7699a589
-pb is : [D@7699a589
-pb is : [D@7699a589
-nope1.7976931348623157E308
-pb is : [D@58372a00
-pb is : [D@58372a00
-pb is : [D@58372a00
-pb is : [D@58372a00
-pb is : [D@58372a00
-nope1.7976931348623157E308
-pb is : [D@4dd8dc3
-pb is : [D@4dd8dc3
-pb is : [D@4dd8dc3
-pb is : [D@4dd8dc3
-pb is : [D@4dd8dc3
-nope1.7976931348623157E308
-pb is : [D@6d03e736
-pb is : [D@6d03e736
-pb is : [D@6d03e736
-pb is : [D@6d03e736
-pb is : [D@6d03e736
-nope1.7976931348623157E308
-pb is : [D@568db2f2
-pb is : [D@568db2f2
-pb is : [D@568db2f2
-pb is : [D@568db2f2
-pb is : [D@568db2f2
-nope1.7976931348623157E308
-pb is : [D@378bf509
-pb is : [D@378bf509
-pb is : [D@378bf509
-pb is : [D@378bf509
-pb is : [D@378bf509
-nope1.7976931348623157E308
-pb is : [D@5fd0d5ae
-pb is : [D@5fd0d5ae
-pb is : [D@5fd0d5ae
-pb is : [D@5fd0d5ae
-pb is : [D@5fd0d5ae
-nope1.7976931348623157E308
-pb is : [D@2d98a335
-pb is : [D@2d98a335
-pb is : [D@2d98a335
-pb is : [D@2d98a335
-pb is : [D@2d98a335
-nope1.7976931348623157E308
-pb is : [D@16b98e56
-pb is : [D@16b98e56
-pb is : [D@16b98e56
-pb is : [D@16b98e56
-pb is : [D@16b98e56
-nope1.7976931348623157E308
-pb is : [D@7ef20235
-pb is : [D@7ef20235
-pb is : [D@7ef20235
-pb is : [D@7ef20235
-pb is : [D@7ef20235
-nope1.7976931348623157E308
-pb is : [D@27d6c5e0
-pb is : [D@27d6c5e0
-pb is : [D@27d6c5e0
-pb is : [D@27d6c5e0
-pb is : [D@27d6c5e0
-nope1.7976931348623157E308
-pb is : [D@4f3f5b24
-pb is : [D@4f3f5b24
-pb is : [D@4f3f5b24
-pb is : [D@4f3f5b24
-pb is : [D@4f3f5b24
-nope1.7976931348623157E308
-pb is : [D@15aeb7ab
-pb is : [D@15aeb7ab
-pb is : [D@15aeb7ab
-pb is : [D@15aeb7ab
-pb is : [D@15aeb7ab
-nope1.7976931348623157E308
-pb is : [D@7b23ec81
-pb is : [D@7b23ec81
-pb is : [D@7b23ec81
-pb is : [D@7b23ec81
-pb is : [D@7b23ec81
-nope1.7976931348623157E308
-pb is : [D@6acbcfc0
-pb is : [D@6acbcfc0
-pb is : [D@6acbcfc0
-pb is : [D@6acbcfc0
-pb is : [D@6acbcfc0
-nope1.7976931348623157E308
-pb is : [D@5f184fc6
-pb is : [D@5f184fc6
-pb is : [D@5f184fc6
-pb is : [D@5f184fc6
-pb is : [D@5f184fc6
-nope1.7976931348623157E308
-ALL SSL 15.201120352615145
-ALL SSL 18.32087722399089
-ALL SSL 19.76436614475299
-ALL SSL 23.95049444467011
-ALL SSL 14.428557479310403
-ALL SSL 13.406957241761344
-ALL SSL 16.769824788102902
-ALL SSL 24.44423516884715
-ALL SSL 10.26778870226558
-ALL SSL 24.35624094465775
-ALL SSL 21.18674795726725
-ALL SSL 16.671548847297863
-ALL SSL 20.056426455584262
-ALL SSL 20.09989174401387
-ALL SSL 9.749592099906259
-ALL SSL 20.426240209262314
-ALL SSL 13.553049683873988
-ALL SSL 18.96000834027076
-ALL SSL 16.74766578168105
-ALL SSL 21.55520399250255
-india 9.749592099906259

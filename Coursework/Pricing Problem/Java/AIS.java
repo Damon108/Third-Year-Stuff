@@ -35,8 +35,9 @@ public class AIS {
 
 		for (Map.Entry<ArrayList<double[]>, Double> me : hmap.entrySet()) {
 
-			System.out.println("Key is " + me.getKey() + " " + "value : " + me.getValue());
+			System.out.println("Key is at the end" + me.getKey() + " " + "value end: " + me.getValue());
 		}
+
 		// getBestFitness();
 		// createInitialPop();
 
@@ -64,7 +65,8 @@ public class AIS {
 
 		}
 
-		getBestFitness();
+		NormaliseFitness();
+		clone();
 		return solutions;
 	}
 
@@ -87,17 +89,71 @@ public class AIS {
 	}
 
 	private double getBestFitness() {
-	//	Map.Entry<ArrayList<double[]>, Double> entry = hmap.entrySet().iterator().next();
+		// Map.Entry<ArrayList<double[]>, Double> entry =
+		// hmap.entrySet().iterator().next();
 		// normalisedFitness = entry.getValue();
 		normalisedFitness = Collections.max(hmap.values());
 
-		
 		System.out.println("best revenue is " + normalisedFitness);
 		return normalisedFitness;
 	}
-	
-	private void NormaliseFitness(){
+
+	private double[] NormaliseFitness() {
 		double[] nF = new double[u];
-		
+		int i = 0;
+		for (Map.Entry<ArrayList<double[]>, Double> me : hmap.entrySet()) {
+			nF[i] = me.getValue() / getBestFitness();
+			// System.out.println("Key is " + me.getKey() + " " + "value : " +
+			// me.getValue());
+			System.out.println("normalised Fitness " + nF[i]);
+			i++;
+		}
+		return nF;
+	}
+
+	public HashMap<ArrayList<double[]>, Double> clone() {
+		HashMap<ArrayList<double[]>, Double> clone1 = new HashMap<ArrayList<double[]>, Double>();
+		clone1 = hmap;
+		for (Map.Entry<ArrayList<double[]>, Double> me : clone1.entrySet()) {
+
+			System.out.println("clone Key is at the end" + me.getKey() + " " + "clone value end: " + me.getValue());
+		}
+
+		return clone1;
+	}
+
+	private void contigMutate(int p, int l) {
+		ArrayList<HashMap<ArrayList<double[]>, Double>> clonalPool = new ArrayList<HashMap<ArrayList<double[]>, Double>>();
+		clonalPool = createClonalPool();
+		double[] tempPrices = new double[numberofGoods];
+		p = 4;
+		l = -p * NormaliseFitness();
+		// double mutationRate;
+		int hotspot;
+		Random rnd = new Random();
+		for (HashMap<ArrayList<double[]>, Double> solutions : clonalPool) {
+			for (ArrayList<double[]> priceSolutions : solutions.keySet()) {
+
+				for (double[] prices : priceSolutions) {
+					// mutation of prices
+					for (int i = p; i < p + l; i++) {
+						prices[i] = (-prices[i] * NormaliseFitness()[i]);
+					}
+					tempPrices = prices;
+				}
+
+			}
+		}
+		// p = rnd.nextInt(numberofGoods);
+		// l = numberofGoods * mutationRate;
+	}
+
+	public ArrayList<HashMap<ArrayList<double[]>, Double>> createClonalPool() {
+		int numOfClones = 5;
+		ArrayList<HashMap<ArrayList<double[]>, Double>> clones = new ArrayList<HashMap<ArrayList<double[]>, Double>>();
+		for (int i = 0; i < numOfClones; i++) {
+			clones.add(clone());
+		}
+		return clones;
 	}
 }
