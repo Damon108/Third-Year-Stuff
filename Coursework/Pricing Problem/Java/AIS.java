@@ -128,21 +128,27 @@ public class AIS {
 		double[] tempPrices = new double[numberofGoods];
 		p = 4;
 		l = -p * NormaliseFitness();
+		double mutationRate = 0;
 		// double mutationRate;
 		int hotspot;
 		Random rnd = new Random();
 		for (HashMap<ArrayList<double[]>, Double> solutions : clonalPool) {
+			int counter =0;
 			for (ArrayList<double[]> priceSolutions : solutions.keySet()) {
-
+				mutationRate = -p * NormaliseFitness()[counter];
+				
 				for (double[] prices : priceSolutions) {
-					// mutation of prices
-					for (int i = p; i < p + l; i++) {
-						prices[i] = (-prices[i] * NormaliseFitness()[i]);
+				double length = numberofGoods * mutationRate;
+					
+					for (int i = p; i < length; i++) {
+					
+						prices[i] = (-prices[i] * NormaliseFitness()[counter]);
 					}
 					tempPrices = prices;
 				}
-
+				counter++;
 			}
+			
 		}
 		// p = rnd.nextInt(numberofGoods);
 		// l = numberofGoods * mutationRate;
