@@ -1,5 +1,6 @@
 
 public class Particle {
+	// Initialising particle variables
 	private double[] velocity;
 	private double[] cPrices;
 	private double[] pbPrices;
@@ -11,36 +12,39 @@ public class Particle {
 		this.pbPrices = pbPrices;
 		this.BestRevenue = BestRevenue;
 	}
+
 	
 	public double[] getPB() {
 
 		System.out.println("pb is : " + pbPrices);
 
-		// System.out.println("pb is : " +pbPrices);
-
 		return pbPrices;
 	}
 
+	
 	public void savePB(double[] cPrices) {
 		pbPrices = cPrices;
 	}
 
+	
 	public void savecPrices(double[] cPrices) {
 		this.cPrices = cPrices;
 
 	}
 
+	
 	public double[] getcPrices() {
-		// System.out.println("pb is : " +pbPrices);
+
 		return cPrices;
 	}
 
+	
 	public void saveRevenue(double newRevenue) {
 		BestRevenue = newRevenue;
 	}
 
 	public double getRevenue() {
-		// System.out.println("SSL is : " + SSLValue);
+
 		return BestRevenue;
 	}
 
@@ -53,5 +57,3 @@ public class Particle {
 		velocity = newVelocity;
 	}
 }
-
-
