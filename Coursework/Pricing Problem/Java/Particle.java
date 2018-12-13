@@ -16,7 +16,7 @@ public class Particle {
 	
 	public double[] getPB() {
 
-		System.out.println("pb is : " + pbPrices);
+		
 
 		return pbPrices;
 	}

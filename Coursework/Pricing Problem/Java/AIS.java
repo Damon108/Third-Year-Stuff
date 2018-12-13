@@ -31,9 +31,10 @@ public class AIS {
 	}
 
 	public void run() {
+		int iter_max =200;
 		generateRandomparentPrices();
 
-		for (int i = 0; i < 1000; i++) {
+		for (int i = 0; i < iter_max; i++) {
 			ais();
 
 		}
@@ -143,6 +144,7 @@ public class AIS {
 		return bestRevenue;
 	}
 
+	
 	/**
 	 * Creates a set of clones that is set by variable numOfClones. And adds the
 	 * array to an arraylist
@@ -151,13 +153,13 @@ public class AIS {
 	 */
 	public ArrayList<PriceList[]> createClonalPool() {
 		int numOfClones = 5;
-
+	
 		ArrayList<PriceList[]> clones = new ArrayList<PriceList[]>();
 		for (int i = 0; i < numOfClones; i++) {
-
+	
 			clones.add(clone());
 		}
-
+	
 		return clones;
 	}
 
@@ -203,14 +205,16 @@ public class AIS {
 				
 
 				// Set Rho variable
-				p = 5;
+				p = 1;
 
+				//Set mutation rate
 				mutationRate = Math.exp(-p * NormaliseFitness()[counter]);
 
 				guassian = (rnd.nextDouble() * 2) - 1;
 
 				System.out.println("mutation Rate is " + mutationRate);
 
+				// Set length to find contiguous region
 				int length = (int) Math.round((numberofGoods * mutationRate));
 
 				System.out.println("length is " + length);

@@ -51,7 +51,7 @@ public class PSO {
 		int population = 50;
 		Random rnd = new Random();
 		// Number of iterations to run the algorithm
-		int iter_max = 4000;
+		int iter_max = 200;
 
 		// Global best (swarm's best revenue)
 		double bestRevenue = 0;
