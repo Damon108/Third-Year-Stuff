@@ -1,0 +1,20 @@
+Fri Oct 18 12:43:34 1991
+topo4
+PERMANENT
+grass
+cell
+Interpolated from digitized contour data at 20m intervals.
+
+Digital elevation model.
+Contour data digitized using Arc/Info's ADS program.
+Ungenerated into and an ASCII file and moved into GRASS using
+v.in.arc (alpha release).
+Interpolated using r.surf.contour.
+
+Data used as part of project ASSIST's "Getting started in GIS"
+
+Academic
+Support for
+Spatial
+Information
+SysTems

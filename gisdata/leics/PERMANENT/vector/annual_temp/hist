@@ -1,0 +1,6 @@
+COMMAND: v.in.ascii -z input="F:\gisdata\t_annual_max(1)" output="annual_temp" format="point" separator="pipe" text="doublequote" skip=2 x=1 y=2 z=3 cat=0
+GISDBASE: F:\gisdata
+LOCATION: leics MAPSET: PERMANENT USER: Damon DATE: Tue Feb 26 19:26:31 2019
+HEADER: (2 lines)
+name|t_annual_max
+desc|s.in.ascii sites=t_annual_max input=t_annual_max.txt fs=space

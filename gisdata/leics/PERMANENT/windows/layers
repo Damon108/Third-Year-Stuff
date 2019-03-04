@@ -1,0 +1,10 @@
+proj:       1
+zone:       0
+north:      317750
+south:      314800
+east:       456000
+west:       453450
+cols:       102
+rows:       118
+e-w resol:  25
+n-s resol:  25
