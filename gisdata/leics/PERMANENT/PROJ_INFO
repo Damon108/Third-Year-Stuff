@@ -1,0 +1,11 @@
+name: Transverse Mercator
+proj: tmerc
+datum: osgb36
+ellps: airy
+lat_0: 49
+lon_0: -2
+k: 0.9996012717
+x_0: 400000
+y_0: -100000
+no_defs: defined
+towgs84: 368.000,-120.000,425.000

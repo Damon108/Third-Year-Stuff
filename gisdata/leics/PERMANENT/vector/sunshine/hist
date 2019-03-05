@@ -1,0 +1,6 @@
+COMMAND: v.in.ascii -z input="F:\gisdata\sunshine(1)" output="sunshine" format="point" separator="pipe" text="doublequote" skip=2 x=1 y=2 z=3 cat=0
+GISDBASE: F:\gisdata
+LOCATION: leics MAPSET: PERMANENT USER: Damon DATE: Tue Feb 26 19:22:08 2019
+HEADER: (2 lines)
+name|sunshine
+desc|s.in.ascii sites=sunshine input=sunshine.txt fs=space

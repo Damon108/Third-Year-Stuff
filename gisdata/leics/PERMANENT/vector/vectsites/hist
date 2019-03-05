@@ -1,0 +1,3 @@
+COMMAND: r.to.vect -s input="sites5" output="vectsites" type="area" column="value"
+GISDBASE: H:\gisdata
+LOCATION: leics MAPSET: PERMANENT USER: trand3 DATE: Tue Feb 12 14:40:00 2019
